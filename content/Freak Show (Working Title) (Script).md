@@ -79,7 +79,7 @@ Each of the spots on the pedestal features a symbol which hints at which of the 
 With only one gas canister, it is also possible to connect to a platform off to the side with a mounted swivel chair and two levers labeled “Up/Down” and “Left/Right.” When the device is powered, moving these levers will cause a spotlight mounted on a tall, wide pole to rotate up, down, left, and right.
 
 There is also a compartment with a door lower on the pole labeled “insert lighting element.” Placing the lantern inside this compartment provides light for the limelight to magnify, causing it to shine a bright beam of light. This allows players to examine faraway details in the environment more closely.
-## Puzzle 6: Wheel of Death
+## [[Puzzle 6 - Wheel of Death]]
 Once enough gas canisters have been found and attached to the main pump, the gas flame becomes able to travel far enough to reach the Wheel of Death. Once players route the gas through the pipes to the part of the room where the wheel of death is, several flickering gas lamps flicker on, illuminating the area, and an engine begins slowly turning the wheel.
 
 The wheel of death has the corpse of a young woman tied to it. A knife has hit a bulls-eye and gored the poor woman in the stomach. There are also slots that appear to be knife holes on the surface of the wheel, and a small crate containing four knives.
