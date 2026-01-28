@@ -1,6 +1,10 @@
 ---
 publish: true
+created: 2026-01-28T13:08:19.566-08:00
+modified: 2026-01-28T13:07:50.337-08:00
+cssclasses: ""
 ---
+
 #carpentry #tech #painting #decoration 
 # Puzzle Specifications
 # Build Specifications
