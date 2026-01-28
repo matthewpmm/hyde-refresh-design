@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Revised 1/26/2026 – Draft 1*
 # Puzzle Flow
 
