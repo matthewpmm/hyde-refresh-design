@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.559-08:00
-modified: 2026-01-28T13:23:53.823-08:00
+modified: 2026-02-04T19:06:55.178-08:00
 cssclasses: ""
 ---
 
 Welcome to the design documentation for the refresh of Hyde Circus.
+
+For additional files related to the production of the room, please see this [Google Drive folder](https://docs.google.com/spreadsheets/d/1PQV7UW4Lw92RbwLhgc-cNFM12vl-mxJoRh4LyOlhq_s/edit?usp=drive_link).
 
 For aesthetic, tone, and style reference, please see this [Pinterest board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/).
 
