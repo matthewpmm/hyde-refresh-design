@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-05T19:07:07.243-08:00
+modified: 2026-02-05T19:17:40.105-08:00
 cssclasses: ""
 ---
 
@@ -36,11 +36,13 @@ Upon boarding the train car, guests find that the left side of the hallway conta
 
 The lights inside and outside the train flash in psychedelic colors as the train leaves our dimension and approaches the nightmare dimension in which Hyde Circus resides.
 
-Suddenly, a gravelly voice (**[[Creative Technology/The Contortionist]]**) begins to speak from a pipe in the wall.
+Suddenly, a gravelly voice (**[[Creative Technology/The Contortionist]]**) begins to speak from a [[Props/Contortionist's Train Pipe\|pipe in the wall]] with a [[Creative Technology/Door Knocker\|door knocker]] next to it.
 
-> _“Hey. You. Travelers. Yes, all of you. Can you hear me? Come over here, to the corner._
+> "Travelers. Yes, all of you. Can you hear me? Come over here, to the corner.
 > 
-> *This train is taking us to a terrible place. You must stop it as soon as you can, before we reach the circus. If we reach it, we will be beyond help.”*
+> This train is taking you to a terrible place. You must stop it as soon as you can, before we reach the circus, or you will be beyond help.
+> 
+> I will offer you aid. If you need assistance to escape this place, simply knock."
 ## Puzzle 1: The First Gas Pump
 Next to a flickering candle flame on the opposite side of the room from the brake lever, players find a metal **gas canister** and a small device (the **train gas pump**) that looks like the lid of the canister can be attached to it. Once they connect the two, a flame inside the device flickers to life and a pipe connected to it slowly fills with flame. This is a gas pump. As the players have just seen, connecting a gas canister to a gas pump will cause it to push flame through any connected pipes.
 
