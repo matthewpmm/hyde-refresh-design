@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-05T19:17:40.105-08:00
+modified: 2026-02-10T15:25:48.972-08:00
 cssclasses: ""
 ---
 
@@ -32,60 +32,68 @@ The letter reads:
 
 Guests may now make their way down the hallway, following the [[Props/Hyde Circus Express Signs\|signs pointing towards the Hyde Circus express]].
 # [[Scenic Design/Train Car (Passenger Rooms)]]
-Upon boarding the train car, guests find that the left side of the hallway contains a locked **[[Scenic Design/Engine Room]]**, while the right side is accessible. This room contains a locked safe, a **[[Gas Canister]]**, the **[[Creative Technology/Train Gas Pump]]**, a series of **[[Creative Technology/Gas Pipes]]** and **[[Creative Technology/Gas Valves]]**, as well as two levers: the **[[Creative Technology/Start Lever and Brake Lever]]**, the latter of which is locked with a rusty chain. After the train door shuts behind them, guests pull the start lever to start the train. The train shudders and shakes as the engine sputters to life and the train begins moving, indicated by lights moving past the windows.
+Upon boarding the train car, guests find that the left side of the hallway contains a locked [[Scenic Design/Engine Room]], while the right side is accessible. This room contains a locked safe, a [[Props/Gas Canister]], the [[Creative Technology/Gas Pump (Train)]], a series of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]], as well as two levers: the [[Creative Technology/Start Lever and Brake Lever]], the latter of which is locked with a rusty chain. After the train door shuts behind them, guests pull the start lever to start the train. The train shudders and shakes as the engine sputters to life and the train begins moving, indicated by lights moving past the windows.
 
 The lights inside and outside the train flash in psychedelic colors as the train leaves our dimension and approaches the nightmare dimension in which Hyde Circus resides.
 
-Suddenly, a gravelly voice (**[[Creative Technology/The Contortionist]]**) begins to speak from a [[Props/Contortionist's Train Pipe\|pipe in the wall]] with a [[Creative Technology/Door Knocker\|door knocker]] next to it.
+Suddenly, a gravelly voice ([[Creative Technology/The Contortionist]]) begins to speak from a [[Props/Contortionist's Train Pipe\|pipe in the wall]] with a [[Creative Technology/Door Knocker\|door knocker]] next to it.
 
 > "Travelers. Yes, all of you. Can you hear me? Come over here, to the corner.
 > 
 > This train is taking you to a terrible place. You must stop it as soon as you can, before we reach the circus, or you will be beyond help.
 > 
 > I will offer you aid. If you need assistance to escape this place, simply knock."
-## Puzzle 1: The First Gas Pump
-Next to a flickering candle flame on the opposite side of the room from the brake lever, players find a metal **gas canister** and a small device (the **train gas pump**) that looks like the lid of the canister can be attached to it. Once they connect the two, a flame inside the device flickers to life and a pipe connected to it slowly fills with flame. This is a gas pump. As the players have just seen, connecting a gas canister to a gas pump will cause it to push flame through any connected pipes.
+## [[Puzzle Design/Puzzle 1 - The Train Gas Pump]]
+Next to a flickering candle flame on the opposite side of the room from the brake lever, players find a metal [[Props/Gas Canister]] and a small device (a [[Creative Technology/Gas Pump (Train)\|gas pump]]) which connects to a [[Creative Technology/Gas Pipes\|pipe]] network attached to the walls and ceiling. Through observation, players notice that the lid of the canister can fit into a connector sticking out of the pump. Once they connect the two, a flame inside the pump flickers to life and the pipe connected to it slowly fills with flame.
 
-The flame stops spreading through the pipe once it hits a **valve**. When players turn this valve, the flame can be set to travel in one of several different directions. Players must use the series of valves to re-route the path of the gas flame through the pipe network until it reaches the end – a safe with a mechanical lock. Connecting the safe to the flame causes the mechanical lock to trigger and open the safe. Inside the safe, players find the **gas lantern**.
-## Puzzle 2: Unlocking the Lever
-The gas lantern has a connector on the bottom just like the one on the gas pump. Removing the gas canister from the pump and attaching it to the lantern causes the lantern to illuminate, providing a portable source of light. Once players bring the lantern over to the brake lever, they are able to clearly see a set of instructions for how to unlock the brake lever: route the flame from the gas pump to a different gas pipe output labeled “emergency release.”
+Players have now learned that connecting a gas canister to a gas pump will cause it to push flame through any connected pipes.
 
-Players must detach the gas canister from the lantern and reattach it to the pipe system, then change the routing of the flame to output to the “emergency release” pipe. Doing this causes the chain around the lever to suddenly loosen and drop to the floor, allowing the lever to be pulled.
+The flame stops spreading through the pipe once it hits a **valve**. When players turn this valve, the flame can be set to travel in one of several different directions. Players must use the series of valves to re-route the path of the gas flame through the pipe network until it reaches the end – a locked safe. Connecting the safe to the flame causes the safe to power on and open. Inside the safe, players find the [[Creative Technology/Gas Lantern]].
+## [[Puzzle Design/Puzzle 2 - Throwing the Brake Lever]]
+The gas lantern has a connector on the bottom just like the one on the gas pump. Removing the gas canister from the pump and attaching it to the lantern causes the lantern to illuminate, providing a portable source of light. Once players bring the lantern over to the brake lever, they become able to clearly see a set of instructions for how to unlock the brake lever: *route the flame from the gas pump to a different gas pipe output labeled “emergency release.”*
 
-Once the brake lever has been pulled, the train screeches to a shuddering halt, and the train car door slowly creaks open to reveal the courtyard.
-# Courtyard
+*Players must now detach the gas canister from the lantern and reattach it to the pipe system, then change the routing of the flame to output to the “emergency release” pipe. Doing this causes the chain around the lever to suddenly loosen, allowing the lever to be pulled.*
+
+Once the brake lever has been pulled, the train begins to screech and starts shaking violently. A train whistle blows. The lights intermittently passing by the window become blinding. A loud bell begins to chime.
+
+Suddenly, all lights and sound cut out completely for a moment. Then, it all comes back. A bright strobe light flashes as a bell chimes quickly and the train shakes violently. As the rumbling subsides, the lights and sound cut out and the gas flames flicker back to life.
+
+As the train car door slowly creaks open to reveal the courtyard, players realize that they have been transported to another world - a darker, stranger world.
+# [[Scenic Design/Courtyard]]
 Players descend the steps down from the train car and find themselves in the cold, dark, hazy courtyard outside the circus tent.
 
-The players, the train car, the courtyard, and the circus all appear to be in some sort of nightmare world, indicated by the swirling void projected onto the ceiling. A glowing moon is suspended from above.
+The players, the train car, the courtyard, and the circus all appear to be in some sort of nightmare world, indicated by the swirling starry vortex projected onto the ceiling. Three glowing [[Props/Moons\|moons]] are suspended from above - two full, one a waning crescent.
 
-The courtyard also contains a **Wheel of Death** connected to the gas pipes, a small tent labeled “**Pickled Punks**,” a platform with a **limelight** and control panel, and the desiccated body of an **acrobat** hanging from the sky.
+The courtyard contains a [[Creative Technology/Gas Pump (Courtyard)\|gas pump]] like the one inside the train (except much larger) connected to a large network of [[Creative Technology/Gas Pipes\|gas pipes]] that weave around the courtyard in intricate patterns, a small tent with a sign reading "[[Puzzle Design/Puzzle 4 - Pickled Punks\|Pickled Punks]]” connected to the gas pipes, a [[Puzzle Design/Puzzle 6 - Wheel of Death\|Wheel of Death]] also connected to the gas pipes, a limelight, and the desiccated body of an [[Props/Acrobat\|acrobat]] hanging from the sky.
 
-A very small cage suspended from the roof of the train car contains an emaciated woman (The Contortionist) grotesquely contorted to squeeze inside it. The wires of the cage dig into her sallow skin. She seems to be in constant anguish. Below her is a small **hint bell**.
+A very small cage suspended from the roof of the train car contains an emaciated woman grotesquely contorted to squeeze inside it. This is [[Creative Technology/The Contortionist]]. The wires of the cage dig into her sallow skin. She seems to be in constant anguish. Below her is a hanging [[Creative Technology/Hint Bell]] which players can ring to receive hints related to their current puzzle.
 
-The woman speaks to the players as they enter the courtyard:
+The Contortionist speaks to the players as they enter the courtyard:
 
-> _“It is too late. Oh, how terrible a place we have found ourselves. Travelers, I am the contortionist, the last living performer of Hyde Circus. A terrible fate has befallen this once great circus. The Ringmaster was a man of hubris, and a collector of rarities. It is all the doing of that cursed talisman, the Ankh of Anubis. It cleaved us from the world of mortals and cursed the circus to a half-life in this place between worlds, beyond time and space._
+> “You poor souls. You failed to stop the train before it could reach its sorrowful destination. Now it is too late for you too.
 > 
-> _Travelers, it is too late for us, but it is not too late for you. You must find the Ankh and use its power to escape. But beware – this place is warped, beyond reality, and full of tricks. The big top itself was barricaded long ago and requires fuel to open the locking mechanism. The Ankh should be beyond the door – now go. Should you need my aid, ring the bell below and I will offer any advice I can.”_
+> Travelers, I am The Contortionist, the last living performer of the once-great Hyde Circus. Long ago, people would come from far and wide to see our troupe, but after many years our act became stale and our bodies tired and fragile. The ringmaster, desperate to maintain his status and relevance, turned the circus into a lurid sideshow, a crass menagerie of nightmarish creatures and haunted ancient artifacts.
+> 
+> Somehow, the night before our re-opening, the circus was swallowed whole from the world of mortals and cursed to an endless half-life in this nightmarish world between worlds, beyond time and space.
+> 
+> Travelers, I know not how this place was cursed, but The Ringmaster must – your only chance is to find him and compel him to aid your escape. Do what you must. But beware – this place is warped, outside reality, full of tricks. Should you need my aid, ring the bell below and I will offer what advice I can.”
+## [[Puzzle Design/Puzzle 3 - Starting the Courtyard Gas Pump]]
+Attached to the larger [[Creative Technology/Gas Pump (Courtyard)\|gas pump]] are the courtyard are three input connectors for [[Props/Gas Canister]] just like the one in the train.
 
-Players can now split up to explore the courtyard. The courtyard contains a **gas pump**, which connects to many **gas pipes** that weave around the walls of the courtyard in intricate patterns, intersecting at various **junctions** and **valves**. The pipes connect to various mechanical devices around the courtyard, including the **mirror maze lock** which is currently barricading the door to the next room.
-## Puzzle 3: Starting the Gas Pump
-Against one of the walls is a large mechanical device labeled “Gas Pump” which contains a small, flickering pilot light. Attached to it is a series of input connectors for gas canisters just like the one in Puzzle 1.
-
-Players realize they can disconnect the canister they used for that puzzle and connect it to this device instead. Once they do so, the flame in the central furnace suddenly ignites, and the pipes illuminate with flickering flame. Eventually, after the ignited gas has traveled a certain distance through the pipes, it fades out as it runs out of fuel. Adding more gas canisters as they are found increases the distance the gas can travel through the pipes.
+Players can connect the canister they found in the train to this device instead. Once they do so, the flame in the central furnace suddenly ignites, and the pipes illuminate with flickering flame. Eventually, after the ignited gas has traveled a certain distance through the pipes, it fades out as it runs out of fuel. Adding more gas canisters as they are found increases the distance the gas can travel through the pipes.
 
 Along the path of the gas pipes, there are junctions where the gas flow can split into multiple paths. If this happens, the remaining distance the gas can travel along each path is divided by the number of paths it is split into; for example, gas entering a three-way junction will split into the two available output paths, halving its remaining travel distance. A four-way junction will split the travel distance into thirds because of its three output paths. Likewise, if gas is already split into two different paths and rejoins at a junction, the total travel distance will sum.
 
 Some junctions have circular valves connected which can be manually rotated to choose the output path of a given junction.
 
 With only one gas canister connected to the gas pump, it is possible to power both the Pickled Punks and the limelight puzzles at the same time if routed correctly, but only fully solve one of them.
-## Puzzle 4: Pickled Punks
+## [[Puzzle Design/Puzzle 4 - Pickled Punks]]
 Nearby the gas pump is a tent labeled “Pickled Punks” which has a pipe leading into it which connects to the gas pump pipe network. Once players successfully route the path of the gas to this tent, the entire tent illuminates from inside and the curtains fall open.
 
 Inside the tent are shelves containing a multitude of specimens of bizarre creatures preserved in jars illuminated by flickering gas flames, as well as a pedestal with clearly indicated spots for five jars to be placed. All the jars on the shelves are fixed in place, save for five with red lids.
 
 Each of the spots on the pedestal features a symbol which hints at which of the five jars should be placed on it. When all five of the correct jars are placed on the correct pedestals, a compartment in the front of the pedestal opens, revealing a new gas canister.  
-## Puzzle 5: The Limelight
+## [[Puzzle Design/Puzzle 5 - The Limelight]]
 With only one gas canister, it is also possible to connect to a platform off to the side with a mounted swivel chair and two levers labeled “Up/Down” and “Left/Right.” When the device is powered, moving these levers will cause a spotlight mounted on a tall, wide pole to rotate up, down, left, and right.
 
 There is also a compartment with a door lower on the pole labeled “insert lighting element.” Placing the lantern inside this compartment provides light for the limelight to magnify, causing it to shine a bright beam of light. This allows players to examine faraway details in the environment more closely.
