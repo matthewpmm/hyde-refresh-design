@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-10T15:25:48.972-08:00
+modified: 2026-02-11T18:13:00.764-08:00
 cssclasses: ""
 ---
 
@@ -80,19 +80,19 @@ The Contortionist speaks to the players as they enter the courtyard:
 ## [[Puzzle Design/Puzzle 3 - Starting the Courtyard Gas Pump]]
 Attached to the larger [[Creative Technology/Gas Pump (Courtyard)\|gas pump]] are the courtyard are three input connectors for [[Props/Gas Canister]] just like the one in the train.
 
-Players can connect the canister they found in the train to this device instead. Once they do so, the flame in the central furnace suddenly ignites, and the pipes illuminate with flickering flame. Eventually, after the ignited gas has traveled a certain distance through the pipes, it fades out as it runs out of fuel. Adding more gas canisters as they are found increases the distance the gas can travel through the pipes.
+Players can connect the canister they found in the train to this device instead. Once they do so, the flame in the central furnace suddenly ignites, and the output pipe illuminates with flickering flame. Eventually, after the ignited gas has traveled a certain distance through the pipes, it fades out as it runs out of fuel.
 
-Along the path of the gas pipes, there are junctions where the gas flow can split into multiple paths. If this happens, the remaining distance the gas can travel along each path is divided by the number of paths it is split into; for example, gas entering a three-way junction will split into the two available output paths, halving its remaining travel distance. A four-way junction will split the travel distance into thirds because of its three output paths. Likewise, if gas is already split into two different paths and rejoins at a junction, the total travel distance will sum.
+Just like the small pipe network in the train, there are valves along the path of this larger pipe network where the gas flow can be redirected to one of several paths by rotating the valve. However, this pipe network is much larger, and some routes will also split gas flow into multiple different paths. If this happens, the remaining distance the gas can travel from the pump is divided by the number of paths it is split into; for example, gas entering a three-way junction will split into the two available output paths, halving its remaining travel distance. A four-way junction will split the travel distance into thirds because of its three output paths. Likewise, if gas is already split into two different paths and rejoins at a junction, the total travel distance will sum.
 
-Some junctions have circular valves connected which can be manually rotated to choose the output path of a given junction.
+_TO DO: Add diagram here_
 
-With only one gas canister connected to the gas pump, it is possible to power both the Pickled Punks and the limelight puzzles at the same time if routed correctly, but only fully solve one of them.
+With only one gas canister connected to the gas pump, it is possible to power both the [[Puzzle Design/Puzzle 4 - Pickled Punks\|Pickled Punks]] and the [[Puzzle Design/Puzzle 5 - The Limelight\|Limelight]] puzzles at the same time by routing the gas correctly, but only to fully solve one of them.
 ## [[Puzzle Design/Puzzle 4 - Pickled Punks]]
-Nearby the gas pump is a tent labeled “Pickled Punks” which has a pipe leading into it which connects to the gas pump pipe network. Once players successfully route the path of the gas to this tent, the entire tent illuminates from inside and the curtains fall open.
+Not far from the the gas pump is a tent labeled “Pickled Punks” which has a pipe from the gas network leading into it. A curtain fixed to the front prevents players from accessing the inside. Once players successfully route the path of the gas to this tent, the entire tent illuminates from inside and the curtains fall open.
 
-Inside the tent are shelves containing a multitude of specimens of bizarre creatures preserved in jars illuminated by flickering gas flames, as well as a pedestal with clearly indicated spots for five jars to be placed. All the jars on the shelves are fixed in place, save for five with red lids.
+Inside the tent are shelves containing a multitude of [specimens of bizarre creatures preserved in jars of amber fluid](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs) illuminated by flickering gas lamps, as well as a pedestal with clearly indicated spots for five jars to be placed. All the jars on the shelves are fixed in place, save for five with a blue preservative fluid.
 
-Each of the spots on the pedestal features a symbol which hints at which of the five jars should be placed on it. When all five of the correct jars are placed on the correct pedestals, a compartment in the front of the pedestal opens, revealing a new gas canister.  
+Each of the spots on the pedestal features a symbol which hints at which of the five jars should be placed on it. When all five of the correct jars are placed on the correct pedestals, a compartment in the front of the pedestal opens, revealing a new gas canister.
 ## [[Puzzle Design/Puzzle 5 - The Limelight]]
 With only one gas canister, it is also possible to connect to a platform off to the side with a mounted swivel chair and two levers labeled “Up/Down” and “Left/Right.” When the device is powered, moving these levers will cause a spotlight mounted on a tall, wide pole to rotate up, down, left, and right.
 
