@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-12T12:55:54.820-08:00
+modified: 2026-02-12T14:37:34.144-08:00
 cssclasses: ""
 ---
 
@@ -44,7 +44,7 @@ Suddenly, a gravelly voice ([[Creative Technology/The Contortionist]]) begins to
 > 
 > I will offer you aid. If you need assistance to escape this place, simply knock."
 
-The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background.
+The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]] for their puzzles, guests may use the door knocker.
 ## [[Puzzle Design/Puzzle 1 - The Train Gas Pump]]
 Next to a flickering candle flame on the opposite side of the room from the brake lever, players find a metal [[Props/Gas Canister]] and a small device (a [[Creative Technology/Gas Pump (Train)\|gas pump]]) which connects to a [[Creative Technology/Gas Pipes\|pipe]] network attached to the walls and ceiling. Through observation, players notice that the lid of the canister can fit into a connector sticking out of the pump. Once they connect the two, a flame inside the pump flickers to life and the pipe connected to it slowly fills with flame.
 
@@ -137,33 +137,33 @@ Now that players have acquired three tanks, they can fully power the gas pump by
 
 Players must now route the flame through the most challenging series of junctions yet, stretching all the way around the courtyard and slowly illuminating the entire space in the process.
 
-Once the flame reaches the lock, a deep mechanical groaning is heard from inside the door. The groan slowly builds as the gas pump hisses and whistles, crescendoing as all the gas lights in the courtyard to flicker. For a moment, all the lights cut out before roaring back to life with a sudden bang and finally pushing the door to the [[Scenic Design/Hall of Mirrors]] open.
+Once the flame reaches the lock, a deep mechanical groaning is heard from inside the door. The groan slowly builds as the gas pump hisses and whistles, crescendoing as all the gas lights in the courtyard to flicker. For a moment, all the lights cut out before roaring back to life with a sudden bang and finally pushing the door to the [[Scenic Design/Hall of Mirrors]] open. The background music fades, replaced by the sound of wind.
 # [[Scenic Design/Hall of Mirrors]]
-Players venture into a hallway full of [[Props/Funhouse Mirrors\|funhouse mirrors]] with a checkered floor. Mounted on the wall are six large wheels mounted on an inverted triangular plaque.
-## [[Puzzle Design/Puzzle 8 - Pyramid of Wheels]]
-Inside the [[Scenic Design/Hall of Mirrors]] is a pyramid of six close-together rotating wheels with branching paths carved into them. The label on top of the pyramid reads _“There are no dead ends.”_ Players must rotate the wheels by hand until there are no dead ends remaining, and all paths connect to another path carved into an adjacent wheel.
+Players venture into a hallway full of [[Props/Funhouse Mirrors\|funhouse mirrors]] with a checkered floor. An oil lamp hanging from the ceiling illuminates the space, and a [[Creative Technology/Wheel Pyramid]] is mounted on the wall. The door automatically closes itself behind them when not being pushed open.
+## [[Puzzle Design/Puzzle 8 - Inverted Pyramid]]
+The [[Creative Technology/Wheel Pyramid]] is an inverted pyramid of six close-together rotating wheels with branching paths carved into them. A label on the pyramid reads _“All roads lead somewhere.”_ Players must rotate the wheels by hand until there are no remaining paths not connected to a path on an adjacent wheel.
 
-Once the first phase of the puzzle is completed, the lights in the hall of mirrors suddenly turn off, and bright blacklights turn on behind the one-way mirrors, revealing an alien scene and producing an infinity mirror effect that excludes the players themselves, creating the appearance that the players are in an infinite, unnatural, impossible recursive landscape.
-## [[Puzzle Design/Puzzle 9 - Infinite Wandering Eyes]]
-Once the players can see the infinity mirror scene, the wheels gain the ability to control fluorescent growths on the ground on the other side of the mirror, on each of which is at least one large eyeball. These eyeballs serve a similar function to the paths on the wheels, but instead of paths, each eye must be pointed at another eye. This time, however, instead of needing to align all the eyes in a self-contained triangle, the mirrors come into play, creating the appearance of four mirrored growths for each wheel, all forming a larger circle around a central growth. Each available eye must now account for both the eyes on the other side of the mirror as well as the real eyes next to them.
+Once the first phase of the puzzle is completed, the oil lamp suddenly turns off, and bright blacklights turn on behind the one-way mirrors, revealing an alien scene and producing an infinity mirror effect, creating the appearance that the players are in an infinite, unnatural, impossible landscape.
+## [[Puzzle Design/Puzzle 9 - Infinite Eyes]]
+Once the players can see the infinity mirror tableau, the wheels gain the ability to control [fluorescent growths](https://pin.it/60nlmyB07) on the ground on the other side of the mirror, on each of which is at least one large eyeball. These eyeballs serve a similar function to the paths on the wheels, but now, instead of paths, each eye must be pointed at another eye. This time, however, instead of needing to align all the eyes in a self-contained triangle, the mirrors come into play, creating the appearance of four mirrored growths for each wheel, all forming a larger circle around a central growth. Each available eye must now account for both the eyes on the other side of each adjacent mirror as well as the real eyes next to them.
 
-Once the eyes are aligned properly, the door to the big top illuminates and slowly creaks open.
+Once the eyes are aligned properly, the room rumbles, and the door to the big top creaks open.
 # [[Scenic Design/Big Top (Circus Tent)]]
-Players enter the dimly lit circus tent. After a few moments, a drumroll sounds and two fast-moving spotlights shine around the room.
+Players enter the dimly lit circus tent as the low rumble continues. After a few moments, a drumroll sounds and two fast-moving point spotlights shine around the room.
 
-An unknown voice (**The Ringmaster**) announces:
+An unknown voice ([[Props/The Ringmaster]]) echoes distantly not just inside the big top, but throughout the entire world:
 
 > _“Ladies and gentlemen, friends of all ages, it is time at last to begin the greatest show on earth!”_
 
-As the drumroll ends, a spotlight illuminates the **Ringmaster’s body** floating overhead. He is clutching at his neck, having been hung from his own whip.
+As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] floating overhead. He is clutching at his neck, having been hung from his own whip.
 ## [[Puzzle Design/Puzzle 10 - Creating Magic Flame]]
-After the spotlight fades, the circus tent becomes pitch black, and players must use the lantern to navigate.
+After the spotlight fades, the circus tent becomes pitch black, and players must use the lantern to navigate, returning to the courtyard to attach another gas tank to the lantern.
 
 Around the room, they find evidence of a struggle. Circus animals lay dead in their cages. Performers are strung up against the ceilings by ropes.
 
-Underneath a red cloth, the **Ankh of Anubis** is displayed proudly on a **pedestal** inside of a locked **display case**. A dramatic music spike plays when the Ankh is revealed.
+Underneath a red cloth, the [[Props/Ankh of Anubis]] is displayed proudly on a **pedestal** inside of a locked **display case**. A dramatic music spike plays when the Ankh is revealed.
 
-Players find a large, ornate, unlocked chest (the **Ringmaster’s chest**) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the **Ringmaster’s journal** and a bag of **earthly spice**.
+Players find a large, ornate, unlocked chest (the [[Props/Ringmaster’s Chest]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the **Ringmaster’s journal** and a [[Props/Bag of Earthly Spice]].
 
 Inside the Ringmaster’s Journal is an entry reading as follows:
 
