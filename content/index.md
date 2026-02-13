@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.929-08:00
-modified: 2026-02-13T10:39:42.358-08:00
+modified: 2026-02-13T10:42:48.110-08:00
 cssclasses: ""
 ---
 
 Welcome to the design documentation for the refresh of Hyde Circus!
 # Important Documents
 
-- [[Script (Draft 3)]] – The master plan for the story, structure, and puzzle progression, with hyperlinks to more information about other important 
+- [[Script (Draft 2)]] – The master plan for the story, structure, and puzzle progression, with hyperlinks to more information about other important 
 - [[Tech Overview]] – Explanation of the technical backend, specifications and conventions to abide by, and resources for technicians and creative technologists
 - Production Design Overview – *(coming soon)* Explanation and reference material of the aesthetic style, mood, tone, and themes of the room for production artists
 - [[Name Ideas]] – List of all suggested name ideas, with favorites in bold

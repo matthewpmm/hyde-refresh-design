@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-02-12T19:13:36.597-08:00
+modified: 2026-02-13T10:42:49.998-08:00
 cssclasses: ""
 ---
 
@@ -47,6 +47,8 @@ Suddenly, a gravelly voice ([[Creative Technology/The Contortionist]]) begins to
 The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]] for their puzzles, guests may use the door knocker.
 ## [[Puzzle Design/Puzzle 1 - The Train Gas Pump]]
 Next to a flickering candle flame on the opposite side of the room from the brake lever, players find a metal [[Props/Gas Canister]] and a small device (a [[Creative Technology/Gas Pump (Train)\|gas pump]]) which connects to a [[Creative Technology/Gas Pipes\|pipe]] network attached to the walls and ceiling. Through observation, players notice that the lid of the canister can fit into a connector sticking out of the pump. Once they connect the two, a flame inside the pump flickers to life and the pipe connected to it slowly fills with flame.
+
+*To do: move the gas canister inside a box so it can't be accessed until the lever is pulled*
 
 Players have now learned that connecting a gas canister to a gas pump will cause it to push flame through any connected pipes.
 
