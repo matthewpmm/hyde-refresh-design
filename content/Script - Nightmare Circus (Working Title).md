@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-12T14:37:34.144-08:00
+modified: 2026-02-12T16:03:33.312-08:00
 cssclasses: ""
 ---
 
@@ -156,32 +156,40 @@ An unknown voice ([[Props/The Ringmaster]]) echoes distantly not just inside the
 > _“Ladies and gentlemen, friends of all ages, it is time at last to begin the greatest show on earth!”_
 
 As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] floating overhead. He is clutching at his neck, having been hung from his own whip.
+
+The background music becomes cold, slow and moody.
 ## [[Puzzle Design/Puzzle 10 - Creating Magic Flame]]
-After the spotlight fades, the circus tent becomes pitch black, and players must use the lantern to navigate, returning to the courtyard to attach another gas tank to the lantern.
+After the spotlight fades, the circus tent becomes pitch black, and players must use the [[Creative Technology/Gas Lantern]] to navigate, returning to the courtyard to attach another gas tank to the lantern.
 
-Around the room, they find evidence of a struggle. Circus animals lay dead in their cages. Performers are strung up against the ceilings by ropes.
+_Should we just provide a new gas tank here to hint that the lantern is needed and let the previous ones burn out when the door is opened? _
 
-Underneath a red cloth, the [[Props/Ankh of Anubis]] is displayed proudly on a **pedestal** inside of a locked **display case**. A dramatic music spike plays when the Ankh is revealed.
+Around the room, they find evidence of a struggle. Circus animals lay dead in their cages. The corpses of performers are strung up against the ceilings by ropes.
 
-Players find a large, ornate, unlocked chest (the [[Props/Ringmaster’s Chest]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the **Ringmaster’s journal** and a [[Props/Bag of Earthly Spice]].
+Underneath a red cloth, the [[Props/Ankh of Anubis]] is displayed proudly on a [[Creative Technology/Display Pedestal\|pedestal inside of a locked display case]]. A dramatic music spike plays when the Ankh is revealed.
 
-Inside the Ringmaster’s Journal is an entry reading as follows:
+Players find a large, ornate, unlocked chest (the [[Props/Ringmaster’s Chest]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the [[Props/Ringmaster’s Journal Entry]] attached to the inside of the lid and a [[Props/Bag of Earthly Spice]].
+
+The Ringmaster's Journal Entry reads as follows:
 
 > _April 6, 1891_
 > 
-> _At long last, the circus is due to reopen tomorrow. However, the performers are protesting the presentation of the Ankh as our premier event. They say the animals recoil from it, and they have been having strange dreams since its arrival (as have I). To ease their nerves, I have procured, at great expense, a bag of earthly spices. I have been assured that these spices burn with a magical violet flame that is certain to destroy the Ankh and neutralize its power._
+> _At long last, Hyde Circus is due to reopen tomorrow. However, the performers are protesting the presentation of the Ankh as our premier event. They say the animals recoil from it, and they have been having strange dreams since its arrival (as have I). To ease their nerves, I have procured, at great expense, a bag of Earthly Spices from a distant land. I have been assured that these spices burn with a magical violet flame that is certain to destroy the Ankh and neutralize its power._
 > 
 > _(illustration of earthly spice)_
 
-When players open the lid of their lantern and drop the bag of earthly spice inside, the color of the flame changes to a bright violet and begins emitting ultraviolet light.
+When players open the lid of the [[Creative Technology/Gas Lantern]] and drop the [[Props/Bag of Earthly Spice]] inside, the color of the flame changes to a bright violet and begins emitting blacklight. The background music begins to build in anticipation.
 ## [[Puzzle Design/Puzzle 11 - Obtaining the Ankh]]
-In the ultraviolet light, the interior walls of the circus are revealed to be splattered with UV-reactive fluorescent paint as though it were blood. Upon closely inspecting the walls, hidden messages such as those below are now visible and appear to have been written by the deceased performers.
+In the blacklight, the interior walls of the circus are revealed to be splattered with UV-reactive fluorescent paint as though it were blood. Upon closely inspecting the walls, hidden messages such as those below are now visible and appear to have been written by the deceased performers.
 
 _HELP US_
 
 _HIS TRANSGRESSIONS_
 
+_HE DOOMED US ALL_
+
 _ANCIENT EVIL_
+
+_HUBRIS HUBRIS HUBRIS_
 
 Most importantly, the following text is visible:
 
@@ -191,24 +199,32 @@ _PLACE ON PEDESTAL_
 
 _BURN IT BURN IT BURN IT_
 
-The ultraviolet light from the lantern reveals that one of the corners of the pedestal has an outline of a conspicuous shape. A **brooch** matching this shape (and now glowing in the ultraviolet light) can be found on the ringmaster’s body and removed with a large **pole** leaning against the wall. Retrieving the brooch and placing it on the pedestal causes the display case door to unlock.
+_DESTROY THE ANKH_
 
-As the door unlocks, the background music increases in intensity.
+_USE THE VIOLET FLAME_
+
+The blacklight from the lantern reveals that one of the corners of the pedestal has an outline of a conspicuous shape. A [[Ringmaster's Brooch]] matching this shape (and now glowing in the ultraviolet light) can be found on the ringmaster’s body and removed with a large [[Props/Catch Pole\|catch pole]] leaning against the wall. Retrieving the brooch and placing it on the pedestal causes the [[Creative Technology/Display Pedestal\|display pedestal]] door to unlock.
+
+As the door unlocks, the [[Soundtrack\|soundtrack]] increases in intensity even more.
 ## [[Puzzle Design/Puzzle 12 - Destroying the Ankh]]
-Once the Ankh is acquired, it must be destroyed, as stated by the Contortionist and the performers’ messages on the walls, and as implied by the Ringmaster’s journal. Players must drop the Ankh inside the lantern to destroy it with the blue flame.
+Once the [[Props/Ankh of Anubis]] is acquired, it must be destroyed, as hinted by the performers’ messages on the walls and implied by the [[Props/Ringmaster’s Journal Entry]]. Players must drop the Ankh inside the lantern to destroy it with the violet flame.
 
 Once they do so, smoke begins billowing out of the lantern, and the light begins flickering violently. The distant sound of a large clock chiming can be heard.
 
-Suddenly, the lantern lights up blindingly bright, and blue flames appear around the big top.
+Suddenly, the lantern lights up blindingly bright, and blue flames appear everywhere around the ceiling of the big top.
 
-The Contortionist’s voice can be heard in the distance.
+[[Creative Technology/The Contortionist]]’s voice can be heard in the distance.
 
-> _“Travelers! You have done it. The connection between Earth and the circus is severed. But the circus cannot escape its destiny. We are condemned to burn, again and again. Go now – start the train and escape back to your world.”_
+> _“Travelers! You have done it. The connection between your world and the circus is severed. But the circus is too far gone - this place can never return. We are condemned to burn. Hurry – start the train and escape back to your world, before you burn with us.”_
 
-Players must now rush back to the train car. On their way, they see that the sky in the courtyard has changed to resemble a nightmarish blazing blue inferno, and blue flames have popped up everywhere outside too.
+Players must now rush back to the train car. On their way, they see that the sky in the courtyard has changed to resemble a nightmarish blazing violet inferno, and blue flames have popped up outside too.
 # Train Car (Engine Room)
 ## [[Puzzle Design/Puzzle 13 - Unlocking the Engine Room]]
-Once players reach the engine room, they can shine the now-blue lantern on the door to reveal how to open it. Markings are drawn on the door indicating that players should knock three times in one spot, two times in another spot, and five times on another spot. Once this is complete, the door unlatches automatically.
+Once players reach the engine room, they find that the door is locked. A [[Creative Technology/Engine Room Lock\|grid of unmarked metal buttons]] is arranged on the face underneath the [[Props/Engine Room Sign]].
+
+When players shine the now-blacklight [[Creative Technology/Gas Lantern]] on the door to reveal how to open it, they find an invisible painting of a darkened new moon painted on the face of the door, indicating the completely un-illuminated jet black moon visible in the courtyard.
+
+If players return to the courtyard and re-insert the lantern into the [[Creative Technology/Limelight]], the magnified light becomes a blacklight as well. Pointing the spotlight at the new moon reveals a hidden symbol, showing the order in which to press the buttons on the engine room door to unlock it.
 ## [[Puzzle Design/Puzzle 14 - Starting the Engine]]
 Players find themselves in a new section of the train car containing a large **coal furnace**, several crates filled with coal, some decorative shovels and engine equipment, a window facing the courtyard, and a series of pipes and valves connecting the coal furnace to three ports labeled “engine.”
 
