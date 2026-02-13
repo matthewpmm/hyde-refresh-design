@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-#carpentry #tech #painting #decoration 
 # Puzzle Specifications
 # Build Specifications
 The wheel should be about 6 feet in diameter and able to turn freely via a controllable motorized mechanism. This mechanism should be concealed so players cannot injure themselves or break the mechanism.
