@@ -1,6 +1,10 @@
 ---
 publish: true
+created: 2026-02-05T17:31:36.254-08:00
+modified: 2026-02-05T19:10:12.949-08:00
+cssclasses: ""
 ---
+
 # Technical Layout
 ![[Technical Layout.png]]
 # Resources

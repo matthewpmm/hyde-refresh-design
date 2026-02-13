@@ -1,7 +1,11 @@
 ---
 publish: true
+created: 2026-02-12T14:10:17.944-08:00
+modified: 2026-02-12T16:48:51.926-08:00
+cssclasses: ""
 ---
-All in-game hints are delivered in the form of audio by [[The Contortionist]].
+
+All in-game hints are delivered in the form of audio by [[Creative Technology/The Contortionist]].
 ## Time Check 1
 
 The sound of a bell tower chimes once, and the Contortionist's voice is heard.
