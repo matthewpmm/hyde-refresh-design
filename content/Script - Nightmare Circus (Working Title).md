@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-12T16:55:33.425-08:00
+modified: 2026-02-12T17:42:04.870-08:00
 cssclasses: ""
 ---
 
@@ -62,7 +62,7 @@ Suddenly, all lights and sound cut out completely for a moment. Then, it all com
 
 As the train car door slowly creaks open to reveal the courtyard, players realize that they have been transported to another world - a darker, stranger world.
 # [[Scenic Design/Courtyard]]
-Players descend the steps down from the train car and find themselves in the cold, dark, hazy courtyard outside the circus tent.
+Players descend the steps down from the train car and find themselves in the cold, dark, hazy courtyard outside the circus tent. An ambient introductory background music track plays.
 
 The players, the train car, the courtyard, and the circus all appear to be in some sort of nightmare world, indicated by the swirling starry vortex projected onto the ceiling. Three glowing [[Props/Moons\|moons]] are suspended from above - two full, one a waning crescent.
 
@@ -137,13 +137,15 @@ Now that players have acquired three tanks, they can fully power the gas pump by
 
 Players must now route the flame through the most challenging series of junctions yet, stretching all the way around the courtyard and slowly illuminating the entire space in the process.
 
-Once the flame reaches the lock, a deep mechanical groaning is heard from inside the door. The groan slowly builds as the gas pump hisses and whistles, crescendoing as all the gas lights in the courtyard to flicker. For a moment, all the lights cut out before roaring back to life with a sudden bang and finally pushing the door to the [[Scenic Design/Hall of Mirrors]] open. The background music fades, replaced by the sound of wind.
+Once the flame reaches the lock, a deep mechanical groaning is heard from inside the door. The groan slowly builds as the gas pump hisses and whistles, crescendoing as all the gas lights in the courtyard to flicker. For a moment, all the lights cut out before roaring back to life with a sudden bang and finally pushing the door to the [[Scenic Design/Hall of Mirrors]] open. The background music fades, replaced by the sound of wind and other spooky ambience.
 # [[Scenic Design/Hall of Mirrors]]
-Players venture into a hallway full of [[Props/Funhouse Mirrors\|funhouse mirrors]] with a checkered floor. An oil lamp hanging from the ceiling illuminates the space, and a [[Creative Technology/Wheel Pyramid]] is mounted on the wall. The door automatically closes itself behind them when not being pushed open.
+Players venture into a hallway full of [[Props/Funhouse Mirrors\|funhouse mirrors]] with a checkered floor. An oil lamp hanging from the ceiling illuminates the space, and a [slow, disorienting background music track](https://drive.google.com/file/d/1ruEsxIyijAx7PYEs8jlP6CBpC1r2LXrc/view?usp=drive_link) plays. The door automatically closes itself behind them when not being pushed open.
+
+A [[Creative Technology/Wheel Pyramid]] is mounted on the wall.
 ## [[Puzzle Design/Puzzle 8 - Inverted Pyramid]]
 The [[Creative Technology/Wheel Pyramid]] is an inverted pyramid of six close-together rotating wheels with branching paths carved into them. A label on the pyramid reads _“All roads lead somewhere.”_ Players must rotate the wheels by hand until there are no remaining paths not connected to a path on an adjacent wheel.
 
-Once the first phase of the puzzle is completed, the oil lamp suddenly turns off, and bright blacklights turn on behind the one-way mirrors, revealing an alien scene and producing an infinity mirror effect, creating the appearance that the players are in an infinite, unnatural, impossible landscape.
+Once the first phase of the puzzle is completed, the oil lamp suddenly turns off. There is darkness for a few seconds before bright blacklights turn on behind the one-way mirrors, revealing an alien scene and producing an infinity mirror effect, creating the appearance that the players are in an infinite, unnatural, impossible landscape.
 ## [[Puzzle Design/Puzzle 9 - Infinite Eyes]]
 Once the players can see the infinity mirror tableau, the wheels gain the ability to control [fluorescent growths](https://pin.it/60nlmyB07) on the ground on the other side of the mirror, on each of which is at least one large eyeball. These eyeballs serve a similar function to the paths on the wheels, but now, instead of paths, each eye must be pointed at another eye. This time, however, instead of needing to align all the eyes in a self-contained triangle, the mirrors come into play, creating the appearance of four mirrored growths for each wheel, all forming a larger circle around a central growth. Each available eye must now account for both the eyes on the other side of each adjacent mirror as well as the real eyes next to them.
 
@@ -217,7 +219,7 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 
 > “Travelers! You have done it. The connection between your world and the circus is severed. But the circus is too far gone - this place can never return. We are condemned to burn. Hurry – start the train and escape back to your world, before you burn with us.”
 
-Players must now rush back to the train car. On their way, they see that the sky in the courtyard has changed to resemble a nightmarish blazing violet inferno, and blue flames have popped up outside too.
+Players must now rush back to the train car as a dramatic, high-octane background music track begins looping. On their way, they see that the sky in the courtyard has changed to resemble a nightmarish blazing violet inferno, and blue flames have popped up outside too.
 # Train Car (Engine Room)
 ## [[Puzzle Design/Puzzle 13 - Unlocking the Engine Room]]
 Once players reach the engine room, they find that the door is locked. A [[Creative Technology/Engine Room Lock\|grid of unmarked metal buttons]] is arranged on the face underneath the [[Props/Engine Room Sign]].
