@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T13:08:19.556-08:00
-modified: 2026-02-12T16:03:33.312-08:00
+modified: 2026-02-12T16:55:33.425-08:00
 cssclasses: ""
 ---
 
@@ -32,9 +32,9 @@ The letter reads:
 
 Guests may now make their way down the hallway, following the [[Props/Hyde Circus Express Signs\|signs pointing towards the Hyde Circus express]].
 # [[Scenic Design/Train Car (Passenger Rooms)]]
-Upon boarding the train car, guests find that the left side of the hallway contains a locked [[Scenic Design/Engine Room]], while the right side is accessible. This room contains a locked safe, a [[Props/Gas Canister]], the [[Creative Technology/Gas Pump (Train)]], a series of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]], as well as two levers: the [[Creative Technology/Start Lever and Brake Lever]], the latter of which is locked with a rusty chain. After the train door shuts behind them, guests pull the start lever to start the train. The train shudders and shakes as the engine sputters to life and the train begins moving, indicated by lights moving past the windows.
+Upon boarding the train car, guests find that the left side of the hallway contains a locked [[Scenic Design/Engine Room]], while the right side is accessible. This room contains a locked safe, a [[Props/Gas Canister]], the [[Creative Technology/Gas Pump (Train)]], a series of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]], as well as two levers: the [[Creative Technology/Start Lever and Brake Lever]], the latter of which is locked with a rusty chain. After the train door shuts behind them, guests pull the start lever to start the train. The lever visibly locks in place as soon as it is thrown.
 
-The lights inside and outside the train flash in psychedelic colors as the train leaves our dimension and approaches the nightmare dimension in which Hyde Circus resides.
+The train shudders and shakes as the engine sputters to life and the train begins moving, indicated by lights moving past the windows. The lights inside and outside the train flash psychedelic colors as the train leaves our dimension and approaches the nightmare dimension in which Hyde Circus resides.
 
 Suddenly, a gravelly voice ([[Creative Technology/The Contortionist]]) begins to speak from a [[Props/Contortionist's Train Pipe\|pipe in the wall]] with a [[Creative Technology/Door Knocker\|door knocker]] next to it.
 
@@ -215,7 +215,7 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 
 [[Creative Technology/The Contortionist]]’s voice can be heard in the distance.
 
-> _“Travelers! You have done it. The connection between your world and the circus is severed. But the circus is too far gone - this place can never return. We are condemned to burn. Hurry – start the train and escape back to your world, before you burn with us.”_
+> “Travelers! You have done it. The connection between your world and the circus is severed. But the circus is too far gone - this place can never return. We are condemned to burn. Hurry – start the train and escape back to your world, before you burn with us.”
 
 Players must now rush back to the train car. On their way, they see that the sky in the courtyard has changed to resemble a nightmarish blazing violet inferno, and blue flames have popped up outside too.
 # Train Car (Engine Room)
@@ -226,10 +226,52 @@ When players shine the now-blacklight [[Creative Technology/Gas Lantern]] on the
 
 If players return to the courtyard and re-insert the lantern into the [[Creative Technology/Limelight]], the magnified light becomes a blacklight as well. Pointing the spotlight at the new moon reveals a hidden symbol, showing the order in which to press the buttons on the engine room door to unlock it.
 ## [[Puzzle Design/Puzzle 14 - Starting the Engine]]
-Players find themselves in a new section of the train car containing a large **coal furnace**, several crates filled with coal, some decorative shovels and engine equipment, a window facing the courtyard, and a series of pipes and valves connecting the coal furnace to three ports labeled “engine.”
+The engine room contains a large furnace, several empty crates, some decorative shovels and engine equipment, a window facing the courtyard, and a series of pipes and valves connecting the coal furnace to three ports labeled “engine” throughout the room.
 
-Using the practice they’ve gained from their previous attempts, players must attempt to route the flame to each of these ports by turning different valves. The puzzle is quite complex, but by shining the lantern on it they can reveal notes left behind by someone which hints them towards the correct solutions.
+The furnace contains an openable door with a drawing of the gas lantern on it. Placing the lantern inside and closing the door causes the furnace to burst to life, causing flames to begin pumping through the small local pipe system.
 
-Once all three ports are connected, the train shudders and shakes and begins to move. A train whistle blows and lights flash across the window as the train travels back towards our reality. Triumphant music plays the team out until they are retrieved by a game master.
+Using the practice gained from their previous attempts, players must attempt to route the flame to each of these ports by turning valves positioned around the room.
+
+*Note: I would like for the final discovery moment to be realizing that the limelight can be shone through the window of the engine room to reveal something hidden on the ceiling or wall that is essential to solving the puzzle, but I haven't figured out how to do this elegantly yet.*
+
+Once all three ports are connected, the train shudders and shakes and begins to move. A train whistle blows and lights flash across the window as the train travels back towards our reality. The train seems to travel faster and faster and faster, lights beginning to strobe past, until suddenly everything cuts to black.
+
+The Contortionist's voice cuts through the darkness.
+
+> "You have done it. At long last, thanks to you, this stagnant world has come to its final end. Thank you, travelers, and farewell."
+
+Lights strobe, a steam whistle squeals, the locomotive machinery pounds, a station bell rings distantly. Cut to black again.
+
+Contemplative finale music plays the team out as the lights fade back on. A banner with a full list of credits slowly unrolls. As the closing song ends, players are greeted by a game master who leads them out.
 
 **THE END**
+
+# Failure States
+
+## 1. Time runs out in the train car before the circus is reached
+The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.
+
+[[Creative Technology/The Contortionist]]'s voice can be heard speaking from the pipe once more.
+
+> "Travelers! You are doomed. You have failed to stop the train. Now that you have gone so far into the void between worlds, it is impossible to turn back. You will be trapped here, like me, forever."
+
+The word "forever" echoes ominously as the music and lights fade out and guests are left in the dark in the rumbling train car.
+
+After a few seconds, the rumbling fades out and the lights fade back up. The players are retrieved by a game master and led to the lobby.
+## 2. Time runs out before the Ankh is destroyed
+The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world.
+
+[[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
+
+> "Travelers! You are doomed. You have failed to break the curse and sever the bond between these worlds. Now you will be trapped here, like me, forever."
+
+A discordant chorus of instruments slowly crescendos, growing higher in pitch until suddenly going silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.
+## 3. Time runs out before players start the train engine
+
+The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world. The flames throughout the world grow in intensity.
+
+[[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
+
+> "Travelers! You were so close, but you are doomed. You have failed to escape this cursed world. Now you will be trapped here, like me, forever."
+
+A discordant chorus of instruments slowly crescendos, growing higher in pitch, while the sound of roaring wind and fire grows deafening. Suddenly, everything goes silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.
