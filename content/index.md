@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.929-08:00
-modified: 2026-02-13T10:42:48.110-08:00
+modified: 2026-02-17T14:31:29.661-08:00
 cssclasses: ""
 ---
 
@@ -15,7 +15,7 @@ Welcome to the design documentation for the refresh of Hyde Circus!
 # External Links
 
 - [Pinterest Mood Board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) – Aesthetic, tone, and style inspiration
-- [Google Drive folder](https://docs.google.com/spreadsheets/d/1PQV7UW4Lw92RbwLhgc-cNFM12vl-mxJoRh4LyOlhq_s/edit?usp=drive_link) – Central repository of files related to the build
+- [Google Drive folder](https://drive.google.com/drive/folders/1w4MJnpjdLy_ikE-nbZdgGdPBdr7UaDbk?usp=drive_link) – Central repository of files related to the build
 	- [Soundtrack Concept Demos](https://drive.google.com/drive/folders/1QEwktKhNJhlmZskLm53AJY4XEebTUFzL?usp=drive_link)
 
 # Room Layout (Overview)
