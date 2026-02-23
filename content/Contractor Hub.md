@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-02-23T11:42:26.002-08:00
+modified: 2026-02-23T11:54:16.333-08:00
 cssclasses: ""
 ---
 
@@ -11,7 +11,9 @@ Our goal timeline is very short. Our broad goal is for the vast majority of thes
 
 I (Matthew) will be available to provide support and answer any questions about the projects for the duration of the build.
 # Creative Technology / Tech Puzzles
-These are projects that will require tech/electronics knowledge, although they exist on a spectrum between very low tech (the Limelight) and quite high tech (Gas pipe puzzle/Gas Lantern). Most of these, however, have at most a few simple sensors or lights in them and are largely mechanical.
+These are projects that will require tech/electronics knowledge, although they exist on a spectrum between very low tech (the Limelight) and quite high tech (Gas pipe puzzle/Gas Lantern). Most of these, however, have at most a few simple sensors or lights in them and are mechanical to a large degree.
+
+We will provide specifics for exactly how the tech should be set up so that it can be easily integrated into the COGS show control system we are planning to use. Most of the show logic will be programmed with COGS, so most of these props will just need the components set up. Only one or two will potentially require programming as a deliverable.
 
 If you don't have a lot of confidence in your own electronics skills but any of these projects still sound interesting to you, we will also entertain bids on just the fabrication of the physical elements and hire out or personally handle the tech elements.
 
@@ -37,7 +39,6 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) for the project to get a sense for the overall vibe and aesthetic of the experience!
 ## From Scratch
 - [[Props/Ringmaster's Letter]]
-- [[Creative Technology/Pickled Punks Tent]]
 - [[Props/Moons]]
 - [[Props/Knife Box]]
 - [[Props/Eyeball Growths]]
@@ -54,6 +55,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 ## Prep Period Projects
 - [[Props/Train Windows]]
 - Engine room door
+- [[Creative Technology/Pickled Punks Tent]]
 - [[Props/Funhouse Mirrors]]
 ## Installation Period Projects
 - New entrance door/landing/stairway
