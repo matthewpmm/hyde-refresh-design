@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-02-23T10:33:26.688-08:00
+modified: 2026-02-23T11:35:33.898-08:00
 cssclasses: ""
 ---
 
@@ -33,13 +33,15 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Creative Technology/Wheel Pyramid]]
 - [[Creative Technology/Fluorescent Growth Platforms]]
 - [[Creative Technology/Display Pedestal]]
-# Prop Fabrication (from scratch)
+# Prop Fabrication
+Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) for the project to get a sense for the overall vibe and aesthetic of the experience!
+## From Scratch
 - [[Props/Ringmaster's Letter]]
 - [[Creative Technology/Pickled Punks Tent]]
 - [[Props/Moons]]
 - [[Props/Knife Box]]
 - [[Props/Eyeball Growths]]
-# Prop Decoration/Modification
+## Decoration/Modification
 - [[Props/Hyde Circus Express Signs]]
 - [[Props/Engine Room Sign]]
 - [[Props/Ringmaster’s Journal Entries]]
@@ -48,10 +50,11 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Props/Puzzle Jars]]
 - [[Props/The Ringmaster]]
 - [[Props/Bag of Earthly Spice]]
-# Carpentry (prep period projects)
+# Carpentry
+## Prep Period Projects
 - [[Props/Train Windows]]
 - Engine room door
 - [[Props/Funhouse Mirrors]]
-# Carpentry (install projects)
+## Installation Period Projects
 - New entrance door/landing/stairway
 - Train wall modifications
