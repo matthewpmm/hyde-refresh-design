@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-02-12T19:24:52.047-08:00
-modified: 2026-02-12T21:30:56.803-08:00
+modified: 2026-02-20T11:49:22.566-08:00
 cssclasses: ""
 ---
 
 For a general overview of the intended mood of this experience, please refer to this [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) and these [early soundtrack concept demos](https://drive.google.com/drive/folders/1QEwktKhNJhlmZskLm53AJY4XEebTUFzL?usp=drive_link).
+# Floor Plan (Original)
+![[Media/Hyde Circus Floor Plan 1-12.png]]
 # Design Requirements
 
 When designing this room, I had a few parameters in mind:
