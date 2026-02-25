@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-02-18T14:24:59.032-08:00
+modified: 2026-02-24T17:38:44.142-08:00
 cssclasses: ""
 ---
 
@@ -10,9 +10,9 @@ Following is a list of all the composed music that will be required for the soun
 1. A full looping song plays after [[Creative Technology/The Contortionist]]'s introductory dialogue in the train car and ends suddenly when the brake lever is thrown.
 2. When the door to the [[Rooms/Courtyard]] opens, a spooky ambient track begins.
 	1. After guests have about 10 seconds to acclimate to the courtyard, [[Creative Technology/The Contortionist]] begins to speak - the ambience should be scored to her speech so as not to overshadow it.
-	2. Following the speech, it should enter a loop that will fade out when a [[Props/Gas Canister]] is attached to the [[Creative Technology/Gas Pump (Courtyard)\|courtyard gas pump]], and will fade back in anytime all canisters are removed from the pump, until the [[Rooms/Hall of Mirrors]] is unlocked.
+	2. Following the speech, it should enter a loop that will fade out when a [[Props/Gas Canister]] is attached to the [[Creative Technology/Gas Pump\|courtyard gas pump]], and will fade back in anytime all canisters are removed from the pump, until the [[Rooms/Hall of Mirrors]] is unlocked.
 	3. The track can feature light instrumentation, but should emphasize sounds of wind, creaking metal, distant rumbling and indecipherable sounds, and perhaps short, distant melodies played backwards.
-3. Whenever at least one [[Props/Gas Canister]] is attached to the [[Creative Technology/Gas Pump (Courtyard)\|courtyard gas pump]] before the [[Rooms/Hall of Mirrors]] is unlocked, a looping adaptive music track will fade in in the courtyard.
+3. Whenever at least one [[Props/Gas Canister]] is attached to the [[Creative Technology/Gas Pump\|courtyard gas pump]] before the [[Rooms/Hall of Mirrors]] is unlocked, a looping adaptive music track will fade in in the courtyard.
 	1. This track has three layers, one for each potential gas canister, and should escalate in the complexity of its instrumentation each time a canister is connected and reduce in complexity each time a canister is removed by smoothly fading each layer of the track in and out.
 	2. We may mix each layer of the track differently on different speakers so that moving to different areas of the courtyard emphasizes different layers of the music.
 4. Once the [[Rooms/Hall of Mirrors]] begins to open, all background audio will fade out until the door finishes opening. Then, an even further stripped-down version of the initial courtyard ambient track (track 2) loops in the [[Rooms/Courtyard]] only, primarily composed of the ambient sounds with almost no other instrumentation.
@@ -26,3 +26,8 @@ Following is a list of all the composed music that will be required for the soun
 	3. When the Ankh is destroyed in [[Puzzle Design/Puzzle 12 - Destroying the Eye\|Puzzle 12]] and smoke begins billowing out of the lantern as the big top bursts into flames, the track should reach a crescendo before pausing for [[Creative Technology/The Contortionist]]'s dialogue urging players to start the train and escape.
 7. A high-energy but still bassy and dramatic looping music track plays for the duration of [[Puzzle Design/BACKUP PUZZLE - Unlocking the Engine Room]] and [[Puzzle Design/Puzzle 13 - Starting the Engine]], until cutting out when the train is finally started.
 8. As the lights fade up during the outro, a simply arranged, contemplative, non-looping outro/credits song begins to play. It is bittersweet - a celebration of the Travelers' victory as well as an emotional farewell to the circus and [[Creative Technology/The Contortionist]], its last survivor.
+
+
+
+
+[Notes on Zelda ocarina music](https://www.reddit.com/r/musictheory/comments/8z8yjx/oot_song_keys/)

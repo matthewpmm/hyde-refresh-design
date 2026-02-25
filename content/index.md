@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.929-08:00
-modified: 2026-02-23T11:36:42.311-08:00
+modified: 2026-02-24T11:07:14.512-08:00
 cssclasses: ""
 ---
 
@@ -10,7 +10,7 @@ Welcome to the design documentation for the Hyde Circus refresh project!
 - [[Script (Draft 3)]] – The master plan for the story, structure, and puzzle progression, with hyperlinks to more information about puzzles and props
 - [[Contractor Hub]] – Information for contractors working on the project, including a list of items we are seeking bids on
 - [[Tech Overview]] – Explanation of the technical backend, specifications and conventions to abide by, and resources for technicians and creative technologists
-- [[Production Design Overview]] – *(WIP)* Explanation and reference material of the aesthetic style, mood, tone, and themes of the room for production artists
+- [[Production Design Overview]] – Explanation and reference material of the aesthetic style, mood, tone, and themes of the room for production artists
 - [[Name Ideas]] – List of all suggested name ideas, with favorites in bold
 - [[Credits]]
 # External Links

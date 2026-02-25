@@ -1,8 +1,11 @@
 ---
 publish: true
-created: 2026-02-05T19:00:40.845-08:00
-modified: 2026-02-05T19:00:49.544-08:00
+created: 2026-02-12T17:49:43.911-08:00
+modified: 2026-02-24T15:29:22.320-08:00
 cssclasses: ""
 ---
 
 #creative-tech 
+
+https://pmmodelengines.com/globe-valves/
+
