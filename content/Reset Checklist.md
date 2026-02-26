@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-18T16:12:51.275-08:00
-modified: 2026-02-24T11:40:26.485-08:00
+modified: 2026-02-25T14:36:04.008-08:00
 cssclasses: ""
 ---
 
@@ -13,9 +13,9 @@ cssclasses: ""
 - [ ] TBD
 # [[Rooms/Courtyard]]
 - [ ] Return EMPTY [[Creative Technology/Gas Lantern]] to platform and re-secure cage on top of it
-# [[Rooms/Train Car (Engine Room)]]
+# [[Rooms/Engine Room]]
 - [ ] TBD
-# [[Rooms/Train Car (Luggage Room)]]
+# [[Rooms/Boiler Room]]
 - [ ] Close door to Courtyard
 - [ ] Reattach brake lever chain
 - [ ] TBD

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-02-24T17:48:49.713-08:00
+modified: 2026-02-25T22:27:55.540-08:00
 cssclasses: ""
 ---
 
@@ -16,7 +16,6 @@ These are projects that will require tech/electronics knowledge, although they e
 We will provide specifics for exactly how the tech should be set up so that it can be easily integrated into the COGS show control system we are planning to use. Most of the show logic will be programmed with COGS, so most of these props will just need the components set up. Only one or two will potentially require programming as a deliverable.
 
 If you don't have a lot of confidence in your own electronics skills but any of these projects still sound interesting to you, we will also entertain bids on just the fabrication of the physical elements and hire out or personally handle the tech elements.
-
 
 - [[Creative Technology/Pneumatic Tube]] (?)
 - [[Creative Technology/Accessibility Cabinet]]
@@ -38,6 +37,7 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Creative Technology/Wheel Pyramid]]
 - [[Creative Technology/Fluorescent Growth Platforms]]
 - [[Creative Technology/Display Pedestal]]
+- [[Creative Technology/Furnace]]
 # Prop Fabrication
 Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) for the project to get a sense for the overall vibe and aesthetic of the experience!
 ## From Scratch
@@ -51,7 +51,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Props/Acrobat]]
 - [[Props/Puzzle Jars]]
 - [[Props/The Ringmaster]]
-- [[Props/Bag of Earthly Spice]]
+- [[Props/Vial of Earthly Spice]]
 ## Signage
 ### Paper/Canvas/Other
 - [[Props/Ringmaster’s Journal Entries]]
@@ -74,4 +74,4 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 # Digital Media
 ## Video Content
 - Projection design: twinkling starscape
-- Projection design: 
+- Projection design: Hundreds of eyes
