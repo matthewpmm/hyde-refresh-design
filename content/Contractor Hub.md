@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-02-25T22:27:55.540-08:00
+modified: 2026-03-01T12:33:25.790-08:00
 cssclasses: ""
 ---
 
@@ -32,6 +32,7 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Creative Technology/Pickled Punks Tent]]
 - [[Creative Technology/Punk Pedestal]]
 - [[Creative Technology/Lantern Cage Mechanism]]
+	- Crash panel
 - [[Lighting/Limelight]]
 - [[Creative Technology/Wheel of Death]]
 - [[Creative Technology/Wheel Pyramid]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-02-25T22:57:51.089-08:00
+modified: 2026-03-02T11:34:21.203-08:00
 cssclasses: ""
 ---
 
@@ -36,7 +36,7 @@ Guests may now make their way down the hallway, following the [[Props/Hyde Circu
 
 Upon boarding the train car, guests find a [[Lighting/Gas Lamps\|lamp-lit]] room containing a large [[Creative Technology/Boiler]], two [[Props/Train Windows\|windows with fogged privacy glass]] on the wall opposite the hallway, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
 
-A [[Props/Brake Label]] [[Creative Technology/Brake Lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit to the train.
+A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit to the train.
 
 All around the room, mounted on the wooden supports above players' heads, to the walls, and on the wall underneath the brake lever, are five haphazardly positioned [[Steam Whistle\|steam whistles]] of various sizes, each with a small chain hanging from it, that are connected to the large boiler by a network of pipes.
 
@@ -311,6 +311,10 @@ Contemplative finale music plays the team out as the lights fade back on. A bann
 # Failure States
 
 ## 1. Time runs out in the train car before the Circus is reached
+
+> [!NOTE]
+> This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.
+
 The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.
 
 [[Creative Technology/The Contortionist]]'s voice can be heard speaking from the pipe once more.
