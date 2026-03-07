@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-06T16:15:17.810-08:00
+modified: 2026-03-06T16:34:42.261-08:00
 cssclasses: ""
 ---
 
@@ -10,7 +10,6 @@ The following is a list of individual projects that we are looking for bids on. 
 Our goal timeline is very short. Our broad goal is for the vast majority of these projects to be completed in parallel by different contractors by the end of course of March 2026 and to install everything in April.
 
 I (Matthew) will be available to provide support and answer any questions about the projects for the duration of the build.
-
 # Prep Period Projects
 We are currently accepting BIDS for the following projects, to be delivered prior to the installation period.
 
@@ -57,7 +56,7 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 	- [[Props/Acrobat]]
 	- [[Props/The Ringmaster]]
 	- Corpse for Wheel of Death
-- - Foam/latex sculpting
+- Foam/latex sculpting
 	- [[Props/Eye Chain]]
 	- [[Props/Eyeball Growths]]
 ## Signage
