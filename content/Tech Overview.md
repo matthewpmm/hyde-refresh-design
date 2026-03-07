@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-02-25T22:56:32.373-08:00
+modified: 2026-03-04T15:05:21.000-08:00
 cssclasses: ""
 ---
 
@@ -24,6 +24,9 @@ All servo motors will be connected to a Servo Master, and devices requiring serv
 All maglocks, cabinet locks, or other devices requiring a +12VDC or +24VDC power supply that can be switched on and off will be connected to a DC master.
 
 ![[Media/DC Master.png]]
+
+# Sound
+We will be using at least 12 speakers. We will need a large rack-mountable audio interface with 12-18 channels.
 # Resources
 - [LED mapping via Art-Net](https://www.youtube.com/watch?v=ShYYcr30vJw&t=1s)
 - [Installing COGS on Ubuntu](https://learn.cogs.show/installing-cogs-software)

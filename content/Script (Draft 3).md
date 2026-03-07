@@ -1,15 +1,17 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-03-02T11:34:21.203-08:00
+modified: 2026-03-05T19:44:11.875-08:00
 cssclasses: ""
 ---
 
 *Revised 2/25/2026*
+# Room Layout
+![[Media/Hyde Refresh Room Layout.jpg]]
 # Puzzle Flow
 ![[Media/Puzzle Flow 2-25.png]]
 # Backstory
-In the lobby, as their game master concludes briefing the guests on gameplay rules, a [steam whistle](https://youtu.be/1oJAVJPX0YY?si=hVC3DxiG1I3TpsVR) blows and a [train bell begins to clang](https://pixabay.com/sound-effects/city-train-crossing-105569/). Looking over to a corner of the lobby, guests see a long metal [[Creative Technology/Pneumatic Tube\|pneumatic tube]] stretching up to the ceiling with a rusty steam whistle and bell at the top. The tube is speckled with strange growths that appear to be eyes.
+In the lobby, as their game master concludes briefing the guests on gameplay rules, a [steam whistle](https://youtu.be/1oJAVJPX0YY?si=hVC3DxiG1I3TpsVR) blows and a [train bell begins to clang](https://pixabay.com/sound-effects/city-train-crossing-105569/). Looking over to a corner of the lobby, guests see a long metal [[Creative Technology/Pneumatic Mail Tube\|pneumatic tube]] stretching up to the ceiling with a rusty steam whistle and bell at the top. The tube is speckled with strange growths that appear to be eyes.
 
 The tube suddenly illuminates from inside, magically flickering with orange and purple lights from top to bottom. When the light reaches the bottom, a small door slides open and smoke pours out, revealing a sealed pneumatic capsule.
 
@@ -63,10 +65,10 @@ Attached to a wall or other illuminated flat surface, players will find a torn-o
 
 A worn out [[Props/Boiler Maintenance Ticket]] is attached to the side of the boiler tank. It reads:
 
-> *MAINTENANCE TICKET
-> DEC 12 1890
+> *MAINTENANCE TICKET*
+> *DEC 12 1890*
 > 
-> Steam whistles working inconsistently. Only one at a time works, but not always the same one. Referred to specialist.*
+> *Steam whistles working inconsistently. Only one at a time works, but not always the same one. Referred to specialist.*
 
 By pulling the chains attached to each whistle mounted around the room, the whistles will sometimes blow a note at a unique pitch. By experimenting with pulling the whistles in different orders, players discover that the whistles will continue to blow in sequence if a certain melody is played on them in the correct order. If a wrong note is played after the melody sequence has begun, a discordant whistle will play instead and a puff of steam will be let out of a release pipe on the boiler to indicate a mistake.
 
@@ -90,8 +92,6 @@ The courtyard contains a [[Props/Gas Canister]] sitting next to a [[Creative Tec
 A very small cage suspended from the roof of the train car contains an emaciated woman grotesquely contorted to squeeze inside it. This is [[Creative Technology/The Contortionist]]. The wires of the cage dig into her sallow skin. Below her is a hanging [[Creative Technology/Hint Bell]] which players can ring to receive hints.
 
 The Contortionist speaks to the players as they enter the courtyard, her head moving slightly as she speaks. All other light sources save for the lamp beside her fade out.
-
-
 
 > “You poor souls – I had hoped the train would stop elsewhere. Now you are doomed just as I am. Look up here, above your heads.
 > 
@@ -143,11 +143,11 @@ Once players route the gas through the pipes to the [[Creative Technology/Wheel 
 
 The journal entry reads as follows:
 
-> *April 5, 1891
+> *April 5, 1891*
 > 
-> I have been troubled by unsettling dreams as of late. I find myself standing alone in the center of the big top, surrounded by hundreds of eyes enshrouded in darkness. I find myself keenly aware that they can see me, inside me, into those darkest corners of my own self which I cannot bring even myself to examine.
+> *I have been troubled by unsettling dreams as of late. I find myself standing alone in the center of the big top, surrounded by hundreds of eyes enshrouded in darkness. I find myself keenly aware that they can see me, inside me, into those darkest corners of my own self which I cannot bring even myself to examine.*
 > 
-> Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
+> *Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
 
 The wheel has a decapitated corpse tied to it. A knife has hit a bulls-eye and gored the poor performer in the stomach. There are also slots that appear to be knife holes on the surface of the wheel.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.929-08:00
-modified: 2026-02-24T11:07:14.512-08:00
+modified: 2026-03-02T11:49:18.436-08:00
 cssclasses: ""
 ---
 
@@ -19,5 +19,5 @@ Welcome to the design documentation for the Hyde Circus refresh project!
 	- [Original Set Photos](https://drive.google.com/drive/folders/17_amLmX4zwB1vz07TuSuUE0OPJnrqfoB?usp=drive_link)
 	- [Soundtrack Concept Demos](https://drive.google.com/drive/folders/1QEwktKhNJhlmZskLm53AJY4XEebTUFzL?usp=drive_link)
 
-# Room Layout (Overview)
-![[Media/Hyde Refresh Floor Plan (D1) (Script Version).jpg]]
+# Room Layout
+![[Media/Hyde Refresh Room Layout.jpg]]
