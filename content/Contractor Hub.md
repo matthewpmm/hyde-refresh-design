@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-06T16:34:42.261-08:00
+modified: 2026-03-11T22:03:07.825-07:00
 cssclasses: ""
 ---
 
 The following is a list of individual projects that we are looking for bids on. Right now, most of these pages are empty, but full specifications/design briefs will eventually be provided to clarify the scope, deliverables, and expectations. For the time being, if you'd like to see what each item looks like in context, I recommend searching for it in the latest draft of the [[Script (Draft 3)\|script]].
 
-Our goal timeline is very short. Our broad goal is for the vast majority of these projects to be completed in parallel by different contractors by the end of course of March 2026 and to install everything in April.
+Our goal timeline is very short. Our broad goal is for the vast majority of these projects to be completed in parallel by different contractors by the end of March 2026 and to install everything in April.
 
 I (Matthew) will be available to provide support and answer any questions about the projects for the duration of the build.
 # Prep Period Projects
@@ -45,9 +45,8 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Lighting/Limelight]]
 - [[Creative Technology/Wheel of Death]]
 - [[Props/Knife Box]]
-- Crash Panel (x2)
+- [[Crash Panel]] (x2)
 - [[Creative Technology/Wheel Pyramid]]
-- [[Creative Technology/Eye Platforms]]
 - [[Props/Funhouse Mirrors]] (these may end up being regular mirrors)
 - [[Creative Technology/Display Pedestal]]
 - [[Creative Technology/Furnace]]
