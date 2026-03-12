@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-11T22:03:07.825-07:00
+modified: 2026-03-11T22:04:07.813-07:00
 cssclasses: ""
 ---
 
@@ -72,13 +72,12 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - [[Props/Gas Pump Instructional Sign]]
 - Pickled Punk Puzzle Clue
 - Limelight Instructional Sign
-# Digital Media
-## Video Content
+## Digital Media
 - Projection design: twinkling starscape
 - Projection design: hundreds of eyes
 # Installation Work
-# Demolition
-# Decoration
+## Demolition
+## Decoration
 - Painting
 - 
 ## Carpentry
