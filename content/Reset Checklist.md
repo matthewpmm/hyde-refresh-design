@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-18T16:12:51.275-08:00
-modified: 2026-02-25T14:36:04.008-08:00
+modified: 2026-03-12T16:58:07.719-07:00
 cssclasses: ""
 ---
 
 #operations
 # [[Rooms/Big Top (Circus Tent)]]
-- [ ] Return [[Ringmaster's Brooch]] to [[Props/Ringmaster's Chest]]
+- [ ] Return [[Ringmaster's Brooch]] to [[Props/Ringmaster's Trunk]]
 - [ ] Return [[Props/Eye of the Ancient One]] to [[Creative Technology/Display Pedestal]] and lock door
 # [[Rooms/Hall of Mirrors]]
 - [ ] TBD

@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-02-25T14:36:04.000-08:00
+modified: 2026-03-12T16:58:07.701-07:00
 cssclasses: ""
 ---
 
-Three torn-out pages of the Ringmaster's journal can be found throughout the experience. The first is found taped to a wall inside the [[Rooms/Boiler Room]]. The second is found attached to the inside of the [[Props/Knife Box]]'s lid. The third is attached to the inside of the lid of the [[Props/Ringmaster's Chest]].
+Three torn-out pages of the Ringmaster's journal can be found throughout the experience. The first is found taped to a wall inside the [[Rooms/Boiler Room]]. The second is found attached to the inside of the [[Props/Knife Box]]'s lid. The third is attached to the inside of the lid of the [[Props/Ringmaster's Trunk]].
 
 All three notes are printed on parchment paper that has been visibly ripped out of a journal and glued permanently to a fixed surface.
 # Entry 1 Text
