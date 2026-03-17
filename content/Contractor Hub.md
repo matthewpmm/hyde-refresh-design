@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-13T10:45:19.543-07:00
+modified: 2026-03-16T19:17:11.491-07:00
 cssclasses: ""
 ---
 
@@ -20,7 +20,7 @@ Many of these are projects that will require tech/electronics knowledge, althoug
 We will provide specifics for exactly how the tech should be set up so that it can be easily integrated into the COGS show control system we are planning to use. Most of the show logic will be programmed with COGS, so most of these props will just need the components set up. Only one or two will potentially require programming as a deliverable, and these are likely to involve more in-person work and direct oversight from our team.
 
 If you don't have a lot of confidence in your own electronics skills but any of these projects still sound interesting to you, we will also entertain bids on just the fabrication of the physical elements and will install the tech elements in-house or find another contractor for those elements.
-
+## To Build From Scratch
 - [[Creative Technology/Pneumatic Mail Tube]] (This may be cut)
 - [[Creative Technology/Accessibility Cabinet]]
 - [[Creative Technology/Boiler]]
@@ -44,10 +44,8 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Creative Technology/Lantern Cage Mechanism]]
 - [[Lighting/Limelight]]
 - [[Creative Technology/Wheel of Death]]
-- [[Props/Knife Box]]
 - [[Props/Crash Panel]] (x2)
-- [[Creative Technology/Wheel Pyramid]]
-- [[Props/Funhouse Mirrors]] (these may end up being regular mirrors)
+- [[Creative Technology/Wheel Pyramid]] (fabrication)
 - [[Creative Technology/Display Pedestal]]
 - [[Creative Technology/Furnace]]
 - Dummies
@@ -58,6 +56,9 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - Foam/latex sculpting
 	- [[Props/Eye Chain]]
 	- [[Props/Eyeball Growths]]
+
+## Decoration/Modification
+- [[Props/Knife Box]]
 ## Signage
 Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
 ### Paper/Canvas/Other
@@ -82,11 +83,13 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - Cutting holes for train windows (carpenter)
 ## Decoration
 - Painting props
+- Foam/latex sculpting of eye growths
+### Painting
 - Painting interior of Big Top/Engine Room
 - Touch-up paint
-- Foam/latex sculpting of eye growths
+- [[Creative Technology/Wheel Pyramid]] (painting)
 ## Carpentry
 - New entrance door/landing/stairway
 - New facade for back of train
 - Installing new train windows
-- 
+- [[Props/Funhouse Mirrors]] (these may end up being regular mirrors)
