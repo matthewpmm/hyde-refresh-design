@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-16T19:17:11.491-07:00
+modified: 2026-03-17T12:18:43.885-07:00
 cssclasses: ""
 ---
 
@@ -32,10 +32,10 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - Engine room door
 - [[Props/Moons]]
 - Gas Pipe Puzzle
+This will be the most technically complex puzzle. I am expecting to personally oversee this build, but I would like to contract out the gas pump itself.
 	- [[Creative Technology/Gas Pump]]
 	- [[Creative Technology/Gas Pipes]]
 	- [[Creative Technology/Gas Valves]]
-	- [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
 - [[Creative Technology/Gas Lantern]]
 	- [[Props/Vial of Earthly Spice]]
 - [[Creative Technology/Pickled Punks Tent]]
@@ -56,9 +56,9 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - Foam/latex sculpting
 	- [[Props/Eye Chain]]
 	- [[Props/Eyeball Growths]]
-
 ## Decoration/Modification
 - [[Props/Knife Box]]
+- [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
 ## Signage
 Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
 ### Paper/Canvas/Other
