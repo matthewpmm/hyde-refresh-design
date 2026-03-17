@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-03-04T15:05:21.000-08:00
+modified: 2026-03-16T18:28:54.870-07:00
 cssclasses: ""
 ---
 
 The core of the show control system and technical backend will be fully assembled and initialized prior to the install period. The show control computer, router, networking hardware, COGS boxes, audio hardware, and power supplies will all be mounted to the same server rack for external setup before being moved behind the train car.
+
+Technicians: please see the [Tech Routing](https://docs.google.com/spreadsheets/d/1hNpea9c83iEV9CKdvRUwMU7tv4EyQF3eoKwme37vBFU/edit?usp=sharing) documentation for information on where to make connections. Make sure to keep this up to date if any changes are made during installation.
 # Technical Layout
 ![[Media/Technical Layout.png]]
 

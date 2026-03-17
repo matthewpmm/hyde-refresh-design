@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-11T22:04:07.813-07:00
+modified: 2026-03-13T10:45:19.543-07:00
 cssclasses: ""
 ---
 
@@ -45,7 +45,7 @@ If you don't have a lot of confidence in your own electronics skills but any of 
 - [[Lighting/Limelight]]
 - [[Creative Technology/Wheel of Death]]
 - [[Props/Knife Box]]
-- [[Crash Panel]] (x2)
+- [[Props/Crash Panel]] (x2)
 - [[Creative Technology/Wheel Pyramid]]
 - [[Props/Funhouse Mirrors]] (these may end up being regular mirrors)
 - [[Creative Technology/Display Pedestal]]
@@ -77,10 +77,16 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - Projection design: hundreds of eyes
 # Installation Work
 ## Demolition
+- Removing existing props and furniture
+- Removal of train interior wall (carpenter)
+- Cutting holes for train windows (carpenter)
 ## Decoration
-- Painting
-- 
+- Painting props
+- Painting interior of Big Top/Engine Room
+- Touch-up paint
+- Foam/latex sculpting of eye growths
 ## Carpentry
 - New entrance door/landing/stairway
 - New facade for back of train
-- Train wall modifications
+- Installing new train windows
+- 
