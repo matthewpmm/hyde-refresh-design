@@ -1,9 +1,11 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-18T14:16:37.753-07:00
+modified: 2026-03-18T14:37:21.862-07:00
 cssclasses: ""
 ---
+
+To submit bids, ask questions, or apply for an installation role, please contact me at [matthew@awkwarddoginteractive.com](mailto:matthew@awkwarddoginteractive.com)
 
 Our goal timeline is very short. Our broad goal is for the vast majority of these projects to be completed in parallel by different contractors by mid to late April 2026 and to install everything in late April/early May.
 
