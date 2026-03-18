@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T16:35:01.859-08:00
-modified: 2026-03-16T19:13:39.331-07:00
+modified: 2026-03-18T15:22:49.291-07:00
 cssclasses: ""
 ---
 
@@ -13,7 +13,7 @@ For [[Puzzles/Puzzle 1 - Steam Whistles]], we will need six highly sturdy props 
 - Each whistle should be no taller than 1' and no larger than 2" in diameter. Ideally, the prop should be approximately the size of a paper towel role. The precise length of each whistle can vary, but does not have to.
 - The base of the whistle must be easily and securely mountable to a wooden surface with 1/8" diameter wood or drywall screws.
 - This prop will be under tremendous strain as soon as the room enters operation, since players will be invited to pull on it. All parts of it must be made to be extremely durable and resistant to wear, and must be able to be mounted very securely.
-# Tech Specs
+# Technical Specifications
 The prop must contain a securely housed but easily maintainable momentary pull switch with a strong cord or chain attached. This cord must be at least a foot long, and must be easy for staff to adjust the length of and replace entirely, but difficult for players to remove on purpose.
 
 To be extra clear: this must be a *momentary* pull switch. It should not click on and off like a ceiling light pull switch. It should remain open or closed while a player is pulling it, and should return to its normal state when released. This is to simulate the actual operation of a steam whistle.
@@ -22,7 +22,7 @@ This switch may be constructed from scratch with something like a limit or Reed 
 
 Each switch should terminate in a female [3-pin JST connector such as these](https://a.co/d/0cz6UqxK), with the terminals of the switch connected to either of the two outermost contacts (the middle contact will remain unused). This is how we will connect the whistles to a COGS digital master. The connector must be concealed inside the base of the whistle. There should be a way to securely mount a cable connected to this connector inside the base of the whistle.
 # Reference Images
-![[166738050_1_x-1005068644.jpg]]![[main-2338358259.jpg]]
+![[Media/166738050_1_x-1005068644.jpg]]![[Media/main-2338358259.jpg]]
 
 
 https://www.ebay.com/itm/296870343730?var=0&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338590836&toolid=10044&loc_physical_ms=79789&customid=8b811b9e8b7e151b080d7200ce339e2a&gclid=8b811b9e8b7e151b080d7200ce339e2a
