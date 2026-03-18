@@ -1,17 +1,18 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-17T17:15:14.549-07:00
+modified: 2026-03-18T14:16:37.753-07:00
 cssclasses: ""
 ---
-
-The following is a list of individual projects that we are looking for bids on. Right now, most of the linked pages are empty, but full specifications/design briefs will soon be provided to clarify the scope, deliverables, and expectations. For the time being, if you'd like to see what each item looks like in context, I recommend searching for it in the latest draft of the [[Script (Draft 3)\|script]].
 
 Our goal timeline is very short. Our broad goal is for the vast majority of these projects to be completed in parallel by different contractors by mid to late April 2026 and to install everything in late April/early May.
 
 I (Matthew) will be available to provide support/guidance and to answer any questions about the projects for the duration of the build.
-# Prep Period Projects
-We are currently accepting BIDS for the following projects, to be delivered prior to the installation period.
+# Projects Available for Bids
+
+**Our goal is to have all of these projects completed by April 19.**
+
+We are currently accepting BIDS for the following projects, to be delivered prior to the installation period. Right now, most of the linked pages are empty, but full specifications/design briefs will soon be provided to clarify the scope, deliverables, and expectations. For the time being, if you'd like to see what each item looks like in context, I recommend searching for it in the latest draft of the [[Script (Draft 3)\|script]].
 
 Many of these are projects that will require tech/electronics knowledge, although they exist on a spectrum between very low tech (e.g. the Limelight) and quite high tech (Gas pipe puzzle/Gas Lantern). Most of these, however, only have a few simple sensors or lights in them and are primarily mechanical to a large degree.
 
@@ -44,7 +45,25 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Creative Technology/Furnace]] (fabrication/tech only)
 - [[Props/Eye Chain]] (foam/latex)
 - [[Props/Eyeball Growths]] (foam/latex)
+## Signage
+Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
+### Paper/Canvas/Other
+- [[Props/Ringmaster's Letter]] (set up for bulk production)
+- [[Props/Ringmaster’s Journal Entries]]
+- [[Props/Boiler Maintenance Ticket]]
+- [[Props/Hyde Circus Reopening Posters]]
+### Wood/Metal
+- [[Props/Hyde Circus Express Signs]]
+- [[Props/Brake Label]]
+- [[Props/Engine Room Sign]]
+- [[Props/Gas Pump Instructional Sign]]
+- Pickled Punk Puzzle Clue
+- Limelight Instructional Sign
+## Digital Media
+- Projection design: twinkling starscape
+- Projection design: hundreds of eyes
 ## Decoration/Painting/Weathering/Aging/Modification
+These items will need to be painted, aged, or otherwise decorated after fabrication is complete. 
 - [[Props/Engine Room Sign]]?
 - [[Props/Train Windows]]
 - [[Creative Technology/Boiler]]
@@ -68,24 +87,7 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- [[Props/Acrobat]]
 	- [[Props/The Ringmaster]]
 	- Corpse for Wheel of Death
-## Signage
-Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
-### Paper/Canvas/Other
-- [[Props/Ringmaster's Letter]] (set up for bulk production)
-- [[Props/Ringmaster’s Journal Entries]]
-- [[Props/Boiler Maintenance Ticket]]
-- [[Props/Hyde Circus Reopening Posters]]
-### Wood/Metal
-- [[Props/Hyde Circus Express Signs]]
-- [[Props/Brake Label]]
-- [[Props/Engine Room Sign]]
-- [[Props/Gas Pump Instructional Sign]]
-- Pickled Punk Puzzle Clue
-- Limelight Instructional Sign
-## Digital Media
-- Projection design: twinkling starscape
-- Projection design: hundreds of eyes
-# Installation Team
+# Available Installation Team Roles (~April 20 to ~May 15)
 - Project Manager (Matthew McClain)
 	- Directing and coordinating all other build team members
 	- Keeping progress on track
