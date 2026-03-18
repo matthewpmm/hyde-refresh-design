@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.915-08:00
-modified: 2026-03-18T16:20:56.159-07:00
+modified: 2026-03-18T16:21:44.282-07:00
 cssclasses: ""
 ---
 
@@ -32,4 +32,4 @@ For [[Puzzles/Puzzle 5 - The Limelight]], we will need a light with handles that
 ![[Media/318b38e1d98abf0393e62d0b899de7ec.jpg]]
 ![[07afeb447f9ce7293df7a022ac08e1dc.jpg]]
 ![[Media/IMG_4483.jpeg]]![[Media/IMG_4488.jpeg]]
-#lighting #creative-tech 
+#lighting #creative-tech #carpentry 
