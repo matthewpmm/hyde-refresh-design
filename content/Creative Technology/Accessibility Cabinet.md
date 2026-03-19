@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T16:37:31.809-08:00
-modified: 2026-03-18T18:17:46.193-07:00
+modified: 2026-03-18T18:21:19.935-07:00
 cssclasses: ""
 ---
 
@@ -27,7 +27,7 @@ This is a cabinet containing several adjustable settings controlled by buttons a
 - Must contain a [GIDERWEL 12 Channel DMX decoder](https://a.co/d/0dQWbyIB) set to address 12 and wired to all LEDs as outlined in the channel list below. This should be connected to the +12V barrel jack.
 - All LEDs must be pre-connected to an appropriate resistor and rated properly to be powered by a +12V PWM supply via the DMX decoder ([consider these](https://a.co/d/00Tya8eo)).
 
-**RJ45 Breakout 1**
+## RJ45 Breakout 1
 
 | #   | Connection                    |
 | --- | ----------------------------- |
@@ -39,7 +39,7 @@ This is a cabinet containing several adjustable settings controlled by buttons a
 | 6   | Scaredy-Cat Mode Button       |
 | 7   |                               |
 | 8   |                               |
-**RJ45 Breakout 2**
+## RJ45 Breakout 2
 
 | #   | Connection                            |
 | --- | ------------------------------------- |
@@ -51,6 +51,7 @@ This is a cabinet containing several adjustable settings controlled by buttons a
 | 6   | Dialogue Vol Dial CLK                 |
 | 7   |                                       |
 | 8   | Dialogue Vol Dial DT                  |
+## DMX PWM Decoder
 
 | Decoder Channel |                                |
 | --------------- | ------------------------------ |
