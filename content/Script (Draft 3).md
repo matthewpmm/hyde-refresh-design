@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-03-12T16:58:07.729-07:00
+modified: 2026-03-18T20:47:26.604-07:00
 cssclasses: ""
 ---
 
@@ -158,15 +158,15 @@ Keen-eyed players will notice that the board is subdivided into equal sections r
 - The Crescent Moon
 - The Big Top
 - The Ringleader
-- The Lion
+- The Ape
 - The Clown
 - The Acrobat
 - The Tall Man
-- The Animals
+- The Seal
 - The Eye
 - The Specimen
 - The Contortionist
-- The Damned
+- The Shackles
 
 Most of these labeled sections have a slot into which a knife can be placed. Players must determine which four of these constellations refer to items found around the room with knives sticking out of them and plunge the knives into the corresponding slots. The correct constellations are:
 

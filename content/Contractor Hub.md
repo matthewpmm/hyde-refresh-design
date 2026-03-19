@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-18T14:37:21.862-07:00
+modified: 2026-03-18T18:55:48.714-07:00
 cssclasses: ""
 ---
 
@@ -32,7 +32,6 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Steam Whistle]] (x7)
 - [[Creative Technology/Hint Bell]] (x2)
 - [[Creative Technology/Brake Lever]]
-- [[Props/Train Windows]] (x4)
 - [[Props/Moons]] (x3)
 - [[Creative Technology/Gas Pump]] (fabrication/tech only)
 - [[Creative Technology/Gas Valves]] (x?)
