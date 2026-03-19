@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.923-08:00
-modified: 2026-03-18T21:39:53.048-07:00
+modified: 2026-03-18T21:41:24.498-07:00
 cssclasses: ""
 ---
 
 This is one of the centerpiece set pieces of the entire experience. It is a large spinning wheel with a corpse attached to it (although this will be assembled separately).
 
+The wheel will be divided into 13 sections, each of which is associated with and labeled by one of 13 fictional constellations:
 - The Star
 - The Crescent Moon
 - The Big Top
@@ -81,6 +82,6 @@ Of the 13 constellations on the wheel, five are functionally covered by the corp
 | 7   |            |
 | 8   | Sensor 11  |
 # Reference Images
-![[8e39e5aeb03647792e67b0642decf0d2.jpg]]
-![[7eeb8b6b9db605cc810419c0c0484389.jpg]]
-![[de2e33e76e9d3f6d848de3744b657493.jpg]]
+![[Media/8e39e5aeb03647792e67b0642decf0d2.jpg]]
+![[Media/7eeb8b6b9db605cc810419c0c0484389.jpg]]
+![[Media/de2e33e76e9d3f6d848de3744b657493.jpg]]

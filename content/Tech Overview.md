@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-03-16T18:28:54.870-07:00
+modified: 2026-03-19T14:49:09.995-07:00
 cssclasses: ""
 ---
 
@@ -14,7 +14,7 @@ Technicians: please see the [Tech Routing](https://docs.google.com/spreadsheets/
 # Notes on COGS Compatibility
 All custom puzzle devices must be constructed in such a way that they can be easily connected to the COGS Masters that will be operating the majority of the electronics in the attraction. A detailed wiring/connection guide with clear labels for exactly which inputs and outputs are connected where is an expected deliverable for all contracted creative technology props.
 
-Any device containing a low-current logic input or output must have a female RJ45 connector (wired according to the B-standard) that is accessible to the install/programming teams but inaccessible to players. These will either be connected directly to a COGS Digital Master (+5VDC logic inputs and outputs), a COGS Sensor Master (0-5VDC analog input), or a
+Any device containing a low-current logic input or output must have a female RJ45 connector (wired according to the B-standard) that is accessible to the install/programming teams but inaccessible to players. These will either be connected directly to a COGS Digital Master (+5VDC logic inputs and outputs) or a COGS Sensor Master (0-5VDC analog input).
 
 ![[Media/Digital Master.png]]
 ![[Media/Sensor-02.png]]
