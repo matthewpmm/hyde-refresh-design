@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.944-08:00
-modified: 2026-03-20T15:01:39.459-07:00
+modified: 2026-03-20T16:25:30.507-07:00
 cssclasses: ""
 ---
 
-Lamps that will 
+Lamps designed to resemble glowing moons that will be hung in the sky above the [[Rooms/Big Top (Circus Tent)]].
 # Deliverables
 - Two "full moon" lamps.
-- One "waning crescent moon" lamp.
+- One "waning crescent moon" lamp with a [[Props/Throwing Knives\|throwing knife]] sticking out of it.
 # Design Specifications
 - Please try to duplicate the moons in the image below as closely as possible.
 - The waning crescent moon lamp should be painted with some sort of totally opaque material (perhaps flex seal) to make the edge of the light on the lamp as clear as possible. Ideally this would be painted on the inside, but the outside will do if necessary.
