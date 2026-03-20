@@ -1,18 +1,26 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.916-08:00
-modified: 2026-03-19T16:05:52.518-07:00
+modified: 2026-03-20T13:56:47.439-07:00
 cssclasses: ""
 ---
 
-
+[[Puzzles/Puzzle 3 - Pickled Punks]] will take place inside a large tent in the [[Rooms/Courtyard]]. We would like to contract the design, decoration, and build of the entire tent and all its contents.
 # Deliverables
-- A framed tent measuring ~6' wide x 6' deep x 8' tall that can be assembled inside the existing experience and attached securely to the walls and floor
-- A decorated shelving unit to store the Pickled Punks used in [[Puzzles/Puzzle 3 - Pickled Punks]].
+- A framed tent measuring ~6' wide x 6' deep x 8' tall that can be assembled inside the existing experience and attached securely to the walls and floor.
+- A decorated, thematically appropriate shelving unit to store the [[Pickled Punks]].
+- Fully decorated jars of [[Pickled Punks]] attached to the shelving unit.
+- Four [[Props/Puzzle Jars]] with unique RFID tags, and four spare puzzle jars identical to the original ones.
+- A [[Creative Technology/Punk Pedestal]] large enough for all four puzzle jars to sit on top of that we can conceal RFID readers inside.
 # Design Specifications
 - The tent must be themed to complement the [existing circus tent](https://drive.google.com/drive/folders/17_amLmX4zwB1vz07TuSuUE0OPJnrqfoB?usp=drive_link).
-- The tent fabric must be a tough material resistant to player meddling, ideally some sort of canvas.
-- Mounting brackets must be built in to make it possible to screw the tent directly into the adjacent walls and concrete floor.
+- The tent fabric must be a tough material resistant to player meddling, such as a heavy canvas.
+- Mounting brackets must be attached to the frame to make it possible to screw the tent directly into the adjacent walls and concrete floor.
+- The Pickled Punks should be decorated with the accessory stickers, then aged and weathered appropriately. The jar lids should be painted black or brown. The jars can be replaced entirely if a better option is found.
+- The punk pedestal will likely need to be decorated but can be sourced from a reused prop from the existing experience if an appropriate one can be found.
+- The non-puzzle Pickled Punks must be secured in place and not be removable by players. The puzzle punks should be among the others on the shelves but should be removable.
+- All jars MUST have their lids securely glued shut.
+- One of the Pickled Punks must have a [[Props/Throwing Knives\|throwing knife]] either stabbed through the jar or stabbed through the creature inside the jar.
 # Technical Specifications
-- Several [cabinet locks](https://a.co/d/020ugVDs) must be used to hold the cloth door of this prop closed. These locks must be wired in parallel and terminate in a single female JST connector attached to one of the support poles.
+- 3 [cabinet locks](https://a.co/d/0fQzu2hg) secured to the frame must be used to hold the cloth door of the tent closed.
 # Reference Images
