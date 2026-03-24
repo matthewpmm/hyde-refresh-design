@@ -1,7 +1,17 @@
 ---
 publish: true
 created: 2026-02-25T22:27:14.996-08:00
-modified: 2026-02-25T22:28:19.553-08:00
+modified: 2026-03-23T23:48:35.193-07:00
 cssclasses: ""
 ---
 
+A large furnace ostensibly connected to the steam engine that will be used to destroy the [[Props/Eye of the Ancient One]] in the final [[Puzzles/Puzzle 12 - Destroying the Eye]].
+# Deliverables
+- One fully constructed furnace prop.
+- Maintenance documentation explaining how to repair any technical issues in the future.
+- A fully sourced bill of materials for ongoing maintenance.
+# Design Specifications
+- 
+# Technical Specifications
+
+# Reference Images

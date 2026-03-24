@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-23T22:43:42.257-07:00
+modified: 2026-03-23T23:21:39.019-07:00
 cssclasses: ""
 ---
 
@@ -29,7 +29,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Creative Technology/Pneumatic Mail Tube]] (This may be cut)
 - [[Creative Technology/Accessibility Cabinet]]
 - [[Creative Technology/Boiler]] (fabrication/tech only)
-- [[Steam Whistle]] (x7)
+- [[Creative Technology/Steam Whistle]] (x7)
 - [[Creative Technology/Hint Bell]] (x2)
 - [[Creative Technology/Brake Lever]]
 - [[Props/Moons]] (x3)
@@ -61,11 +61,12 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - Pickled Punk Puzzle Clue
 - Limelight Instructional Sign
 ## Digital Media
-- Projection design
+- [[Lighting/Projections]]
 	- Twinkling Starscape
 	- Hundreds of Eyes
-- Other video content
-	- English Language Captions: 
+- [[Accessibility]] content
+	- English language captions and translations for the accessibility tablet (to play during all dialogue)
+	- English language translations of important journal entries and other text related to puzzles to display on the accessibility tablet during specific puzzles
 ## Decoration/Painting/Weathering/Aging/Modification
 These items will need to be painted, aged, or otherwise decorated after fabrication is complete. 
 - [[Props/Engine Room Sign]]?
