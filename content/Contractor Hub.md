@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-23T15:47:50.820-07:00
+modified: 2026-03-23T20:32:45.829-07:00
 cssclasses: ""
 ---
 
@@ -129,7 +129,6 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- Touch-up painting throughout each room
 	- Purchasing paint and paint supplies as needed
 	- Painting/adding rust/weathering/age to specific props
-		
 - Scenic Decorator (1-2)
 	- Foam/latex sculpting of eye growths
 	- Painting/adding rust/weathering/age to specific props
