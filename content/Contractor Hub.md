@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-23T20:32:45.829-07:00
+modified: 2026-03-23T22:43:42.257-07:00
 cssclasses: ""
 ---
 
@@ -61,8 +61,11 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - Pickled Punk Puzzle Clue
 - Limelight Instructional Sign
 ## Digital Media
-- Projection design: twinkling starscape
-- Projection design: hundreds of eyes
+- Projection design
+	- Twinkling Starscape
+	- Hundreds of Eyes
+- Other video content
+	- English Language Captions: 
 ## Decoration/Painting/Weathering/Aging/Modification
 These items will need to be painted, aged, or otherwise decorated after fabrication is complete. 
 - [[Props/Engine Room Sign]]?
