@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-18T18:55:48.714-07:00
+modified: 2026-03-23T15:47:50.820-07:00
 cssclasses: ""
 ---
 
@@ -151,3 +151,4 @@ For the language below, the Client is defined as Awkward Dog Interactive LLC, an
 - For every calendar day after the agreed upon due date that the finished item(s) is delivered, 3% of the total sale cost will be deducted from the balance owed by the Client.
 - The Client will be entitled to 1-3 progress reviews (depending on the complexity or criticality of the specific project item(s)) before the due date, at which time they may give notes and request specific changes that do not alter the agreed upon deliverables specified in the original agreement.
 - After signing the contract, the Contractor will have seven calendar days in which they may voluntarily terminate their contract (in writing) and forfeit the agreed upon payment balance with no additional fees or penalties. After seven calendar days have passed since the agreement is signed, the Contractor will be held responsible for delivering the finished item by the due date.
+- The Contractor will be required to provide a 6 month warranty policy for any custom built props.
