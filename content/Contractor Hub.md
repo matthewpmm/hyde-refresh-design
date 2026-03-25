@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-25T15:30:13.684-07:00
+modified: 2026-03-25T15:58:43.255-07:00
 cssclasses: ""
 ---
 
@@ -27,23 +27,23 @@ Many of these items will require prep and finishing work for painting but not th
 Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) for the project to get a sense for the overall vibe and aesthetic of the experience!
 ## To Build From Scratch
 - [[Creative Technology/Pneumatic Mail Tube]] (This may be cut) 
-- [[Creative Technology/Accessibility Cabinet]]
-- [[Creative Technology/Boiler]] (fabrication/tech only)
+- [[Creative Technology/Accessibility Cabinet]] **(unclaimed!)**
+- [[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
 - [[Creative Technology/Steam Whistle]] (x7) 
 - [[Creative Technology/Hint Bell]] (x2) 
-- [[Creative Technology/Brake Lever]]
-- [[Props/Moons]] (x3)
+- [[Creative Technology/Brake Lever]] **(unclaimed!)**
+- [[Props/Moons]] (x3) 
 - [[Creative Technology/Gas Pump]] (fabrication/tech only)
 - [[Creative Technology/Gas Valves]] (x?) 
-- [[Creative Technology/Gas Lantern]] (fabrication/tech only)
-- [[Creative Technology/Pickled Punks Tent]]
+- [[Creative Technology/Gas Lantern]] (fabrication/tech only) 
+- [[Creative Technology/Pickled Punks Tent]] **(carpentry unclaimed!)**
 - [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only)
 - [[Lighting/Limelight]] (fabrication/tech only) 
 - [[Creative Technology/Wheel of Death]] 
 - [[Props/Crash Panel]] (x2) 
 - [[Creative Technology/Wheel Pyramid]] (fabrication/tech only) 
 - [[Creative Technology/Display Pedestal]] (fabrication/tech only) 
-- [[Creative Technology/Furnace]] (fabrication/tech only)
+- [[Creative Technology/Furnace]] (fabrication/tech only) **(unclaimed!)**
 - [[Props/Eye Chain]] (foam/latex) 
 - [[Props/Eyeball Growths]] (foam/latex) 
 ## Signage
@@ -76,7 +76,7 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Brake Lever]]
 - [[Creative Technology/Gas Pump]]
 - [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
-- [[Creative Technology/Punk Pedestal]]
+- [[Creative Technology/Punk Pedestal]] 
 - Pickled Punk Jars 
 - [[Props/Puzzle Jars]] 
 - [[Creative Technology/Gas Lantern]]
@@ -84,9 +84,9 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Lighting/Limelight]]
 - [[Props/Knife Box]]
 - [[Creative Technology/Wheel Pyramid]]
-- [[Creative Technology/Display Pedestal]]
+- [[Creative Technology/Display Pedestal]] 
 - [[Creative Technology/Furnace]]
-- Dummies
+- Dummies 
 Each of the following is a human-sized dummy that will need to be decorated, dressed, and set up to be as robust as humanly possible.
 	- [[Creative Technology/The Contortionist]]
 	- [[Props/Acrobat]]

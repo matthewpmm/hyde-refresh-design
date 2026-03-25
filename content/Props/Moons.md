@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.944-08:00
-modified: 2026-03-20T16:25:30.507-07:00
+modified: 2026-03-25T16:34:50.838-07:00
 cssclasses: ""
 ---
 
@@ -15,6 +15,18 @@ Lamps designed to resemble glowing moons that will be hung in the sky above the 
 # Technical Specifications
 - The lamps themselves must contain [1600 Lumen Philips Hue bulbs](https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-100w-a21-e26-smart-bulb/046677591298) so they can be controlled by COGS' Phillips Hue plugin.
 - Must use a black light bulb outlet cable to power the bulb.
-
 # Reference Images
 ![[Media/IMG_4240.jpeg]]
+# How to Make Moon Balls
+*According to Thor from The Obscure*
+
+1. Get punch balloons (rubber band, actually round and has rubber band)
+2. Apply tissue paper (pba glue, elmer's glue, painted glue onto paper and applied to balloon)
+	- Rip the edges of the paper, hard edges destroy illusion
+	- 4-5 layers of the paper, translucent
+3. Let dry for a day
+4. Apply a marine grade epoxy (avoids yellowing), let it drip
+	- This combination of materials creates little divots and stuff
+5. Allow balloon to deflate naturally, it pulls off the sides, preserves tissue paper shell
+6. Acquire lamp cord wired to E26 light socket
+7. Fasten three zip ties around E26 cylinder, cut an x in the top, curl zip ties around and allow to stick back out on inside
