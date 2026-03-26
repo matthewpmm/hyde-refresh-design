@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-25T15:58:43.255-07:00
+modified: 2026-03-26T11:36:37.238-07:00
 cssclasses: ""
 ---
 
@@ -37,7 +37,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Creative Technology/Gas Valves]] (x?) 
 - [[Creative Technology/Gas Lantern]] (fabrication/tech only) 
 - [[Creative Technology/Pickled Punks Tent]] **(carpentry unclaimed!)**
-- [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only)
+- [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only) **(unclaimed!)**
 - [[Lighting/Limelight]] (fabrication/tech only) 
 - [[Creative Technology/Wheel of Death]] 
 - [[Props/Crash Panel]] (x2) 
