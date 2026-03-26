@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-03-19T14:49:09.995-07:00
+modified: 2026-03-25T21:15:45.024-07:00
 cssclasses: ""
 ---
 
@@ -29,6 +29,10 @@ All maglocks, cabinet locks, or other devices requiring a +12VDC or +24VDC power
 
 # Sound
 We will be using at least 12 speakers. We will need a large rack-mountable audio interface with 12-18 channels.
+
+# DMX
+
+[UKING ZQ02001 Moving Head Lights](https://www.uking-online.com/products/b242-led-30w-moving-head-light-spot-color-gobos-light?variant=43855331295343) are the moving fixtures for the "lights passing the train" effect (fixture positioned in the [[Rooms/Courtyard]]) and the vaudeville spotlight effect inside the [[Rooms/Big Top (Circus Tent)]]. The manual for these fixtures, including information on all DMX channel functions, can be found [here](https://www.uking-online.com/cdn/shop/files/ZQ02001.pdf?v=536862946589303442).
 # Resources
 - [LED mapping via Art-Net](https://www.youtube.com/watch?v=ShYYcr30vJw&t=1s)
 - [Installing COGS on Ubuntu](https://learn.cogs.show/installing-cogs-software)
