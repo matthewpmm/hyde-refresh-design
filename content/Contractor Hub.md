@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-26T16:30:53.224-07:00
+modified: 2026-03-26T16:31:53.379-07:00
 cssclasses: ""
 ---
 
@@ -44,8 +44,8 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Creative Technology/Wheel Pyramid]] (fabrication/tech only) 
 - [[Creative Technology/Display Pedestal]] (fabrication/tech only) 
 - [[Creative Technology/Furnace]] (fabrication/tech only) **(unclaimed!)**
-- [[Props/Eye Chain]] (foam/latex) 
-- [[Props/Eyeball Growths]] (foam/latex) 
+- [[Props/Eye Chain]] (foam/latex/silicone) 
+- [[Props/Eyeball Growths]] (foam/latex/silicone) 
 ## Signage
 Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
 ### Paper/Canvas/Other
