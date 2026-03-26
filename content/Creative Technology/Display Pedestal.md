@@ -1,11 +1,9 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.902-08:00
-modified: 2026-03-25T17:56:43.357-07:00
+modified: 2026-03-25T17:57:09.487-07:00
 cssclasses: ""
 ---
-
-
 
 This is the pedestal that will house the [[Props/Eye of the Ancient One]]. This can be as simple as a 3-4 ft tall display table.
 # Deliverables
