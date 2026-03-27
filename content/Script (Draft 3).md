@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-03-18T20:47:26.604-07:00
+modified: 2026-03-26T22:10:26.345-07:00
 cssclasses: ""
 ---
 
@@ -41,7 +41,7 @@ Upon boarding the train car, guests find a [[Lighting/Gas Lamps\|lamp-lit]] room
 
 A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit to the train.
 
-All around the room, mounted on the wooden supports above players' heads, to the walls, and on the wall underneath the brake lever, are five haphazardly positioned [[Steam Whistle\|steam whistles]] of various sizes, each with a small chain hanging from it, that are connected to the large boiler by a network of pipes.
+All around the room, mounted on the wooden supports above players' heads, to the walls, and on the wall underneath the brake lever, are five haphazardly positioned [[Creative Technology/Steam Whistle\|steam whistles]] of various sizes, each with a small chain hanging from it, that are connected to the large boiler by a network of pipes.
 
 Once the last player boards the train and the door automatically closes behind them, the train shudders and shakes as the engine sputters to life and the train begins moving. Lights begin to flicker past the windows faster and faster.
 
@@ -69,7 +69,7 @@ A worn out [[Props/Boiler Maintenance Ticket]] is attached to the side of the bo
 > *MAINTENANCE TICKET*
 > *DEC 12 1890*
 > 
-> *Steam whistles working inconsistently. Only one at a time works, but not always the same one. Referred to specialist.*
+> *Steam whistles working inconsistently. Only pulling one at a time works, but not always the same one. Referred to specialist.*
 
 By pulling the chains attached to each whistle mounted around the room, the whistles will sometimes blow a note at a unique pitch. By experimenting with pulling the whistles in different orders, players discover that the whistles will continue to blow in sequence if a certain melody is played on them in the correct order. If a wrong note is played after the melody sequence has begun, a discordant whistle will play instead and a puff of steam will be let out of a release pipe on the boiler to indicate a mistake.
 
