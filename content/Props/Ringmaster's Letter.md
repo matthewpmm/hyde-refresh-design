@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.947-08:00
-modified: 2026-03-26T22:18:43.576-07:00
+modified: 2026-03-26T22:25:04.100-07:00
 cssclasses: ""
 ---
 
@@ -22,7 +22,7 @@ The players receive this letter from The Ringmaster inviting them to board the H
 - The prop should contain all text specified below. If this text differs from the version in the [[Script (Draft 3)\|Script]], the version in the script takes precedence.
 ## Text
 
-> *April 7, 1891
+> *April 6, 1891
 > 
 > Dearest guests,
 > 

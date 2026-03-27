@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-03-26T22:10:26.345-07:00
+modified: 2026-03-26T22:25:50.782-07:00
 cssclasses: ""
 ---
 
@@ -22,7 +22,7 @@ When they remove the capsule and open it, the players find a [[Props/Ringmaster'
 
 The letter reads:
 
-> *April 7, 1891
+> *April 6, 1891
 > 
 > Dearest guests,
 > 
@@ -57,7 +57,7 @@ The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H
 
 Attached to a wall or other illuminated flat surface, players will find a torn-out page from a journal - this is the [[Props/Ringmaster’s Journal Entries\|first Ringmaster's Journal Entry]]. It reads as follows:
 
-> *April 4, 1891
+> *April 3, 1891
 > 
 > I have dipped into the last of our coffers to acquire new attractions for the circus. However, while I am optimistic that they will draw crowds, the performers' resentment grows ever more. They call the Pickled Punks abhorrent, the knife thrower a fraud, the Eye of the Ancient One a curse. They say I have reduced this proud institution to a cheap sideshow.
 > 
@@ -144,7 +144,7 @@ Once players route the gas through the pipes to the [[Creative Technology/Wheel 
 
 The journal entry reads as follows:
 
-> *April 5, 1891*
+> *April 4, 1891*
 > 
 > *I have been troubled by unsettling dreams as of late. I find myself standing alone in the center of the big top, surrounded by hundreds of eyes enshrouded in darkness. I find myself keenly aware that they can see me, inside me, into those darkest corners of my own self which I cannot bring even myself to examine.*
 > 
@@ -223,7 +223,7 @@ Players find a large, ornate, unlocked chest (the [[Props/Ringmaster's Trunk]]) 
 
 The third Ringmaster's Journal Entry reads as follows:
 
-> *April 6, 1891
+> *April 5, 1891
 > 
 > Hyde Circus is at long last reopening tomorrow, but a palpable tension remains in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and my authority is under tremendous strain. Were they a ship's crew adrift at sea and I their captain, I would feel a mutiny brewing.
 > 
