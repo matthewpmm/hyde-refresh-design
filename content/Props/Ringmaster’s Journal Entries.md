@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-03-12T16:58:07.701-07:00
+modified: 2026-03-26T21:53:14.337-07:00
 cssclasses: ""
 ---
 
@@ -28,3 +28,5 @@ All three notes are printed on parchment paper that has been visibly ripped out 
 > _I know not the madness that grips our circus's precise origin, but as a safeguard I have kept a single artifact for myself - a bag of so-called "earthly spices" procured by a renowned herbalist of ancient times. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it._
 > 
 > _(Illustration of earthly spice being dropped into the gas lantern)_
+
+#props #graphic-design 

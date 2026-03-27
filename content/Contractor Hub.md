@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-03-26T16:31:53.379-07:00
+modified: 2026-03-26T21:45:22.802-07:00
 cssclasses: ""
 ---
 
@@ -58,7 +58,7 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - [[Props/Brake Label]]
 - [[Props/Engine Room Sign]]
 - [[Props/Gas Pump Instructional Sign]]
-- Pickled Punk Puzzle Clue
+- Pickled Punks Puzzle Clue
 - Limelight Instructional Sign
 ## Digital Media
 - [[Lighting/Projections]]
