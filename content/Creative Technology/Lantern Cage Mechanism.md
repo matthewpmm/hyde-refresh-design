@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-18T15:39:41.273-08:00
-modified: 2026-03-25T16:35:11.987-07:00
+modified: 2026-03-30T20:36:52.721-07:00
 cssclasses: ""
 ---
 
 A mechanism trapping the [[Creative Technology/Gas Lantern]] underneath a cage in the [[Rooms/Courtyard]]. When powered by the [[Creative Technology/Gas Pump]], the lantern lights and the cage detaches with a bang.
 # Deliverables
-- One fully functional cage mechanism, ready to be fastened and fully assembled on set
+- One fully functional cage mechanism, ready to be decorated and fully assembled on set
 # Design Specifications
 - 
 # Technical Specifications
