@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-01T23:06:13.398-07:00
+modified: 2026-04-02T00:09:42.892-07:00
 cssclasses: ""
 ---
 
@@ -54,7 +54,7 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - [[Props/Boiler Maintenance Ticket]]
 - [[Props/Hyde Circus Reopening Posters]]
 ### Wood/Metal
-- [[Props/Hyde Circus Express Signs]]
+- ~~[[Props/Hyde Circus Express Signs]]~~ (cancelled)
 - [[Props/Brake Label]]
 - [[Props/Engine Room Sign]]
 - [[Props/Gas Pump Instructional Sign]]
@@ -69,7 +69,7 @@ Each of these is both a graphic design project and a fabrication project. We wou
 	- English language translations of important journal entries and other text related to puzzles to display on the accessibility tablet during specific puzzles
 ## Decoration/Painting/Weathering/Aging/Modification
 These items will need to be painted, aged, or otherwise decorated after fabrication is complete. 
-- [[Props/Engine Room Sign]]?
+- [[Props/Engine Room Sign]]
 - [[Props/Train Windows]]
 - [[Creative Technology/Boiler]]
 - [[Creative Technology/Hint Bell]] (x2)
@@ -93,7 +93,7 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- [[Props/Acrobat]]
 	- [[Props/The Ringmaster]]
 	- Corpse for Wheel of Death
-# Available Installation Team Roles (~April 20 to ~May 15)
+# Available Installation Team Roles (~April 20 to ~May 1)
 - Project Manager (Matthew McClain)
 	- Directing and coordinating all other build team members
 	- Keeping progress on track
