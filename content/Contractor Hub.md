@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-01T20:55:36.277-07:00
+modified: 2026-04-01T23:04:35.949-07:00
 cssclasses: ""
 ---
 
@@ -26,28 +26,28 @@ Many of these items will require prep and finishing work for painting but not th
 
 Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) for the project to get a sense for the overall vibe and aesthetic of the experience!
 ## To Build From Scratch
-- ~~[[Creative Technology/Pneumatic Mail Tube]]~~
-- [[Creative Technology/Accessibility Cabinet]] 
-- [[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
+- ~~[[Creative Technology/Pneumatic Mail Tube]]~~ (cancelled)
+- ~~[[Creative Technology/Accessibility Cabinet]]~~ (claimed) 
+- ~~[[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
 - [[Creative Technology/Steam Whistle]] (x7)  **(unclaimed!)**
-- [[Creative Technology/Hint Bell]] (x2) 
-- [[Creative Technology/Brake Lever]] 
-- [[Props/Moons]] (x3) 
+- ~~[[Creative Technology/Hint Bell]] (x2)~~ (claimed) 
+- ~~[[Creative Technology/Brake Lever]]~~ (claimed)
+- ~~[[Props/Moons]] (x3)~~ (claimed) 
 - [[Creative Technology/Gas Pump]] (fabrication/tech only) **(unclaimed!)**
 - [[Creative Technology/Gas Valves]] (x10-20) **(unclaimed!)**
-- [[Creative Technology/Gas Lantern]] (fabrication/tech only) 
+- ~~[[Creative Technology/Gas Lantern]] (fabrication/tech only)~~ (claimed) 
 - [[Creative Technology/Pickled Punks Tent]] **(carpentry unclaimed!)**
 - [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only) **(unclaimed!)**
-- [[Lighting/Limelight]] (fabrication/tech only) 
-- [[Creative Technology/Wheel of Death]] 
-- [[Props/Crash Panel]] (x2) 
-- [[Creative Technology/Wheel Pyramid]] (fabrication/tech only) 
-- [[Creative Technology/Display Pedestal]] 
+- ~~[[Lighting/Limelight]] (fabrication/tech only)~~ (claimed) 
+- ~~[[Creative Technology/Wheel of Death]]~~ (claimed) 
+- ~~[[Props/Crash Panel]] (x2)~~ (claimed) 
+- [[Creative Technology/Wheel Pyramid]] (fabrication/tech only) **(unclaimed!)** 
+- ~~[[Creative Technology/Display Pedestal]]~~ (claimed) 
 - [[Creative Technology/Furnace]] (fabrication/tech only) **(unclaimed!)**
-- [[Props/Eye Chain]] (foam/latex/silicone) 
-- [[Props/Eyeball Growths]] (foam/latex/silicone) 
+- ~~[[Props/Eye Chain]] (foam/latex/silicone)~~ (claimed) 
+- ~~[[Props/Eyeball Growths]] (foam/latex/silicone)~~ (claimed) 
 ## Signage
-Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage, then send off each sign to be manufactured individually.
+Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage and ask them to either personally fabricate each item or outsource manufacturing to other fabricators/vendors.
 ### Paper/Canvas/Other
 - [[Props/Ringmaster's Letter]] (set up for bulk production)
 - [[Props/Ringmaster’s Journal Entries]]
@@ -61,9 +61,9 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - Pickled Punks Puzzle Clue
 - Limelight Instructional Sign
 ## Digital Media
-- [[Lighting/Projections]]
-	- Twinkling Starscape
-	- Hundreds of Eyes
+- ~~[[Lighting/Projections]]~~ (claimed)
+	- ~~Twinkling Starscape~~ (claimed)
+	- ~~Hundreds of Eyes~~ (claimed)
 - [[Accessibility]] content
 	- English language captions and translations for the accessibility tablet (to play during all dialogue)
 	- English language translations of important journal entries and other text related to puzzles to display on the accessibility tablet during specific puzzles
@@ -76,9 +76,9 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Brake Lever]]
 - [[Creative Technology/Gas Pump]]
 - [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
-- [[Creative Technology/Punk Pedestal]] 
-- Pickled Punk Jars 
-- [[Props/Puzzle Jars]] 
+- ~~[[Creative Technology/Punk Pedestal]]~~ (claimed) 
+- ~~Pickled Punk Jars~~ (claimed)
+- ~~[[Props/Puzzle Jars]]~~ (claimed) 
 - [[Creative Technology/Gas Lantern]]
 - [[Creative Technology/Lantern Cage Mechanism]]
 - [[Lighting/Limelight]]
@@ -87,7 +87,7 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Display Pedestal]] 
 - [[Props/Eye of the Ancient One]] 
 - [[Creative Technology/Furnace]]
-- Dummies 
+- ~~Dummies~~ (claimed) 
 Each of the following is a human-sized dummy that will need to be decorated, dressed, and set up to be as robust as humanly possible.
 	- [[Creative Technology/The Contortionist]]
 	- [[Props/Acrobat]]
