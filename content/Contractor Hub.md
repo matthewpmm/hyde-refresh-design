@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-01T23:04:35.949-07:00
+modified: 2026-04-01T23:06:13.398-07:00
 cssclasses: ""
 ---
 
@@ -28,7 +28,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 ## To Build From Scratch
 - ~~[[Creative Technology/Pneumatic Mail Tube]]~~ (cancelled)
 - ~~[[Creative Technology/Accessibility Cabinet]]~~ (claimed) 
-- ~~[[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
+- [[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
 - [[Creative Technology/Steam Whistle]] (x7)  **(unclaimed!)**
 - ~~[[Creative Technology/Hint Bell]] (x2)~~ (claimed) 
 - ~~[[Creative Technology/Brake Lever]]~~ (claimed)
