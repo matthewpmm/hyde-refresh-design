@@ -1,16 +1,23 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.934-08:00
-modified: 2026-03-10T18:09:24.435-07:00
+modified: 2026-04-01T20:18:48.296-07:00
 cssclasses: ""
 ---
 
+A cursed ancient artifact. Its exact origins are unknown, although the name suggests a Lovecraftian flavor. Specifically, it is a reference to the concept of Elder Things from "At the Mountains of Madness."
+
+This eye is connected to an ancient, unknowable force (the "Ancient One") with dominion over the dimension-between-dimensions that Hyde Circus finds itself banished to. It likes to observe, but does not like being disturbed.
+
+The Ringmaster acquired this artifact at great expense through unknown means, and planned to display it as a curiosity at the circus' reopening. However, before the reopening could occur, the power of the Ancient One eroded the the circus performers' sanity by causing extreme paranoia, trapped the circus in a timeless void, and drove the performers to mutiny against the Ringmaster.
+# Deliverables
+- Three duplicates of the finished, fully decorated prop.
+# Design Specifications
+- This should evoke the image of something evil, unnatural, monstrous, and very large.
+- This must be built to withstand a significant amount of wear, tear, handling, and mishandling by players.
+- There should be no latex on the exterior that it is possible for guests to touch, to prevent allergic reactions.
+# Technical Specifications
+- The eye does not need to contain any tech. It will be detected in the furnace via break beam sensors that operate independently of the prop itself.
+# Reference Images
 ![[Media/rs=w_888,h_888.jpg]]
-A cursed ancient artifact. Its exact origins are unknown, although the name suggests a Lovecraftian flavor. Specifically, it is a reference to the concept of Elder Things from "At the Mountains of Madness." ~~that can be destroyed by placing it inside the [[Creative Technology/Gas Lantern]].~~
-
-- [Green](https://deadheadprops.com/shop/ols/products/realistic-life-size-bloody-ripped-out-eyeball-blue-dhprippedblue) (pictured) or [Blue](https://deadheadprops.com/shop/ols/products/realistic-life-size-bloody-ripped-out-eyeball-blue) realistic eyeball from Dead Head props ($13.99 each)
-- [Infected eyeball](https://www.etsy.com/listing/1829287797/halloween-horror-prop-life-size-infected?gpla=1&gao=1&utm_source=bing&utm_medium=cpc&utm_campaign=shopping_us_en_us_ds_high-jewelry&utm_custom1=_k_cebe0c9847281f674d97650d650c084b_k_&utm_content=bing_412373260_1310618158162782_81913698685109_pla-4585513250315451%3Apla-4585513250315451_c__1829287797&utm_custom2=412373260&msclkid=cebe0c9847281f674d97650d650c084b) from Etsy ($13.99)
-- [Bloody eyeball pendant](https://www.etsy.com/listing/4326319479/hyper-realistic-bloody-eyeball-pendant?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=creepy+scary+chains&ref=sc_gallery-1-2&pro=1&frs=1&loc=1&local_signal_search=1&plkey=Eu3XPMJCCaVX631l55DV4ON3Aje5%3ALTef07635112601611edbe7e2448f1938361e99532) from Etsy ($22-40, probably multiple sellers)
-
-- [Eye of Vecna (D&D)](https://forgottenrealms.fandom.com/wiki/Eye_of_Vecna)
-- Bloo
+#props #scenic #decoration
