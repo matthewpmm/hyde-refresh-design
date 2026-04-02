@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.934-08:00
-modified: 2026-04-01T20:18:48.296-07:00
+modified: 2026-04-01T20:20:09.597-07:00
 cssclasses: ""
 ---
 
@@ -19,5 +19,6 @@ The Ringmaster acquired this artifact at great expense through unknown means, an
 # Technical Specifications
 - The eye does not need to contain any tech. It will be detected in the furnace via break beam sensors that operate independently of the prop itself.
 # Reference Images
+Please refer to the ["Eyeballs & Hall of Mirrors"](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/eyeballs-hall-of-mirrors/) sub-board of the main Pinterest board for style inspiration.
 ![[Media/rs=w_888,h_888.jpg]]
 #props #scenic #decoration
