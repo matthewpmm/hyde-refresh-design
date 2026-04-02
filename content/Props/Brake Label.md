@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-24T15:42:54.361-08:00
-modified: 2026-04-02T00:08:29.317-07:00
+modified: 2026-04-02T00:27:45.392-07:00
 cssclasses: ""
 ---
 
 A sign clearly indicating the function of the [[Creative Technology/Brake Lever]]. This will be posted on the wall next to the lever, slightly above it.
 # Deliverables
 - Research on three potential vendors who can manufacture the sign on some sort of thin metal such as aluminum.
-- Original print-quality digital design files for the sign subject to two rounds of revision each.
+- An original print-quality digital design file for the sign subject to two rounds of revision each.
 # Design Specifications
 - This must look time-period appropriate.
 - The text "BRAKE LEVER" must be clearly printed on the sign.

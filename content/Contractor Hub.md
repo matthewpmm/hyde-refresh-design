@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-02T00:09:42.892-07:00
+modified: 2026-04-02T00:36:26.619-07:00
 cssclasses: ""
 ---
 
@@ -47,19 +47,19 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - ~~[[Props/Eye Chain]] (foam/latex/silicone)~~ (claimed) 
 - ~~[[Props/Eyeball Growths]] (foam/latex/silicone)~~ (claimed) 
 ## Signage
-Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage and ask them to either personally fabricate each item or outsource manufacturing to other fabricators/vendors.
+Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage and ask them to either personally fabricate each item or aid in outsourcing manufacturing to other fabricators/vendors.
 ### Paper/Canvas/Other
-- [[Props/Ringmaster's Letter]] (set up for bulk production)
+- [[Props/Ringmaster's Letter]]
 - [[Props/Ringmaster’s Journal Entries]]
 - [[Props/Boiler Maintenance Ticket]]
 - [[Props/Hyde Circus Reopening Posters]]
-### Wood/Metal
+### Metal
 - ~~[[Props/Hyde Circus Express Signs]]~~ (cancelled)
 - [[Props/Brake Label]]
 - [[Props/Engine Room Sign]]
-- [[Props/Gas Pump Instructional Sign]]
-- Pickled Punks Puzzle Clue
-- Limelight Instructional Sign
+- [[Props/Gas Pump Instructional Sign]] (delayed until design for [[Creative Technology/Gas Pump]] and [[Puzzles/Puzzle 2 - The Gas Pump]] are finished)
+- [[Pickled Punks Puzzle Clue]] (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
+- [[Limelight Instructional Sign]] (delayed until fabrication of [[Lighting/Limelight]] is started)
 ## Digital Media
 - ~~[[Lighting/Projections]]~~ (claimed)
 	- ~~Twinkling Starscape~~ (claimed)

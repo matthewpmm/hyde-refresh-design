@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.939-08:00
-modified: 2026-04-02T00:08:34.228-07:00
+modified: 2026-04-02T00:27:53.455-07:00
 cssclasses: ""
 ---
 
 A large sign indicating the door to the [[Rooms/Engine Room]].
 # Deliverables
 - Research on three potential vendors who can manufacture the sign on some sort of thin metal such as aluminum.
-- Original print-quality digital design files for the sign subject to two rounds of revision each.
+- An original print-quality digital design file for the sign subject to two rounds of revision each.
 # Design Specifications
 - This must look time-period appropriate.
 - The text "ENGINE ROOM" must be clearly printed on the sign.
