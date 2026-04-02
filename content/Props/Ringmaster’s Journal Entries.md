@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-03-31T22:58:55.123-07:00
+modified: 2026-04-02T00:44:06.439-07:00
 cssclasses: ""
 ---
 
 Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found throughout the experience. The first is found taped to a wall inside the [[Rooms/Boiler Room]]. The second is found attached to the inside of the [[Props/Knife Box]]'s lid. The third is attached to the inside of the lid of the [[Props/Ringmaster's Trunk]].
 # Deliverables
+- Original print-quality digital design files for each of the three journal entries subject to two rounds of revision each.
 - Two fully fabricated copies of each of the three journal entries.
-- The final versions of all digital image or design files used to fabricate the props.
 - A written guide (with photos if relevant) to fabricating the props from scratch for the purpose of future reproduction.
 # Design Specifications
 - The journal entries should be printed on 8.5"x11" [inkjet-printer compatible canvas](https://a.co/d/0fK6LjRD) after the canvas has been pre-decorated to look like aged parchment.

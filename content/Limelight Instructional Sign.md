@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-02T00:12:10.784-07:00
-modified: 2026-04-02T00:38:28.458-07:00
+modified: 2026-04-02T00:39:51.684-07:00
 cssclasses: ""
 ---
 
@@ -20,5 +20,7 @@ A metal sign affixed to the [[Lighting/Limelight]]'s [[Creative Technology/Gas L
 - All design files should meet the following specifications:
 	- Color format: CMYK
 	- 300dpi
-	- Dimensions: TBD
+	- Dimensions: TBD (ask fabricator once they have begun fabrication)
 - The final files should be compatible with the templates or provided specifications required by whichever manufacturer we choose, even where those differ from the ones specified above.
+
+#scenic #signage #graphic-design 

@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.947-08:00
-modified: 2026-04-01T22:55:30.324-07:00
+modified: 2026-04-02T00:43:34.181-07:00
 cssclasses: ""
 ---
 
 The players receive this letter from The Ringmaster inviting them to board the Hyde Circus Express to see the grand reopening of Hyde Circus.
 # Deliverables
+- Original print-quality digital design files for the Ringmaster's Letter and accompanying envelope subject to two rounds of revision each.
 - 1 fully fabricated sample copy of the Ringmaster's Letter and an envelope made with printer paper, and following approval:
 - 5 fully fabricated copies of the Ringmaster's Letter.
 - 5 fully fabricated envelopes.
-- The final versions of all digital image or design files used to fabricate the prop.
 - A written guide (with photos/videos if relevant) to fabricating the prop from scratch for the purpose of future reproduction.
 # Design Specifications
 - This should be mid-sized rectangular letter and envelope (~6"x4").

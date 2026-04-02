@@ -1,16 +1,17 @@
 ---
 publish: true
 created: 2026-02-24T17:15:51.068-08:00
-modified: 2026-03-30T20:39:14.616-07:00
+modified: 2026-04-02T00:45:21.491-07:00
 cssclasses: ""
 ---
 
 A worn out maintenance ticket attached to the side of the [[Creative Technology/Boiler]].
 # Deliverables
+- An original print-quality digital design file for the Boiler Maintenance Ticket subject to two rounds of revision.
 - 3 copies of the fully fabricated maintenance ticket.
-- The final versions of all digital image or design files used to fabricate the props.
 # Design Specifications
 - This should appear to be paper, but should be a more durable material, such as canvas.
+- This should be smaller than a standard 8.5"x11" piece of printer paper.
 ## Text
 
 > *MAINTENANCE TICKET*
