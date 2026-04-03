@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.934-08:00
-modified: 2026-04-01T20:20:09.597-07:00
+modified: 2026-04-03T15:38:37.466-07:00
 cssclasses: ""
 ---
 
@@ -15,7 +15,7 @@ The Ringmaster acquired this artifact at great expense through unknown means, an
 # Design Specifications
 - This should evoke the image of something evil, unnatural, monstrous, and very large.
 - This must be built to withstand a significant amount of wear, tear, handling, and mishandling by players.
-- There should be no latex on the exterior that it is possible for guests to touch, to prevent allergic reactions.
+- There should be no allergenic latex on the exterior that it is possible for guests to touch, to prevent allergic reactions.
 # Technical Specifications
 - The eye does not need to contain any tech. It will be detected in the furnace via break beam sensors that operate independently of the prop itself.
 # Reference Images

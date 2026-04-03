@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-02T00:36:26.619-07:00
+modified: 2026-04-03T16:18:25.652-07:00
 cssclasses: ""
 ---
 
@@ -93,7 +93,15 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- [[Props/Acrobat]]
 	- [[Props/The Ringmaster]]
 	- Corpse for Wheel of Death
-# Available Installation Team Roles (~April 20 to ~May 1)
+# Installation Period
+## Schedule
+- **Daily Hours:** 8 (9am-5pm), including two paid 10 minute breaks and one 30-minute lunch break
+	- Opportunities may be available to stay late on certain days. Extra hours worked on any calendar day will be paid at the agreed rates, and not at an overtime or bonus rate unless otherwise discussed and agreed on with the Client.
+- **Demolition:** April 20
+- **Early Installation:** April 21-23
+- **Late Installation and Touch-Up:** April 27-May 1
+	- Please note that work cannot be guaranteed for all contractors during this entire period, since certain teams may finish their work before May 1 and additional labor may be unnecessary.
+## Available Installation Team Roles (~April 20 to ~May 1)
 - Project Manager (Matthew McClain)
 	- Directing and coordinating all other build team members
 	- Keeping progress on track
@@ -135,8 +143,16 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- Purchasing paint and paint supplies as needed
 	- Painting/adding rust/weathering/age to specific props
 - Scenic Decorator (1-2)
+	- Modifying, painting, and securely installing additional decorations to the set
+	- Recommending and aiding in procurement of additional decorations
+	- Demolition of old props and decorations
+	- Replacement and installation of flooring and artificial turf
 	- Foam/latex sculpting of eye growths
 	- Painting/adding rust/weathering/age to specific props
+	- Touch-up painting and finishing work
+	- Covering up leftover holes in existing structures
+	- Repair of existing props and decorative elements
+	- Mixing and applying colored resin to pre-fabricated props
 # Payment Information and Contractor Agreement
 ## Payment
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-03-25T21:15:45.024-07:00
+modified: 2026-04-02T18:16:04.092-07:00
 cssclasses: ""
 ---
 
@@ -28,7 +28,15 @@ All maglocks, cabinet locks, or other devices requiring a +12VDC or +24VDC power
 ![[Media/DC Master.png]]
 
 # Sound
-We will be using at least 12 speakers. We will need a large rack-mountable audio interface with 12-18 channels.
+This room contains 12 speakers, and the audio backend is designed to allow for quick audio file updates on the show control Mac Mini, detailed audio mixing and routing to specific speakers in TouchDesigner, and master volume control.
+
+Rather than using the built-in Audio Play behaviors in COGS, an OSC connection has been set up between COGS and TouchDesigner on the Mac Mini.
+
+To play a sound, COGS sends an OSC message to TouchDesigner containing the audio filename to play as an argument. TouchDesigner then triggers the appropriate file's Audio Play In CHOP to start playing audio. The audio is then mixed and routed to specific output channels on the 2nd gen Focusrite 180i20 audio interface, routed through the appropriate amplifier channel, and played on the speaker in the room. Control of the master audio volume in the room works via the same system.
+
+Please note that for this system to work, the Audio File In CHOPs in TouchDesigner need to be given the name of the audio file to play. It is more important that this filename match the one transmitted by COGS than that the actual audio file referenced by the OP matches the one in COGS.
+
+For the full breakdown of available OSC messages, please refer to the [Tech Routing](https://docs.google.com/spreadsheets/d/1hNpea9c83iEV9CKdvRUwMU7tv4EyQF3eoKwme37vBFU/edit?usp=sharing) document.
 
 # DMX
 
