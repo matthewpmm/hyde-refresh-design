@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.916-08:00
-modified: 2026-04-03T16:41:29.506-07:00
+modified: 2026-04-03T16:51:53.472-07:00
 cssclasses: ""
 ---
 
 [[Puzzles/Puzzle 3 - Pickled Punks]] will take place inside a large tent in the [[Rooms/Courtyard]]. The tent itself will need to be constructed, and a heavy canvas fabric will need to be sourced.
 # Deliverables
 - A framed tent measuring ~6' wide x 6' deep x 8' tall that can be assembled inside the existing experience and attached securely to the walls and floor.
-- A decorated, thematically appropriate shelving unit to store the [[Props/Pickled Punks]].
+
 - Fully decorated jars of [[Props/Pickled Punks]] attached to the shelving unit.
 - Four [[Props/Puzzle Jars]] with unique RFID tags, and four spare puzzle jars identical to the original ones.
 - A [[Creative Technology/Punk Pedestal]] large enough for all four puzzle jars to sit on top of that we can conceal RFID readers inside.

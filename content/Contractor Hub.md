@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-03T16:49:17.768-07:00
+modified: 2026-04-03T16:55:06.532-07:00
 cssclasses: ""
 ---
 
@@ -76,7 +76,7 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Brake Lever]]
 - [[Creative Technology/Gas Pump]]
 - [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
-- [[Pickled Punk Shelves]] (procurement, assembly, decoration) (claimed) 
+- [[Pickled Punk Shelf]] (procurement, assembly, decoration) (claimed) 
 - ~~[[Creative Technology/Punk Pedestal]]~~ (claimed) 
 - ~~Pickled Punk Jars~~ (claimed)
 - ~~[[Props/Puzzle Jars]]~~ (claimed) 
