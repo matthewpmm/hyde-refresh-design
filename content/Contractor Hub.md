@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-03T16:18:25.652-07:00
+modified: 2026-04-03T16:49:17.768-07:00
 cssclasses: ""
 ---
 
@@ -58,8 +58,8 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - [[Props/Brake Label]]
 - [[Props/Engine Room Sign]]
 - [[Props/Gas Pump Instructional Sign]] (delayed until design for [[Creative Technology/Gas Pump]] and [[Puzzles/Puzzle 2 - The Gas Pump]] are finished)
-- [[Pickled Punks Puzzle Clue]] (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
-- [[Limelight Instructional Sign]] (delayed until fabrication of [[Lighting/Limelight]] is started)
+- [[Props/Pickled Punks Puzzle Clue]] (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
+- [[Props/Limelight Instructional Sign]] (delayed until fabrication of [[Lighting/Limelight]] is started)
 ## Digital Media
 - ~~[[Lighting/Projections]]~~ (claimed)
 	- ~~Twinkling Starscape~~ (claimed)
@@ -76,6 +76,7 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Brake Lever]]
 - [[Creative Technology/Gas Pump]]
 - [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
+- [[Pickled Punk Shelves]] (procurement, assembly, decoration) (claimed) 
 - ~~[[Creative Technology/Punk Pedestal]]~~ (claimed) 
 - ~~Pickled Punk Jars~~ (claimed)
 - ~~[[Props/Puzzle Jars]]~~ (claimed) 
