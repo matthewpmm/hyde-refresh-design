@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-04-04T13:13:40.886-07:00
+modified: 2026-04-04T13:14:59.921-07:00
 cssclasses: ""
 ---
 
@@ -12,10 +12,6 @@ cssclasses: ""
 - Mixing levels of programmed audio tracks relative to each other using the built-in functionality of the show control system
 - Updating, revising, and adding additional sound effects as requested by the project manager/director
 # Deliverables
-- Composition, production, engineering, and mixing of a complete musical soundtrack for the experience
-- Sourcing, modifying, and/or creating and mixing sound effects
-- Programming the show control system to play music tracks and sound effects where specified by the script and these deliverables  
-- Updating, revising, and adding additional sound effects as requested by the project manager/director
 ## Soundtrack
 1. A full looping song plays after [[Creative Technology/The Contortionist]]'s introductory dialogue in the train car and ends suddenly when the brake lever is thrown.
 2. When the door to the [[Rooms/Courtyard]] opens, a spooky ambient track begins.
@@ -41,9 +37,8 @@ Documentation of attributions must be provided for all SFX borrowed from publicl
 
 The sound effects commissioned will include but are not limited to:
 - 
-## Sound Design
-- 
 # Technical Specifications
+- All audio files must be delivered as .wav files with minimal compression.
 - It is possible to actually program the room's audio system remotely using [Parsec](https://parsec.app/), which Matthew can help connect you to. The actual mixing and testing will need to be done in person.
 # Reference Material
 - [Notes on Zelda ocarina music](https://www.reddit.com/r/musictheory/comments/8z8yjx/oot_song_keys/)
