@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-03T16:55:06.532-07:00
+modified: 2026-04-03T17:23:12.510-07:00
 cssclasses: ""
 ---
 
@@ -36,7 +36,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 - [[Creative Technology/Gas Pump]] (fabrication/tech only) **(unclaimed!)**
 - [[Creative Technology/Gas Valves]] (x10-20) **(unclaimed!)**
 - ~~[[Creative Technology/Gas Lantern]] (fabrication/tech only)~~ (claimed) 
-- [[Creative Technology/Pickled Punks Tent]] **(carpentry unclaimed!)**
+- ~~[[Creative Technology/Pickled Punks Tent]]~~ (claimed) 
 - [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only) **(unclaimed!)**
 - ~~[[Lighting/Limelight]] (fabrication/tech only)~~ (claimed) 
 - ~~[[Creative Technology/Wheel of Death]]~~ (claimed) 
@@ -78,7 +78,7 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Props/Gas Canister]] (for gas pipe puzzle) (x6)
 - [[Pickled Punk Shelf]] (procurement, assembly, decoration) (claimed) 
 - ~~[[Creative Technology/Punk Pedestal]]~~ (claimed) 
-- ~~Pickled Punk Jars~~ (claimed)
+- ~~[[Props/Pickled Punks]]~~ (claimed)
 - ~~[[Props/Puzzle Jars]]~~ (claimed) 
 - [[Creative Technology/Gas Lantern]]
 - [[Creative Technology/Lantern Cage Mechanism]]
