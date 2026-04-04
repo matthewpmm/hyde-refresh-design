@@ -1,11 +1,21 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-04-04T12:37:27.494-07:00
+modified: 2026-04-04T13:13:22.006-07:00
 cssclasses: ""
 ---
 
+# Role Responsibilities
+- Composition, production, engineering, and mixing of a complete musical soundtrack for the experience
+- Sourcing, modifying, and/or creating and mixing sound effects
+- Programming the show control system to play music tracks and sound effects where specified by the script and agreed upon deliverables
+- Mixing levels of programmed audio tracks relative to each other using the built-in functionality of the show control system
+- Updating, revising, and adding additional sound effects as requested by the project manager/director
 # Deliverables
+- Composition, production, engineering, and mixing of a complete musical soundtrack for the experience
+- Sourcing, modifying, and/or creating and mixing sound effects
+- Programming the show control system to play music tracks and sound effects where specified by the script and these deliverables  
+- Updating, revising, and adding additional sound effects as requested by the project manager/director
 ## Soundtrack
 1. A full looping song plays after [[Creative Technology/The Contortionist]]'s introductory dialogue in the train car and ends suddenly when the brake lever is thrown.
 2. When the door to the [[Rooms/Courtyard]] opens, a spooky ambient track begins.
@@ -27,8 +37,11 @@ cssclasses: ""
 7. A high-energy but still bassy and dramatic looping music track plays for the duration of [[Puzzles/BACKUP PUZZLE - Unlocking the Engine Room]] and [[Puzzle 13 - Starting the Train]], until cutting out when the train is finally started.
 8. As the lights fade up during the outro, a simply arranged, contemplative, non-looping outro/credits song begins to play. It is bittersweet - a celebration of the Travelers' victory as well as an emotional farewell to the circus and [[Creative Technology/The Contortionist]], its last survivor.
 ## SFX
+Documentation of attributions must be provided for all SFX borrowed from publicly available sources that request attribution.
+
+The sound effects commissioned will include but are not limited to:
 - 
-## Sound Design (In-Person/Remote)
+## Sound Design
 - 
 # Technical Specifications
 - It is possible to actually program the room's audio system remotely using [Parsec](https://parsec.app/), which Matthew can help connect you to. The actual mixing and testing will need to be done in person.
