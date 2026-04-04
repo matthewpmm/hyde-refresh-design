@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.918-08:00
-modified: 2026-04-03T17:10:21.345-07:00
+modified: 2026-04-03T17:28:11.438-07:00
 cssclasses: ""
 ---
 
@@ -17,5 +17,6 @@ A small table on which the [[Props/Puzzle Jars]] will be placed in the correct p
 - The correct positions to place the jars should be marked with either an elevated platform or a recession.
 - The surface the jars are intended to be placed on to trigger the RFID readers should be no more than 1/2" thick, and must have enough open surface area underneath to support mounting of a [Blue RC-522 RFID reader](https://run-on-cogs.myshopify.com/products/blue-rc-522-rfid-reader-1m-jst-cable-mifare-tag).
 - Any paint on the top surface of the pedestal should be covered with a layer of resin to better resist wearing off from friction over time.
+- This must be able to be securely fixed to the floor or to the frame of the [[Creative Technology/Pickled Punks Tent]].
 # Technical Specifications
-- The wires for the internal cabinet lock must be terminated in 2-pin JST connectors. All internal wires should be concealed, and ideally inaccessible to players. (The locks we will provide are already terminated )
+- The wires for the internal cabinet lock must be terminated in 2-pin JST connectors. All internal wires should be concealed, and ideally inaccessible to players. (The locks we will provide are already terminated.)

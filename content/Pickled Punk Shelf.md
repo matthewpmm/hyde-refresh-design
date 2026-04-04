@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-03T16:49:22.086-07:00
-modified: 2026-04-03T16:56:14.462-07:00
+modified: 2026-04-03T17:24:12.955-07:00
 cssclasses: ""
 ---
 
@@ -13,6 +13,7 @@ cssclasses: ""
 - This must be able to be securely fixed to the floor or to the frame of the [[Creative Technology/Pickled Punks Tent]].
 - All non-[[Props/Puzzle Jars]] must be securely attached to the shelving unit after assembly and installation.
 - It must be possible to transport the shelving unit inside the experience without requiring any additional construction or special equipment.
+- The shelf must have open spots available throughout where the [[Props/Puzzle Jars]] can be stored amongst the other jars.
 # Reference Images
 
 

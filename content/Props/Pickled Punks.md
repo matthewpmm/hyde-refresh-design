@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-20T11:41:23.330-07:00
-modified: 2026-04-03T17:16:40.486-07:00
+modified: 2026-04-03T17:28:23.830-07:00
 cssclasses: ""
 ---
 
@@ -17,9 +17,6 @@ In real life, "Pickled Punks" were typically human fetuses preserved in jars, of
 - If the jars contain any kind of liquid, they must be even more robust and impossible for players to open.
 - It is strongly recommended that this [replica specimen jar assortment](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs) be used to source creatures for the jars. The jars themselves can be discarded or replaced at the contractor's discretion.
 - It is recommended that the jars  be decorated with the [accessory stickers](https://www.dappercadaver.com/products/vintage-labels-sheet).
-- One of the jars must contain one of the [[Props/Throwing Knives]] so it can serve as a hint for [[Puzzles/Puzzle 6 - Wheel of Death]].
+- One of the Pickled Punks must have a [[Props/Throwing Knives\|throwing knife]] either stabbed through the jar or stabbed through the creature inside the jar so it can serve as a hint for [[Puzzles/Puzzle 6 - Wheel of Death]].
 # Reference Images
-
-
-[Label sticker sheet]()
 ![[Media/1989b8a0a5f27e0c255c41daf510fcc9.jpg]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-03T17:23:12.510-07:00
+modified: 2026-04-03T20:50:24.819-07:00
 cssclasses: ""
 ---
 
@@ -93,7 +93,7 @@ Each of the following is a human-sized dummy that will need to be decorated, dre
 	- [[Creative Technology/The Contortionist]]
 	- [[Props/Acrobat]]
 	- [[Props/The Ringmaster]]
-	- Corpse for Wheel of Death
+	- [[Corpse for Wheel of Death]]
 # Installation Period
 ## Schedule
 - **Daily Hours:** 8 (9am-5pm), including two paid 10 minute breaks and one 30-minute lunch break
