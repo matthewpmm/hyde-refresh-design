@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-04-04T13:13:22.006-07:00
+modified: 2026-04-04T13:13:40.886-07:00
 cssclasses: ""
 ---
 
-# Role Responsibilities
+# Contractor Responsibilities
 - Composition, production, engineering, and mixing of a complete musical soundtrack for the experience
 - Sourcing, modifying, and/or creating and mixing sound effects
 - Programming the show control system to play music tracks and sound effects where specified by the script and agreed upon deliverables
