@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.982-08:00
-modified: 2026-03-26T22:25:50.782-07:00
+modified: 2026-04-04T12:33:30.912-07:00
 cssclasses: ""
 ---
 
@@ -262,7 +262,7 @@ Most importantly, the following text is visible:
 
 The blacklight from the lantern reveals that one of the corners of the pedestal has an outline of a conspicuous shape. A [[Ringmaster's Brooch]] matching this shape (and now glowing in the blacklight) can be found on the ringmaster’s body and removed with a large [[Props/Catch Pole\|catch pole]] leaning against the wall. Retrieving the brooch and placing it on the [[Creative Technology/Display Pedestal]] causes the display case door to unlock.
 
-As the door unlocks, the [[Soundtrack\|soundtrack]] increases in intensity even more. Once a player reaches in and grabs the eye, the sound of a deep rumble begins to build. In the distance, a large bell begins to toll.
+As the door unlocks, the [[Soundtrack, SFX & Sound Design\|soundtrack]] increases in intensity even more. Once a player reaches in and grabs the eye, the sound of a deep rumble begins to build. In the distance, a large bell begins to toll.
 
 Suddenly, the lantern lights up blindingly bright, and blue flames appear everywhere around the ceiling of the big top.
 

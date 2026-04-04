@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-20T11:41:23.330-07:00
-modified: 2026-04-03T17:28:23.830-07:00
+modified: 2026-04-03T21:56:55.852-07:00
 cssclasses: ""
 ---
 
@@ -20,3 +20,4 @@ In real life, "Pickled Punks" were typically human fetuses preserved in jars, of
 - One of the Pickled Punks must have a [[Props/Throwing Knives\|throwing knife]] either stabbed through the jar or stabbed through the creature inside the jar so it can serve as a hint for [[Puzzles/Puzzle 6 - Wheel of Death]].
 # Reference Images
 ![[Media/1989b8a0a5f27e0c255c41daf510fcc9.jpg]]
+#props #decoration 

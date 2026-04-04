@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.916-08:00
-modified: 2026-04-03T17:27:41.099-07:00
+modified: 2026-04-03T21:54:48.540-07:00
 cssclasses: ""
 ---
 
@@ -20,7 +20,7 @@ cssclasses: ""
 # Reference Images
 
 
-
-
-
+![[a6f5eb67fc8883be8d41ba0a83dd84e3.jpg]]
+![[Pasted image 20260403214858.png]]
+![[IMG_2192.jpeg]]
 #carpentry #creative-tech #decoration

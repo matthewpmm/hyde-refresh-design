@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.918-08:00
-modified: 2026-04-03T17:28:11.438-07:00
+modified: 2026-04-03T21:55:54.768-07:00
 cssclasses: ""
 ---
 
@@ -20,3 +20,5 @@ A small table on which the [[Props/Puzzle Jars]] will be placed in the correct p
 - This must be able to be securely fixed to the floor or to the frame of the [[Creative Technology/Pickled Punks Tent]].
 # Technical Specifications
 - The wires for the internal cabinet lock must be terminated in 2-pin JST connectors. All internal wires should be concealed, and ideally inaccessible to players. (The locks we will provide are already terminated.)
+# Reference Images
+![[f_31444182_1669212507414_bg_processed-593477188.jpg]]![[f_31623522_1670376731422_bg_processed-872113617.jpg]]

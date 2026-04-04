@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-03T20:50:24.819-07:00
+modified: 2026-04-04T12:33:42.094-07:00
 cssclasses: ""
 ---
 
@@ -61,6 +61,7 @@ Each of these is both a graphic design project and a fabrication project. We wou
 - [[Props/Pickled Punks Puzzle Clue]] (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
 - [[Props/Limelight Instructional Sign]] (delayed until fabrication of [[Lighting/Limelight]] is started)
 ## Digital Media
+- ~~[[Soundtrack, SFX & Sound Design]]~~ (claimed) 
 - ~~[[Lighting/Projections]]~~ (claimed)
 	- ~~Twinkling Starscape~~ (claimed)
 	- ~~Hundreds of Eyes~~ (claimed)

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-03T16:49:22.086-07:00
-modified: 2026-04-03T17:24:12.955-07:00
+modified: 2026-04-03T21:59:54.162-07:00
 cssclasses: ""
 ---
 
@@ -15,7 +15,9 @@ cssclasses: ""
 - It must be possible to transport the shelving unit inside the experience without requiring any additional construction or special equipment.
 - The shelf must have open spots available throughout where the [[Props/Puzzle Jars]] can be stored amongst the other jars.
 # Reference Images
-
-
-
+![[industrial-rusty-shelf-low-poly-rack-3d-model-low-poly-obj-3ds-fbx-c4d-stl-dae-4165706066.jpg]]
+![[3Tier-2_2048x2048-3916724524.jpg]]
+![[victorian-specimen-collection-stockcake-1730755750.jpg]]
+![[c0e3d2b33552acd4fedbcfcdafa88ed2-315254682.jpg|697]]
+![[natural-history-cabinet-stockcake-2441536734.jpg]]
 #decoration
