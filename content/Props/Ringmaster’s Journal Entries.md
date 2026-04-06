@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-04-02T00:44:06.439-07:00
+modified: 2026-04-05T17:12:32.518-07:00
 cssclasses: ""
 ---
 
@@ -14,7 +14,7 @@ Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found througho
 - The journal entries should be printed on 8.5"x11" [inkjet-printer compatible canvas](https://a.co/d/0fK6LjRD) after the canvas has been pre-decorated to look like aged parchment.
 - After printing, at least one edge of the parchment should be torn to look as though it has been ripped out of a journal.
 - The text in the entries should not be just a computer font - they should either be actually written by hand or written with relatively realistically simulated human handwriting. Ideally, this should be cursive or cursive-like while still being as clear and readable as possible.
-- Each journal entry should contain all text specified below. If this text differs from the version in the [[Script (Draft 3)\|Script]], the version in the script takes precedence. 
+- Each journal entry should contain all text specified below. If this text differs from the version in the [[Script]], the version in the script takes precedence. 
 ## Entry 1 Text
 > _April 3, 1891_
 > 
