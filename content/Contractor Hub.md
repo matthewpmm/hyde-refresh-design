@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-05T17:12:07.474-07:00
+modified: 2026-04-08T13:00:37.564-07:00
 cssclasses: ""
 ---
 
@@ -49,17 +49,17 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 ## Signage
 Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage and ask them to either personally fabricate each item or aid in outsourcing manufacturing to other fabricators/vendors.
 ### Paper/Canvas/Other
-- [[Props/Ringmaster's Letter]]
-- [[Props/Ringmaster’s Journal Entries]]
-- [[Props/Boiler Maintenance Ticket]]
-- [[Props/Hyde Circus Reopening Posters]]
+- ~~[[Props/Ringmaster's Letter]]~~ (claimed)
+- ~~[[Props/Ringmaster’s Journal Entries]]~~ (claimed)
+- ~~[[Props/Boiler Maintenance Ticket]]~~ (claimed)
+- ~~[[Props/Hyde Circus Reopening Posters]]~~ (claimed)
 ### Metal
 - ~~[[Props/Hyde Circus Express Signs]]~~ (cancelled)
-- [[Props/Brake Label]]
-- [[Props/Engine Room Sign]]
-- [[Props/Gas Pump Instructional Sign]] (delayed until design for [[Creative Technology/Gas Pump]] and [[Puzzles/Puzzle 2 - The Gas Pump]] are finished)
-- [[Props/Pickled Punks Puzzle Clue]] (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
-- [[Props/Limelight Instructional Sign]] (delayed until fabrication of [[Lighting/Limelight]] is started)
+- ~~[[Props/Brake Label]]~~ (claimed)
+- ~~[[Props/Engine Room Sign]]~~ (claimed)
+- ~~[[Props/Gas Pump Instructional Sign]]~~  (claimed)(delayed until design for [[Creative Technology/Gas Pump]] and [[Puzzles/Puzzle 2 - The Gas Pump]] are finished)
+- ~~[[Props/Pickled Punks Puzzle Clue]]~~ (claimed) (delayed until design for [[Puzzles/Puzzle 3 - Pickled Punks]] is finished)
+- ~~[[Props/Limelight Instructional Sign]]~~ (claimed) (delayed until fabrication of [[Lighting/Limelight]] is started)
 ## Digital Media
 - ~~[[Soundtrack, SFX & Sound Design]]~~ (claimed) 
 - ~~[[Lighting/Projections]]~~ (claimed)
