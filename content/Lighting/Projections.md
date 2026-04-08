@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T20:54:53.929-08:00
-modified: 2026-03-23T23:18:41.627-07:00
+modified: 2026-04-08T16:59:49.952-07:00
 cssclasses: ""
 ---
 
@@ -25,3 +25,8 @@ Projection designers will have access to the asset packs included in [Steven McF
 # Projectors
 Eilythia Penati stopped by to run some projection tests in early February. I was very impressed by the results of these tests. To the best of my knowledge, she used an [Optoma UHD35stx](https://www.bhphotovideo.com/c/product/1718606-REG/optoma_technology_uhd35stx_3600_lumen_4k_uhd.html/?ap=y&smp=y&store=420&smpm=ba_f2_lar&msclkid=afa0d7b1eb1f1c990ef7be73c2b8564a) 4K UHD short-throw projector. If possible, I'd like to use a single projector of comparable quality that can be either left running or configured to turn on automatically when power is connected. It would be easiest to mount on a small platform constructed on top of the train car.
 ![[Media/projector test.jpg]]
+
+- Starscape reference:
+	- https://youtu.be/RudqhKe6JeI?si=vUmR0TTaZPB_neYS
+	- https://youtube.com/shorts/q-dEa2qu0Hg?si=NyElShOj7wybBiaj
+	- https://youtu.be/XiwOjGBCl7s?si=rTzuRV1COWb4Y8bY
