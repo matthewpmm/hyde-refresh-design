@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-04-09T12:42:20.970-07:00
+modified: 2026-04-09T12:47:24.629-07:00
 cssclasses: ""
 ---
 
@@ -22,18 +22,18 @@ Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found througho
 > 
 > But what else am I to do? These performers, they are my people. They need bread on their table, and a simple circus can no longer provide it. To survive, we must have eyes upon us, countless eyes. And I will do whatever is necessary to draw those eyes to us.*
 ## Entry 2 Text
-> _April 4, 1891_
+> *April 4, 1891*
 > 
-> _I have been troubled by unsettling dreams as of late. I find myself standing alone in the center of the big top, surrounded by hundreds of eyes enshrouded in darkness. I find myself keenly aware that they can see me, inside me, into the darkest corners of my own self which I cannot bring even myself to examine._
+> *I have been plagued by unsettling dreams of late. I find myself standing alone in the big top, surrounded by hundreds of eyes enshrouded in darkness, keenly aware that they can see me, inside me, into those darkest corners of my own heart which I cannot bring myself to examine.*
 > 
-> _Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well._
+> *Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
 ## Entry 3 Text
-> _April 5, 1891_
+> *April 5, 1891
 > 
-> _Hyde Circus is at long last due to reopen tomorrow, but there is a palpable tension in the air. I feel as if I am being watched at all times. My performers are becoming increasingly hostile, and my authority is under tremendous strain. Were they a ship's crew adrift at sea and I their captain, I feel a mutiny would be brewing._
+> At long last, Hyde Circus reopens tomorrow, but a palpable tension lingers in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and my authority is under tremendous strain. I feel a mutiny may be brewing.
 > 
-> _I know not the madness that grips our circus's precise origin, but as a safeguard I have kept a single artifact for myself - a bag of so-called "earthly spices" procured by a renowned herbalist of ancient times. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it._
+> I know not the precise origin of the madness that grips our troupe, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned ancient herbalist. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
 > 
-> _(Illustration of earthly spice being dropped into the gas lantern)_
+> (Illustration of earthly spice being inserted into the gas lantern)*
 
 #props #graphic-design 

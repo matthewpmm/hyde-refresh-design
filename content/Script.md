@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-04-09T12:42:14.499-07:00
+modified: 2026-04-09T12:47:11.179-07:00
 cssclasses: ""
 ---
 
@@ -146,7 +146,7 @@ The journal entry reads as follows:
 
 > *April 4, 1891*
 > 
-> *I have been troubled by unsettling dreams as of late. I find myself standing alone in the center of the big top, surrounded by hundreds of eyes enshrouded in darkness. I find myself keenly aware that they can see me, inside me, into those darkest corners of my own self which I cannot bring even myself to examine.*
+> *I have been plagued by unsettling dreams of late. I find myself standing alone in the big top, surrounded by hundreds of eyes enshrouded in darkness, keenly aware that they can see me, inside me, into those darkest corners of my own heart which I cannot bring myself to examine.*
 > 
 > *Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
 
@@ -225,9 +225,9 @@ The third Ringmaster's Journal Entry reads as follows:
 
 > *April 5, 1891
 > 
-> Hyde Circus is at long last reopening tomorrow, but a palpable tension remains in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and my authority is under tremendous strain. Were they a ship's crew adrift at sea and I their captain, I would feel a mutiny brewing.
+> At long last, Hyde Circus reopens tomorrow, but a palpable tension lingers in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and my authority is under tremendous strain. I feel a mutiny may be brewing.
 > 
-> I know not the madness that grips our circus's precise origin, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned herbalist of ancient times. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
+> I know not the precise origin of the madness that grips our troupe, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned ancient herbalist. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
 > 
 > (Illustration of earthly spice being inserted into the gas lantern)*
 
