@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-03-26T13:11:31.680-07:00
+modified: 2026-04-09T12:34:43.662-07:00
 cssclasses: ""
 ---
 
@@ -21,6 +21,8 @@ Despite how the above image looks, please do not make the contortionist resemble
 ![[Media/maxresdefault-1045222271.jpg]]
 # Performance
 A haunted, but still sympathetic, old crone, kind of like [this Dark Souls 1 NPC](https://youtu.be/wLXFi4xRta0?si=lT8Xi30g2xi-LtQ3) but less cockney and less sinister.
+
+All of the Contortionist's individual voice lines are spread out throughout a few different documents
 # Resources
 - [3D printable animatronic neck](https://makerworld.com/en/models/775532-2-axis-animatronic-neck#profileId-712031)
 

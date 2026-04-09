@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T16:37:31.809-08:00
-modified: 2026-04-04T17:41:24.783-07:00
+modified: 2026-04-09T12:36:39.430-07:00
 cssclasses: ""
 ---
 
@@ -24,7 +24,7 @@ This is a cabinet containing several adjustable settings controlled by buttons a
 - Must contain two internal female DC barrel jack connectors that the install team can connect the +5V and +12V supplies to power the cabinet components from.
 - The USB-C charging cable must be connected to the +5V supply.
 - The cabinet components should connect to 2 labeled [female RJ45 screw terminal breakouts](https://a.co/d/06Ej4v8P) that can be easily connected to a COGS digital master with an ethernet cable. Signals should be routed as outlined below.
-- Must contain a [GIDERWEL 12 Channel DMX decoder](https://a.co/d/0dQWbyIB) set to address 12 and wired to all LEDs as outlined in the channel list below. This should be connected to the +12V barrel jack.
+- Must contain a [GIDERWEL 12 Channel DMX decoder](https://a.co/d/0dQWbyIB) set to address 24 and wired to all LEDs as outlined in the channel list below. This should be connected to the +12V barrel jack.
 - All LEDs must be pre-connected to an appropriate resistor and rated properly to be powered by a +12V PWM supply via the DMX decoder ([consider these](https://a.co/d/00Tya8eo)).
 
 ## RJ45 Breakout 1

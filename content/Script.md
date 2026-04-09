@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-04-04T12:33:30.912-07:00
+modified: 2026-04-09T12:42:14.499-07:00
 cssclasses: ""
 ---
 
-*Revised 2/25/2026*
+*Revised 4/9/2026*
 # Room Layout
 ![[Media/Hyde Refresh Room Layout.jpg]]
 # Puzzle Flow
@@ -59,9 +59,9 @@ Attached to a wall or other illuminated flat surface, players will find a torn-o
 
 > *April 3, 1891
 > 
-> I have dipped into the last of our coffers to acquire new attractions for the circus. However, while I am optimistic that they will draw crowds, the performers' resentment grows ever more. They call the Pickled Punks abhorrent, the knife thrower a fraud, the Eye of the Ancient One a curse. They say I have reduced this proud institution to a cheap sideshow.
+> While I am optimistic that our new attractions will draw crowds, the performers' resentment grows ever more. They call the Pickled Punks abhorrent, the knife thrower a fraud, the Eye of the Ancient One a cursed thing. They say I have reduced this proud institution to a cheap sideshow.
 > 
-> But what else am I to do? These performers, they are my people. They need bread on their table, and a simple circus act can no longer provide bread sufficiently. To survive, we must have eyes upon us, countless eyes. And I will do whatever is necessary to draw out those eyes.*
+> But what else am I to do? These performers, they are my people. They need bread on their table, and a simple circus can no longer provide it. To survive, we must have eyes upon us, countless eyes. And I will do whatever is necessary to draw those eyes to us.*
 ## [[Puzzles/Puzzle 1 - Steam Whistles]]
 
 A worn out [[Props/Boiler Maintenance Ticket]] is attached to the side of the boiler tank. It reads:
