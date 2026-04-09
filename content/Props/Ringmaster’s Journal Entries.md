@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-04-09T12:47:24.629-07:00
+modified: 2026-04-09T12:48:06.944-07:00
 cssclasses: ""
 ---
 
@@ -36,4 +36,4 @@ Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found througho
 > 
 > (Illustration of earthly spice being inserted into the gas lantern)*
 
-#props #graphic-design 
+#props #signage #graphic-design 
