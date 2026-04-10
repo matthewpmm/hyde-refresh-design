@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-04-09T12:47:11.179-07:00
+modified: 2026-04-09T13:15:01.997-07:00
 cssclasses: ""
 ---
 
@@ -47,6 +47,7 @@ Once the last player boards the train and the door automatically closes behind t
 
 Suddenly, an echoing, gravelly voice ([[Creative Technology/The Contortionist]]) begins to speak through the [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]], which pulses purple light in time with her voice.
 
+> *FILENAME: contortionist_1*
 > "Travelers. Can you hear me? Yes, all of you. Come over here, to the crystal ball.
 > 
 > You are in grave danger. This train runs nowhere but an endless abyss. You must stop it as soon as you can, or you will be trapped forever in a timeless void, beyond even the mercy of death.
@@ -94,6 +95,7 @@ A very small cage suspended from the roof of the train car contains an emaciated
 
 The Contortionist speaks to the players as they enter the courtyard, her head moving slightly as she speaks. All other light sources save for the lamp beside her fade out.
 
+> > *FILENAME: contortionist_2*
 > “You poor souls – I had hoped the train would stop elsewhere. Now you are doomed just as I am. Look up here, above your heads.
 > 
 > I am the Contortionist, the last living performer of the once-great Hyde Circus. Long ago, people would come from miles away to see our troupe, but as our act grew dated and our bodies grew old, the Ringmaster turned the circus into a lurid sideshow, a crass menagerie of nightmarish creatures and haunted artifacts, so desperate was he to maintain our relevance.
@@ -206,6 +208,7 @@ As the low rumble continues, players enter the dimly lit circus tent. After a fe
 
 The distant echo of an unknown voice ([[Props/The Ringmaster]]) announces:
 
+> *FILENAME: ringmaster*
 > *“Ladies, gentlemen, friends of all ages, it is time at last to begin the greatest show on earth!”*
 
 As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] floating overhead. He is clutching at his neck, having been hung from his own whip.
@@ -268,6 +271,7 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 
 [[Creative Technology/The Contortionist]]’s voice booms through the Big Top.
 
+> *FILENAME: contortionist_3*
 > “Travelers! You have done it. You have found the source of the evil that swallowed Hyde Circus whole. But now you have angered it - whatever this unknowable ancient power is. It now seeks to burn you... and destroy this whole world with it. Hurry – start the train and escape back to your world, before you burn with us.”
 
 Players must now rush back to the train car as a dramatic, choral, high-octane background music track begins. On their way, they see that flames have appeared in the courtyard as well, and the sky has changed to resemble a nightmarish blazing violet inferno filled with enormous, quivering eyes.
@@ -302,6 +306,7 @@ The sound of the engine starting to turn the wheels can be heard. The train shud
 
 The Contortionist's voice cuts through the darkness.
 
+> *FILENAME: contortionist_4*
 > "You have done it. At long last, thanks to you, the connection is severed, and this stagnant world can come to its final end. Thank you, travelers, and farewell."
 
 Lights strobe, a steam whistle squeals, the locomotive machinery pounds, a station bell rings distantly. Cut to black again.
@@ -311,34 +316,36 @@ Contemplative finale music plays the team out as the lights fade back on. A bann
 **THE END**
 # Failure States
 
-## 1. Time runs out in the train car before the Circus is reached
+## ~~0. Time runs out in the train car before the Circus is reached~~
 
 > [!NOTE]
-> This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.
+> ~~This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.~~
 
-The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.
+~~The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.~~
 
-[[Creative Technology/The Contortionist]]'s voice can be heard speaking from the pipe once more.
+~~[[Creative Technology/The Contortionist]]'s voice can be heard speaking from the pipe once more.~~
 
-> "Travelers! You are doomed. You have failed to stop the train. Now that you have gone so far into the void between worlds, it is impossible to turn back. You will be trapped here, like me, forever in this timeless abyss."
+> ~~"Travelers! You are doomed. You have failed to stop the train. Now that you have gone so far into the void between worlds, it is impossible to turn back. You will be trapped here, like me, forever in this timeless abyss."~~
 
-The word "forever" echoes ominously as the music and lights fade out and guests are left in the dark in the rumbling train car.
+~~The word "forever" echoes ominously as the music and lights fade out and guests are left in the dark in the rumbling train car.~~
 
-After a few seconds, the rumbling fades out and the lights fade back up. The players are retrieved by a game master and led to the lobby.
-## 2. Time runs out before the Eye is destroyed
+~~After a few seconds, the rumbling fades out and the lights fade back up. The players are retrieved by a game master and led to the lobby.~~
+## 1. Time runs out before the Eye is destroyed
 The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world.
 
 [[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
 
+> *FILENAME: failstate_1*
 > "Travelers! You are doomed. You have failed to break the curse and sever the bond between these worlds. Now you will be trapped here, like me, forever."
 
 A discordant chorus of instruments slowly crescendos, growing higher in pitch until suddenly going silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.
-## 3. Time runs out before players start the train engine
+## 2. Time runs out before players start the train engine
 
 The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world. The flames throughout the world grow in intensity.
 
 [[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
 
+> *FILENAME: failstate_2*
 > "Travelers! You were so close, but you are doomed. You have failed to escape this cursed world. Now you will be trapped here, like me, forever."
 
 A discordant chorus of instruments slowly crescendos, growing higher in pitch, while the sound of roaring wind and fire grows deafening, and the distant thumping of something like footsteps grows ever louder. Suddenly, everything goes silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.
