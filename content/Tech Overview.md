@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.985-08:00
-modified: 2026-04-02T18:16:04.092-07:00
+modified: 2026-04-15T20:14:59.915-07:00
 cssclasses: ""
 ---
 
@@ -41,6 +41,9 @@ For the full breakdown of available OSC messages, please refer to the [Tech Rout
 # DMX
 
 [UKING ZQ02001 Moving Head Lights](https://www.uking-online.com/products/b242-led-30w-moving-head-light-spot-color-gobos-light?variant=43855331295343) are the moving fixtures for the "lights passing the train" effect (fixture positioned in the [[Rooms/Courtyard]]) and the vaudeville spotlight effect inside the [[Rooms/Big Top (Circus Tent)]]. The manual for these fixtures, including information on all DMX channel functions, can be found [here](https://www.uking-online.com/cdn/shop/files/ZQ02001.pdf?v=536862946589303442).
+
+# Philips Hue
+- [How to get a Philips Hue API Key from your Bridge](https://developers.meethue.com/develop/get-started-2/)
 # Resources
 - [LED mapping via Art-Net](https://www.youtube.com/watch?v=ShYYcr30vJw&t=1s)
 - [Installing COGS on Ubuntu](https://learn.cogs.show/installing-cogs-software)
