@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.923-08:00
-modified: 2026-03-18T21:41:24.498-07:00
+modified: 2026-04-17T00:07:30.854-07:00
 cssclasses: ""
 ---
 
@@ -34,7 +34,8 @@ Of the 13 constellations on the wheel, five are functionally covered by the corp
 - The layout of the paint job will eventually look approximately like the image below. The skeleton is positioned approximately where the corpse will eventually be attached, with its arms and legs tied to the top and bottom of the wheel.
 - There should be 11 knife slots total.
 - When placed in a slot, knives should not easily fall out when the wheel rotates.
-![[Wheel of Death Layout.jpg]]
+![[Media/Wheel of Death Layout.jpg]]
+![[Media/Wheel of Death Constellations.png]]
 # Technical Specifications
 - Although only four knives must be inserted to solve the puzzle, all slots must have sensors and outputs so GMs can track player behavior.
 - Slots should use some sort of optical sensor to detect when a knife has been inserted, such as a break-beam sensor.
