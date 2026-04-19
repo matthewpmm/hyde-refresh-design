@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-12T16:40:54.022-07:00
+modified: 2026-04-19T15:31:41.332-07:00
 cssclasses: ""
 ---
 
@@ -28,13 +28,13 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 ## To Build From Scratch
 - ~~[[Creative Technology/Pneumatic Mail Tube]]~~ (cancelled)
 - ~~[[Creative Technology/Accessibility Cabinet]]~~ (claimed) 
-- [[Creative Technology/Boiler]] (fabrication/tech only) **(unclaimed!)**
+- ~~[[Creative Technology/Boiler]] (fabrication/tech only)~~ (cancelled)
 - [[Creative Technology/Steam Whistle]] (x7)  **(unclaimed!)**
 - ~~[[Creative Technology/Hint Bell]] (x2)~~ (claimed) 
 - ~~[[Creative Technology/Brake Lever]]~~ (claimed)
 - ~~[[Props/Moons]] (x3)~~ (claimed) 
 - [[Creative Technology/Gas Pump]] (fabrication/tech only) **(unclaimed!)**
-- [[Creative Technology/Gas Valves]] (x10-20) **(unclaimed!)**
+- ~~[[Creative Technology/Gas Valves]] (x10-20)  (claimed) ~~
 - ~~[[Creative Technology/Gas Lantern]] (fabrication/tech only)~~ (claimed) 
 - ~~[[Creative Technology/Pickled Punks Tent]]~~ (claimed) 
 - [[Creative Technology/Lantern Cage Mechanism]] (fabrication/tech only) **(unclaimed!)**
