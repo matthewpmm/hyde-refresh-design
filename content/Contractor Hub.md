@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-19T15:31:41.332-07:00
+modified: 2026-04-19T15:33:21.630-07:00
 cssclasses: ""
 ---
 
@@ -91,10 +91,10 @@ These items will need to be painted, aged, or otherwise decorated after fabricat
 - [[Creative Technology/Furnace]]
 - ~~Dummies~~ (claimed) 
 Each of the following is a human-sized dummy that will need to be decorated, dressed, and set up to be as robust as humanly possible.
-	- [[Creative Technology/The Contortionist]]
-	- [[Props/Acrobat]]
-	- [[Props/The Ringmaster]]
-	- [[Props/Corpse for Wheel of Death]]
+	- ~~[[Creative Technology/The Contortionist]]~~ (claimed)
+	- ~~[[Props/Acrobat]]~~ (claimed)
+	- ~~[[Props/The Ringmaster]]~~ (claimed)
+	- ~~[[Props/Corpse for Wheel of Death]]~~ (claimed)
 # Installation Period
 ## Schedule
 - **Daily Hours:** 8 (9am-5pm), including two paid 10 minute breaks and one 30-minute lunch break
