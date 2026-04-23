@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T16:35:01.859-08:00
-modified: 2026-03-18T15:22:49.291-07:00
+modified: 2026-04-22T21:47:30.251-07:00
 cssclasses: ""
 ---
 
@@ -21,9 +21,22 @@ To be extra clear: this must be a *momentary* pull switch. It should not click o
 This switch may be constructed from scratch with something like a limit or Reed switch if it can be built very robustly, or it can be purchased as a pre-built module.
 
 Each switch should terminate in a female [3-pin JST connector such as these](https://a.co/d/0cz6UqxK), with the terminals of the switch connected to either of the two outermost contacts (the middle contact will remain unused). This is how we will connect the whistles to a COGS digital master. The connector must be concealed inside the base of the whistle. There should be a way to securely mount a cable connected to this connector inside the base of the whistle.
-# Reference Images
-![[Media/166738050_1_x-1005068644.jpg]]![[Media/main-2338358259.jpg]]
 
+
+> [!NOTE] Late-Stage Note
+> I've linked an IR sensor module that might work well for this - it's non-mechanical so it should last longer. I think it may be possible to fabricate a fairly robust version of this prop if cleverly designed.
+
+# Reference
+- [Bronze steam whistle valve](https://www.hot-steam.com/products/duco%C2%AE-dwv-bronze-steam-whistle-valve?variant=44489243754753) (possibly too small but useful reference)
+- [IR Infrared Sensor Module](https://a.co/d/0iHuR7hH)
+- [Compression springs](https://a.co/d/0jcZ4uii)
+
+![[Media/166738050_1_x-1005068644.jpg]]![[Media/main-2338358259.jpg]]
+![[Media/5523971_1_l-1528672573.jpg]]
+![[Media/STEAM-BOILER-MODEL-STEAM-WHISTLE__76236.1682599372-3633151852.jpg]]
+![[Media/Whistle_Lunkenheimer_Mockingbird_Bell_4InDia_c1920_2-768x571-1182798642.jpg]]
+![[Media/img_1686149492883273456-4118643491.jpg]]
+![[Media/nostalgic-relic-old-steam-whistle-preserved-portland-museum-maine-may-vintage-proudly-displayed-wall-evokes-memories-279844938-4016571627.jpg]]
 
 https://www.ebay.com/itm/296870343730?var=0&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338590836&toolid=10044&loc_physical_ms=79789&customid=8b811b9e8b7e151b080d7200ce339e2a&gclid=8b811b9e8b7e151b080d7200ce339e2a
 

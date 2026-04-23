@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-04-04T13:14:59.921-07:00
+modified: 2026-04-19T23:41:54.577-07:00
 cssclasses: ""
 ---
 
@@ -36,7 +36,10 @@ cssclasses: ""
 Documentation of attributions must be provided for all SFX borrowed from publicly available sources that request attribution.
 
 The sound effects commissioned will include but are not limited to:
-- 
+- Steam whistles
+	- 5 long, easily loopable continuous steam whistle sound effects, each pitched to a different note of a pentatonic scale
+	- A muted "steam releasing" sound effect that plays when the wrong note in the sequence is played but does not produce any discernable pitch
+	- A "failure" sound effect 
 # Technical Specifications
 - All audio files must be delivered as .wav files with minimal compression.
 - It is possible to actually program the room's audio system remotely using [Parsec](https://parsec.app/), which Matthew can help connect you to. The actual mixing and testing will need to be done in person.

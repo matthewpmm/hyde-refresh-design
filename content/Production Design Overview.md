@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T19:24:52.047-08:00
-modified: 2026-02-24T11:09:43.564-08:00
+modified: 2026-04-19T23:58:35.115-07:00
 cssclasses: ""
 ---
 
@@ -18,6 +18,7 @@ When designing this room, I had a few parameters in mind:
 # Aesthetic Motifs
 ## Eyes
 
+Fleshy growths with eyes
 # Blacklight Effects
 
-After solving [[Puzzle Design/Puzzle 10 - Creating Magic Flame]], players will have access to a lantern that emits blacklight
+After solving [[Puzzles/Puzzle 10 - Creating Magic Flame]], players will have access to a lantern that emits blacklight. This will allow them to learn critical information about the 
