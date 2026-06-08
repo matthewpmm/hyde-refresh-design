@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-04-09T13:15:01.997-07:00
+modified: 2026-06-08T16:12:57.829-07:00
 cssclasses: ""
 ---
 
-*Revised 4/9/2026*
+*Revised 6/8/2026*
 # Room Layout
 ![[Media/Hyde Refresh Room Layout.jpg]]
 # Puzzle Flow
@@ -24,13 +24,13 @@ The letter reads:
 
 > *April 6, 1891
 > 
-> Dearest guests,
+>Dearest guests,
 > 
->I am delighted to extend a most cordial invitation to the grand reopening of Hyde Circus, the oldest and most fantastic amusement venue in this hemisphere. I have been hard at work acquiring many new attractions to whet your appetite for mystery and novelty.
+>I am delighted to extend a most cordial invitation to the grand reopening of Twilight Circus, the most fantastic amusement venue in this hemisphere. I have been hard at work acquiring many new attractions to whet your appetite for mystery and novelty.
 > 
 > Please make your way to the Hyde Circus Express and climb aboard to begin your journey.
 > 
-> I simply cannot wait to dazzle and amaze you.
+> I cannot wait to dazzle and amaze you.
 > 
 > — The Esteemed Ringmaster of Hyde Circus*
 
@@ -50,9 +50,9 @@ Suddenly, an echoing, gravelly voice ([[Creative Technology/The Contortionist]])
 > *FILENAME: contortionist_1*
 > "Travelers. Can you hear me? Yes, all of you. Come over here, to the crystal ball.
 > 
-> You are in grave danger. This train runs nowhere but an endless abyss. You must stop it as soon as you can, or you will be trapped forever in a timeless void, beyond even the mercy of death.
+> You are in grave danger. This train runs only to an endless abyss. You must stop it, or you will be trapped forever in a timeless void, beyond even the mercy of death.
 > 
-> I will do what I can to aid you. If you need assistance, simply ring a bell and I will offer my knowledge."
+> I will do what I can to aid you. If you need assistance, simply ring the bell on the table and I will offer my knowledge."
 
 The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]], guests may ring the bell and the contortionist will speak to them through the crystal ball as before.
 
@@ -62,7 +62,7 @@ Attached to a wall or other illuminated flat surface, players will find a torn-o
 > 
 > While I am optimistic that our new attractions will draw crowds, the performers' resentment grows ever more. They call the Pickled Punks abhorrent, the knife thrower a fraud, the Eye of the Ancient One a cursed thing. They say I have reduced this proud institution to a cheap sideshow.
 > 
-> But what else am I to do? These performers, they are my people. They need bread on their table, and a simple circus can no longer provide it. To survive, we must have eyes upon us, countless eyes. And I will do whatever is necessary to draw those eyes to us.*
+> But what else am I to do? These performers, they are my people. They need bread on their table, and a simple circus can no longer provide it. To survive, we must have eyes upon us - countless eyes. And I will do whatever is necessary to draw those eyes to us.*
 ## [[Puzzles/Puzzle 1 - Steam Whistles]]
 
 A worn out [[Props/Boiler Maintenance Ticket]] is attached to the side of the boiler tank. It reads:
@@ -96,13 +96,13 @@ A very small cage suspended from the roof of the train car contains an emaciated
 The Contortionist speaks to the players as they enter the courtyard, her head moving slightly as she speaks. All other light sources save for the lamp beside her fade out.
 
 > > *FILENAME: contortionist_2*
-> “You poor souls – I had hoped the train would stop elsewhere. Now you are doomed just as I am. Look up here, above your heads.
+> “You poor souls – you have stopped the train, but too late. Look up here, above your heads.
 > 
-> I am the Contortionist, the last living performer of the once-great Hyde Circus. Long ago, people would come from miles away to see our troupe, but as our act grew dated and our bodies grew old, the Ringmaster turned the circus into a lurid sideshow, a crass menagerie of nightmarish creatures and haunted artifacts, so desperate was he to maintain our relevance.
+> I am the Contortionist, the last living performer of the Twilight Circus. Long ago, people would come from miles away to see our troupe, but as our act grew old, the Ringmaster turned the circus into a lurid sideshow, so desperate was he to maintain our relevance.
 > 
-> Somehow, the night before our planned re-opening, the circus was swallowed whole from the world of mortals and cursed to an endless half-life in this nightmarish world between worlds, beyond time and space.
+> The night before our planned re-opening, our circus vanished from the mortal coil and found itself cursed to an endless half-life in this nightmarish twilight world beyond time and space.
 > 
-> Travelers, your only chance is to find the Ringmaster and compel him to aid you. Perhaps he holds the key to your escape. But beware – this place is warped, outside reality, full of tricks. Should you need my aid, ring the bell below and I will offer what advice I can.”
+> Travelers, your only hope is to find the Ringmaster and compel him to aid your escape. Should you need my aid, ring the bell below and I will offer what advice I can.”
 
 A few light sources fade back up as her speech ends.
 ## [[Puzzles/Puzzle 2 - The Gas Pump]]
@@ -148,7 +148,7 @@ The journal entry reads as follows:
 
 > *April 4, 1891*
 > 
-> *I have been plagued by unsettling dreams of late. I find myself standing alone in the big top, surrounded by hundreds of eyes enshrouded in darkness, keenly aware that they can see me, inside me, into those darkest corners of my own heart which I cannot bring myself to examine.*
+> *I have been plagued by unsettling dreams of late. I find myself standing alone in the circus tent, surrounded by hundreds of eyes enshrouded in darkness, keenly aware that they can see me, inside me, into those darkest corners of my own heart which I cannot bring myself to examine.*
 > 
 > *Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
 
@@ -209,9 +209,9 @@ As the low rumble continues, players enter the dimly lit circus tent. After a fe
 The distant echo of an unknown voice ([[Props/The Ringmaster]]) announces:
 
 > *FILENAME: ringmaster*
-> *“Ladies, gentlemen, friends of all ages, it is time at last to begin the greatest show on earth!”*
+> *“Ladies, gentlemen, friends of all ages, it is time for the greatest show on earth!”*
 
-As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] floating overhead. He is clutching at his neck, having been hung from his own whip.
+As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] suddenly dropping from the central truss of the tent. He is clutching at his neck, having been hung from his own whip.
 
 The background music becomes cold, slow and moody.
 ## [[Puzzles/Puzzle 10 - Creating Magic Flame]]
@@ -228,9 +228,9 @@ The third Ringmaster's Journal Entry reads as follows:
 
 > *April 5, 1891
 > 
-> At long last, Hyde Circus reopens tomorrow, but a palpable tension lingers in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and my authority is under tremendous strain. I feel a mutiny may be brewing.
+> At long last, Twilight Circus reopens tomorrow, but a palpable tension lingers in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and I feel a mutiny may be brewing.
 > 
-> I know not the precise origin of the madness that grips our troupe, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned ancient herbalist. Supposedly, they possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
+> I know not the precise origin of the madness that grips our troupe, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned herbalist. Supposedly, these herbs possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
 > 
 > (Illustration of earthly spice being inserted into the gas lantern)*
 
@@ -272,7 +272,7 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 [[Creative Technology/The Contortionist]]’s voice booms through the Big Top.
 
 > *FILENAME: contortionist_3*
-> “Travelers! You have done it. You have found the source of the evil that swallowed Hyde Circus whole. But now you have angered it - whatever this unknowable ancient power is. It now seeks to burn you... and destroy this whole world with it. Hurry – start the train and escape back to your world, before you burn with us.”
+> “Travelers! You have done it. You have found the source of the evil that swallowed Hyde Circus whole. But now you have angered it - whatever this unknowable ancient power is. It now seeks to burn you... and destroy this whole world with it. Hurry – run back to the train and escape back to your world, before you burn with us.”
 
 Players must now rush back to the train car as a dramatic, choral, high-octane background music track begins. On their way, they see that flames have appeared in the courtyard as well, and the sky has changed to resemble a nightmarish blazing violet inferno filled with enormous, quivering eyes.
 
@@ -319,7 +319,7 @@ Contemplative finale music plays the team out as the lights fade back on. A bann
 ## ~~0. Time runs out in the train car before the Circus is reached~~
 
 > [!NOTE]
-> ~~This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.~~
+> This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.
 
 ~~The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.~~
 

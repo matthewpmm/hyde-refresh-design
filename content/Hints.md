@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-04-09T20:11:39.328-07:00
+modified: 2026-06-08T12:26:48.484-07:00
 cssclasses: ""
 ---
 
@@ -13,11 +13,20 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 > If players attempt to ring a hint bell during dialogue or any scripted theatrical moment, nothing will happen and no hint will be triggered.
 # Puzzle Hints
 - [[Puzzles/Puzzle 1 - Steam Whistles]]
+	- Before the whistle melody is solved:
+		1. "Travelers, heed the note hanging from the ceiling."
+		2. "Travelers, listen closely to the distant melody and mimic it."
+		3. "The melody must be recreated start to finish with no errors. If you pull a whistle and it only hisses with steam, you must start over again from the start."
+	-  When the brake lever is unlocked:
+		1. "Travelers, the brake lever has been freed by a burst of steam! Quickly, pull it to stop the train!"
+- [[Puzzles/Puzzle 2 - The Gas Pump]]
+	1. (if not yet activated) "Travelers, beneath me there is a mechanical device that can pump fuel. Insert a gasoline canister into it cap-first to activate it."
+	2. "Rotate the valves on the wall to change the direction in which the gas flows. The gas must flow to an exhibit to unlock it."
+	3. "Hint dialogue 3."
+- [[Puzzles/Puzzle 3 - Pickled Punks]]
 	1. "Hint dialogue 1."
 	2. "Hint dialogue 2."
 	3. "Hint dialogue 3."
-- [[Puzzles/Puzzle 2 - The Gas Pump]]
-- [[Puzzles/Puzzle 3 - Pickled Punks]]
 - [[Puzzles/Puzzle 4 - Lighting the Lantern]]
 - [[Puzzles/Puzzle 5 - The Limelight]]
 - [[Puzzles/Puzzle 6 - Wheel of Death]]
