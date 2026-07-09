@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-06-08T12:26:48.484-07:00
+modified: 2026-07-08T16:44:54.843-07:00
 cssclasses: ""
 ---
 
@@ -13,23 +13,32 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 > If players attempt to ring a hint bell during dialogue or any scripted theatrical moment, nothing will happen and no hint will be triggered.
 # Puzzle Hints
 - [[Puzzles/Puzzle 1 - Steam Whistles]]
-	- Before the whistle melody is solved:
-		1. "Travelers, heed the note hanging from the ceiling."
-		2. "Travelers, listen closely to the distant melody and mimic it."
-		3. "The melody must be recreated start to finish with no errors. If you pull a whistle and it only hisses with steam, you must start over again from the start."
+	- Before the whistle melody is solved (trigger clue melody every time the hint is triggered for this puzzle):
+		1. "Travelers, listen closely to the distant melody."
+		2. "Travelers, listen closely to the distant melody. Perhaps if you mimic it, something will happen."
+		3. "Travelers, you must pull the chains to use the whistles to mimic the distant melody."
+		4. "Notice that there are six whistles, but seven notes in the melody. That means one of the notes *must be repeated.*"
 	-  When the brake lever is unlocked:
 		1. "Travelers, the brake lever has been freed by a burst of steam! Quickly, pull it to stop the train!"
+		2. "Pull the lever! Now!"
 - [[Puzzles/Puzzle 2 - The Gas Pump]]
-	1. (if not yet activated) "Travelers, beneath me there is a mechanical device that can pump fuel. Insert a gasoline canister into it cap-first to activate it."
-	2. "Rotate the valves on the wall to change the direction in which the gas flows. The gas must flow to an exhibit to unlock it."
-	3. "Hint dialogue 3."
+	- Before the pump is activated:
+		1. (if not yet activated) "Travelers, beneath me there is a mechanical device that can pump fuel. Insert a gasoline canister into it cap-first to activate it."
+	- When the pump has been activated but the Pickled Punks have not been:
+		1. "Rotate the valves on the wall to change the direction in which the gas flows. The gas must flow to an exhibit to unlock it."
 - [[Puzzles/Puzzle 3 - Pickled Punks]]
-	1. "Hint dialogue 1."
+	1. "The Pickled Punks are a ghoulish exhibit thought up by the ringmaster to ."
 	2. "Hint dialogue 2."
 	3. "Hint dialogue 3."
 - [[Puzzles/Puzzle 4 - Lighting the Lantern]]
 - [[Puzzles/Puzzle 5 - The Limelight]]
 - [[Puzzles/Puzzle 6 - Wheel of Death]]
+	- If Gas Lantern has not been unlocked yet
+		1. Travelers, 
+	1. Basic premise of puzzle
+	2. 
+	3. Hint about matching knives to things with knives in them
+	4. Hint about specimen
 - [[Puzzles/Puzzle 7 - Opening the Hall of Mirrors]]
 - [[Puzzles/Puzzle 8 - Inverted Pyramid]]
 - [[Puzzles/Puzzle 9 - Countless Eyes]]
