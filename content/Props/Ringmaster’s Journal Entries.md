@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-04-09T12:48:06.944-07:00
+modified: 2026-07-21T14:12:03.110-07:00
 cssclasses: ""
 ---
 
-Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found throughout the experience. The first is found taped to a wall inside the [[Rooms/Boiler Room]]. The second is found attached to the inside of the [[Props/Knife Box]]'s lid. The third is attached to the inside of the lid of the [[Props/Ringmaster's Trunk]].
+Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found throughout the experience. The first is found taped to a wall inside the [[Rooms/Passenger Car]]. The second is found attached to the inside of the [[Props/Knife Box]]'s lid. The third is attached to the inside of the lid of the [[Props/Ringmaster's Trunk]].
 # Deliverables
 - Original print-quality digital design files for each of the three journal entries subject to two rounds of revision each.
 - Two fully fabricated copies of each of the three journal entries.
@@ -14,7 +14,7 @@ Three torn-out pages of [[Props/The Ringmaster]]'s journal can be found througho
 - The journal entries should be printed on 8.5"x11" [inkjet-printer compatible canvas](https://a.co/d/0fK6LjRD) after the canvas has been pre-decorated to look like aged parchment.
 - After printing, at least one edge of the parchment should be torn to look as though it has been ripped out of a journal.
 - The text in the entries should not be just a computer font - they should either be actually written by hand or written with relatively realistically simulated human handwriting. Ideally, this should be cursive or cursive-like while still being as clear and readable as possible.
-- Each journal entry should contain all text specified below. If this text differs from the version in the [[Script]], the version in the script takes precedence. 
+- Each journal entry should contain all text specified below. If this text differs from the version in the [[Script (Draft 4)]], the version in the script takes precedence. 
 ## Entry 1 Text
 > *April 3, 1891
 > 

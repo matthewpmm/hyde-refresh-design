@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-05-12T12:56:47.207-07:00
-modified: 2026-05-12T13:14:28.300-07:00
+modified: 2026-07-19T18:50:55.122-07:00
 cssclasses: ""
 ---
 
 # Important Links
 - [Circus Reopening Posters](https://drive.google.com/drive/folders/1y2fYTJ2g5rVYsrZAwQDFF6sDTGxsRDz4?usp=drive_link) (Work-in-Progress) – Posters in the universe of the escape room that will be used to decorate the room itself after they are printed. These will likely be updated to say "Twilight Circus" at some point very soon instead of "Hyde Circus." **These should inform the visual style of the website and marketing materials.** Please also see these posters for reference on the specific fonts and graphic design that will best match the aesthetic of the experience.
 - [Pinterest Mood Board](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/) – Aesthetic, tone, and style inspiration for the experience
-- [[Script]] – The master plan for the story, structure, and puzzle progression, with hyperlinks to more information about puzzles and props
+- [[Script (Draft 4)]] – The master plan for the story, structure, and puzzle progression, with hyperlinks to more information about puzzles and props
 - [[Production Design Overview]] – Explanation and reference material of the aesthetic style, mood, tone, and themes of the room for production artists
 - [Behind-the-Scenes Photos and Videos](https://drive.google.com/drive/folders/1Hhh3z4SAZFzj_jHf2qP5eDvyZrpGtJFy?usp=drive_link)
 - [Original Soundtrack](https://drive.google.com/drive/folders/1_a921LZ6oaj16S9-JmTQZscU_mu7Cngp?usp=drive_link)

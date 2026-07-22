@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-24T17:48:13.509-08:00
-modified: 2026-03-23T23:47:02.001-07:00
+modified: 2026-07-21T14:12:03.088-07:00
 cssclasses: ""
 ---
 
-A large "steam boiler" prop for the [[Rooms/Boiler Room]]. This will be connected to a series of decorative pipes run around the walls of the boiler room.
+A large "steam boiler" prop for the [[Rooms/Passenger Car]]. This will be connected to a series of decorative pipes run around the walls of the boiler room.
 # Deliverables
 - One steam boiler prop containing a robust and functional fog machine ready to be connected to our COGS and DMX systems with no additional modification.
 - Maintenance documentation explaining how to repair any technical issues in the future.

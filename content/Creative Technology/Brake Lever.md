@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.920-08:00
-modified: 2026-03-24T00:05:50.503-07:00
+modified: 2026-07-21T15:34:56.982-07:00
 cssclasses: ""
 ---
 
@@ -11,7 +11,7 @@ A lever that brakes the train carrying guests to the Hyde Circus nightmare dimen
 # Design Specifications
 - This should ideally be constructed primarily of wood and metal for aesthetics and durability.
 - The lever should automatically reset to the starting position after being pulled (this can be accomplished using a gas strut).
-- The lever should be constructed such that the [[Props/Eye Chain]] can securely latch onto it without any risk of coming loose early or being pulled off by players before it is detached when [[Puzzles/Puzzle 1 - Steam Whistles]] is solved.
+- The lever should be constructed such that the [[Props/Eye Chain]] can securely latch onto it without any risk of coming loose early or being pulled off by players before it is detached when [[Puzzles/Puzzle 2 - Steam Whistles]] is solved.
 # Technical Specifications
 - The pulling of the lever should be detected via a reed switch terminated in a female [3-pin JST connector such as these](https://a.co/d/0cz6UqxK), with the wires of the switch connected to either of the two outermost contacts (the middle contact will remain unused).
 - A gas strut concealed inside the lever base housing should provide the smooth pulling action and auto-reset functionality.

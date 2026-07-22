@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T12:12:45.876-08:00
-modified: 2026-07-22T14:09:53.326-07:00
+modified: 2026-07-22T15:50:25.730-07:00
 cssclasses: ""
 ---
 
@@ -21,7 +21,7 @@ A canvas sign affixed near the [[Creative Technology/Gas Pump]] to instruct play
 - All design files should meet the following specifications:
 	- Color format: CMYK
 	- 300dpi
-	- **Dimensions: TBD**
+	- **Dimensions: A3 (13"x19")**
 - The final files should be compatible with the templates or provided specifications required by whichever manufacturer we choose, even where those differ from the ones specified above. (We will likely print this sign in-house.)
 # Reference Images
 ![[Media/gas pump instructional sign sketch.jpg]]

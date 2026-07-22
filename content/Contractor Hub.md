@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-04-19T15:33:21.630-07:00
+modified: 2026-07-19T18:50:55.107-07:00
 cssclasses: ""
 ---
 
@@ -14,7 +14,7 @@ I (Matthew) will be available to provide support/guidance and to answer any ques
 
 **Our goal is to have all of these projects completed by April 19.**
 
-We are currently accepting BIDS for the following projects, to be delivered prior to the installation period. Right now, most of the linked pages are empty, but full specifications/design briefs will soon be provided to clarify the scope, deliverables, and expectations. For the time being, if you'd like to see what each item looks like in context, I recommend searching for it in the [[Script\|latest draft of the script]].
+We are currently accepting BIDS for the following projects, to be delivered prior to the installation period. Right now, most of the linked pages are empty, but full specifications/design briefs will soon be provided to clarify the scope, deliverables, and expectations. For the time being, if you'd like to see what each item looks like in context, I recommend searching for it in the [[Script (Draft 4)\|latest draft of the script]].
 
 Many of these are projects that will require tech/electronics knowledge, although they exist on a spectrum between very low tech (e.g. the Limelight) and quite high tech (Gas pipe puzzle/Gas Lantern). Most of these, however, only have a few simple sensors or lights in them and are primarily mechanical to a large degree.
 

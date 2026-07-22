@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-24T16:35:01.859-08:00
-modified: 2026-04-22T21:47:30.251-07:00
+modified: 2026-07-21T15:34:56.990-07:00
 cssclasses: ""
 ---
 
-For [[Puzzles/Puzzle 1 - Steam Whistles]], we will need six highly sturdy props that resemble railroad steam whistles.
+For [[Puzzles/Puzzle 2 - Steam Whistles]], we will need six highly sturdy props that resemble railroad steam whistles.
 # Deliverables
 - 7 "steam whistle" props with built-in normally open/normally closed pull switch
 # Design Specifications

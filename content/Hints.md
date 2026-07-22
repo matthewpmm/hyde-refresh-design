@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-07-08T16:44:54.843-07:00
+modified: 2026-07-21T15:34:56.995-07:00
 cssclasses: ""
 ---
 
-All in-game hints are delivered in the form of audio by [[Creative Technology/The Contortionist]]. There are two [[Creative Technology/Hint Bell\|Hint Bells]] in the world, and guests can request hints by ringing them - one is a desktop call bell next to the [[Creative Technology/Contortionist's Crystal Ball]] in the [[Rooms/Boiler Room]]and one is hanging from a wall next to the Contortionist herself. If the call bell is rung during [[Puzzles/Puzzle 1 - Steam Whistles]], the Contortionist will "speak" through the crystal ball, which will illuminate while she speaks. After the first puzzle, only the hanging bell will work, and the contortionist herself will speak to players.
+All in-game hints are delivered in the form of audio by [[Creative Technology/The Contortionist]]. There are two [[Creative Technology/Hint Bell\|Hint Bells]] in the world, and guests can request hints by ringing them - one is a desktop call bell next to the [[Creative Technology/Contortionist's Crystal Ball]] in the [[Rooms/Passenger Car]] and one is hanging from a wall next to the Contortionist herself. If the call bell is rung during [[Puzzles/Puzzle 2 - Steam Whistles]], the Contortionist will "speak" through the crystal ball, which will illuminate while she speaks. After the first puzzle, only the hanging bell will work, and the Contortionist herself will speak to players (audio plays through the speaker behind her).
 
-The system auto-detects which puzzle(s) are active at the time a hint is requested and auto-plays the next programmed hint in the sequence. If players exhaust all hints for any particular puzzle, a notifiation light will become visible to GMs in the COGS interface to alert them that players need help. Once all hints are exhausted, the last hint will be repeated until the puzzle is solved or a Game Master intervenes with more direct instructions.
+The system auto-detects which puzzle(s) are active at the time a hint is requested and auto-plays the next programmed hint in the sequence. If players exhaust all hints for any particular puzzle, a notification light will become visible to GMs in the COGS interface to alert them that players need help. Once all hints are exhausted, the last hint will be repeated until the puzzle is solved or a Game Master intervenes with more direct instructions.
 
 > [!NOTE]
 > If players attempt to ring a hint bell during dialogue or any scripted theatrical moment, nothing will happen and no hint will be triggered.
 # Puzzle Hints
-- [[Puzzles/Puzzle 1 - Steam Whistles]]
+- [[Puzzles/Puzzle 2 - Steam Whistles]]
 	- Before the whistle melody is solved (trigger clue melody every time the hint is triggered for this puzzle):
 		1. "Travelers, listen closely to the distant melody."
 		2. "Travelers, listen closely to the distant melody. Perhaps if you mimic it, something will happen."
@@ -50,7 +50,7 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 After a certain amount of gameplay time has elapsed, a bell tolling sound effect will automatically play, followed by a verbal time check from the Contortionist (through whatever means she is currently communicating with guests).
 
 > [!NOTE]
-> We NEED to program this in such a way as that if a time check threshold is reached while some other dialogue or scripted theatrical moment is in progress, the event waits until 
+> We NEED to program this in such a way as that if a time check threshold is reached while some other dialogue or scripted theatrical moment is in progress, the check audio waits until the event has concluded to play.
 ## Time Check 1
 
 The sound of a bell tower chimes once, and the Contortionist's voice is heard.
