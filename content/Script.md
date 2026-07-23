@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-07-22T19:58:46.321-07:00
+modified: 2026-07-23T16:55:14.879-07:00
 cssclasses: ""
 ---
 
@@ -15,11 +15,11 @@ Soon after boarding a train to visit the grand reopening of Twilight Circus, you
 ![[Media/Puzzle Flow 2-25.png]]
 # [[Rooms/Passenger Car]]
 
-Upon boarding the train car, guests find a [[Lighting/Gas Lamps\|lamp-lit]] room containing a large [[Creative Technology/Boiler]], four [[Props/Train Windows\|windows with fogged privacy glass]], a locked suitcase or a side table with a locked drawer or cabinet, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
+Upon boarding the train car, guests find a [[Lighting/Gas Lamps\|lamp-lit]] room containing a large [[Creative Technology/Boiler]], four [[Props/Train Windows\|windows with fogged privacy glass]], a locked suitcase or a side table with a locked drawer or cabinet, a Tarot Table underneath a window with a stack of tarot cards on top of it, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
 
 A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit to the train.
 
-[[Props/Hyde Circus Reopening Posters\|Posters]] advertising the upcoming reopening of Hyde Circus are pasted on the walls. Several of the posters specifically advertise a knife thrower, a contortionist, an acrobat, and a conspicuous artifact called the [[Props/Eye of the Ancient One]].
+[[Props/Hyde Circus Reopening Posters\|Posters]] advertising the upcoming reopening of Hyde Circus are pasted on the walls. Several of the posters specifically advertise a contortionist, an acrobat, and a conspicuous artifact called the [[Props/Eye of the Ancient One]].
 
 All around the room, mounted on the wooden supports above players' heads, to the walls, and on the wall underneath the brake lever, are six haphazardly positioned [[Creative Technology/Steam Whistle\|steam whistles]] of various sizes, each with a chain hanging from it, that are connected by a network of pipes.
 
@@ -35,13 +35,16 @@ Suddenly, the sconce lamps dim, and an echoing, husky voice ([[Creative Technolo
 > I will do what I can to aid you. If you need help, ring the bell on the table and I will offer what knowledge I can."
 
 The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]], guests may ring the bell and the Contortionist will speak to them through the crystal ball.
+## [[Puzzles/Puzzle 1 - Opening the Tarot Table]]
 
-## [[Puzzles/Puzzle 1 - Locked Compartment]]
+Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four unique abstract glyphs. Players observe find that matching glyphs have also been stamped on each of the four [[Props/Hyde Circus Reopening Posters]] found around the room.
 
-Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of five unique abstract glyphs. Players observe find that matching glyphs have also been stamped on each of the five [[Props/Hyde Circus Reopening Posters]] found around the room.
+To solve the puzzle, guests must first determine the correct order of posters based on the order of the glyphs stamped on them corresponding to the left-to-right order of glyphs on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order determined from the glyphs on each poster.
 
-**The suitcase/side table is locked with a combination lock. Instead of numbers or letters, this combination lock bears a variety of circus-themed symbols. Each of these symbols can be seen to correspond to one of the five posters (HOW?). By setting the order of symbols on the combination lock to the symbol corresponding to each poster based on the order of the glyphs on the crystal ball, the lock is opened.**
+Once they have successfully placed the tarot cards, an ominous musical sting plays and a drawer in the Tarot Table pops open.
 ## [[Puzzles/Puzzle 2 - Steam Whistles]]
+
+Inside the drawer in the tarot table is a 
 
 Each whistle mounted around the room has a pull chain dangling from it. When this chain is pulled, a sound plays at a unique pitch for each whistle.
 
