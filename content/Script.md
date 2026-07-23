@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-07-22T14:34:20.063-07:00
+modified: 2026-07-22T19:58:46.321-07:00
 cssclasses: ""
 ---
 
@@ -64,7 +64,7 @@ Players descend the steps down from the train car and find themselves in the col
 
 The players, the train car, the courtyard, and the circus all appear to be an uncanny alien world outside a dilapidated circus. Three glowing [[Props/Moons\|moons]] are suspended from above - two full, one a waning crescent.
 
-The courtyard contains a [[Props/Gas Canister]] sitting next to a [[Creative Technology/Gas Pump]] connected to a large network of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]] that weave around the courtyard in intricate patterns, a small tent with a sign reading "[[Puzzles/Puzzle 3 - Pickled Punks\|Pickled Punks]]” connected to the gas pipes, a [[Creative Technology/Wheel of Death]] (also connected to the gas pipes), a [[Props/Knife Box\|locked box]] next to the Wheel of Death, a [[Creative Technology/Gas Lantern]] trapped under a [[Creative Technology/Lantern Cage Mechanism\|small cage]] (also connected to the gas pipes), a [[Lighting/Limelight]], and the body of an [[Props/Acrobat]] frozen in the sky.
+The courtyard contains a [[Props/Gas Canister]] sitting next to a [[Creative Technology/Gas Pump]] connected to a large network of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]] that weave around the courtyard in intricate patterns, a small tent with a sign reading "[[Puzzles/Puzzle 4 - Pickled Punks\|Pickled Punks]]” connected to the gas pipes, a [[Creative Technology/Wheel of Death]] (also connected to the gas pipes), a [[Props/Knife Box\|locked box]] next to the Wheel of Death, a [[Creative Technology/Gas Lantern]] trapped under a [[Creative Technology/Lantern Cage Mechanism\|small cage]] (also connected to the gas pipes), a [[Lighting/Limelight]], and the body of an [[Props/Acrobat]] frozen in the sky.
 
 A very small cage suspended from high up contains an emaciated woman grotesquely contorted to squeeze inside it. This is [[Creative Technology/The Contortionist]]. The wires of the cage dig into her sallow skin. Below her is a hanging [[Creative Technology/Hint Bell]] which players can ring to receive hints.
 
@@ -84,7 +84,7 @@ The Contortionist speaks to the players as they enter the courtyard, her head tu
 > He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what advice I can.”
 
 The spotlight on the Contortionist fades out.
-## [[Puzzles/Puzzle 2 - The Gas Pump]]
+## [[Puzzles/Puzzle 3 - The Gas Pump]]
 
 A [[Creative Technology/Gas Pump\|Gas Pump]] which connects to several [[Creative Technology/Gas Pipes\|pipe]] sub-networks that wind around the perimeter of the courtyard is placed against a wall in the room. A [[Props/Gas Pump Instructional Sign]] posted immediately above the pump indicates that a [[Props/Gas Canister]] can be connected to each of the three input connectors on the pump, as well as the general layout of connections throughout the room, in particular that the door to the circus tent is connected to the pump.
 
@@ -97,39 +97,25 @@ As the flame spreads through the pipes, it will eventually reach a junction of t
 Not all junctions have valves, and some will unavoidably split the gas flow into multiple different output paths. If this happens, the remaining distance the gas can travel from the pump is divided by the number of paths it is split into; for example, gas entering a three-way junction will split into the two available output paths, halving its remaining travel distance. A four-way junction will split the travel distance into thirds because of its three output paths. Likewise, if gas is already split into two different paths and rejoins at a junction, the total travel distance will sum.
 
 Players must use the adjustable valves to route the path of the gas flame through each pipe sub-network. As the flame travels through the pipes, it slowly lights more and more gas lamps connected to the pipe network until it eventually reaches a destination and provides light and fuel to it, activating it for interaction.
-## [[Puzzles/Puzzle 3 - Pickled Punks]]
+## [[Puzzles/Puzzle 4 - Pickled Punks]]
 
 Not far from the the gas pump is a [[Creative Technology/Pickled Punks Tent\|tent labeled “Pickled Punks”]] which has a pipe from the gas network leading into it. A heavy curtain stretching across the front entrance (held closed by cabinet locks) prevents players from accessing the inside. Once players successfully route the path of the gas to this tent, the entire tent illuminates from inside and the curtains fall open.
 
 Inside the tent are shelves containing a multitude of [specimens of bizarre creatures preserved in jars of amber fluid](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs) illuminated by flickering [[Lighting/Gas Lamps]], as well as a [[Creative Technology/Punk Pedestal\|pedestal]] with clearly indicated spots for four jars to be placed. All the jars on the shelves are fixed in place, save for four [[Props/Puzzle Jars\|puzzle jars]] with a blue preservative fluid.
 
-Each of the spots on the pedestal features a symbol which hints at which of the five jars should be placed on it. When all four of the correct jars are placed on the correct pedestals, a compartment in the front of the pedestal drops open, creating a loud metal crashing sound and revealing a new gas canister.
-## [[Puzzles/Puzzle 4 - Lighting the Lantern]]
-The [[Creative Technology/Gas Lantern]] is trapped underneath a [[Creative Technology/Lantern Cage Mechanism\|cage secured to a small platform]] via 2 [cabinet locks](https://a.co/d/064gJAEw). The top of this cage is fastened to a cable attached to a pulley on a wooden arm extended above the cage. The other end of the cable is attached to a counterweight inaccessible to players.
+A label with a poem on it is mounted in front of each marked jar placement spot on the pedestal. Each jar hints at which of the four jars should be placed on that spot. When all four of the correct jars are placed in the correct positions, a compartment in the front of the pedestal drops open, revealing a new gas canister that can be added to the [[Creative Technology/Gas Pump]] to extend the travel distance of the flame.
+## [[Puzzles/Puzzle 5 - Lighting the Limelight]]
 
-The pipe sub-network that connects between the [[Creative Technology/Gas Pump\|gas pump]] and the lantern is more winding than the other ones, and as a result it is much more important and challenging to carefully ration the travel distance of the gas flow so the flame can reach the lantern without running out of fuel.
+At the far corner of the room from the [[Creative Technology/Gas Pump\|gas pump]] is a *(mechanism TBD)*. Nearby is the [[Lighting/Limelight]],  a spotlight mounted to the ground that can be manually aimed by grabbing the handles on its sides and rotating it.
 
-Once the gas is successfully routed to the lantern, it suddenly ignites and begins emitting light, and the cage suddenly lifts up several feet. The inaccessible counterweight for the cage drops onto a plate of metal, producing a sudden jumpscare.
+The pipe sub-network that connects between the [[Creative Technology/Gas Pump\|gas pump]] and the *(mechanism TBD)* is more winding than the other ones, and as a result it is much more important and challenging to carefully ration the travel distance of the gas flow so the flame can reach it without running out of fuel.
 
-The gas lantern is now usable by players as a light source and puzzle element.
-## [[Puzzles/Puzzle 5 - The Limelight]]
-
-With the [[Creative Technology/Gas Lantern]] in hand, it becomes possible for players to illuminate the [[Lighting/Limelight]]. The limelight is a spotlight mounted to a platform on the ground that can be manually aimed by grabbing the handles on its sides and rotating it.
-
-There is also a compartment with a door lower on the pole labeled with a diagram indicating that a lantern can be inserted into it. Placing the lantern inside this compartment provides light for the limelight to magnify, causing it to shine a bright beam of light. This allows players to examine faraway details in the environment more closely. Once players learn how to illuminate and operate the limelight, they will be able to use it to solve the [[Puzzles/Puzzle 6 - Wheel of Death\|Wheel of Death]].
+Once the gas is successfully routed to the *(mechanism TBD)*, it ignites the quicklime inside of the [[Lighting/Limelight]], causing it to begin emitting a focused, powerful beam of light. This allows players to examine faraway details in the environment more closely. Once players learn how to illuminate and operate the limelight, they will be able to use it to solve the [[Puzzles/Puzzle 6 - Wheel of Death\|Wheel of Death]].
 ## [[Puzzles/Puzzle 6 - Wheel of Death]]
 
-Once players route the gas through the pipes to the [[Creative Technology/Wheel of Death]], several flickering gas lamps around it flicker on, illuminating the area. The wheel begins to turn slowly, and the lid of the [[Props/Knife Box\|locked box]] next to it pops open to reveal four [[Props/Throwing Knives]], as well as the [[Props/Ringmaster’s Journal Entries\|second Ringmaster's Journal Entry]] taped to the underside of the box's lid.
+Once players route the gas through the pipes to the [[Creative Technology/Wheel of Death]], several micro spotlights turn on and illuminate the face of the wheel. The wheel begins to turn slowly, and the lid of the [[Props/Knife Box\|locked box]] next to it pops open to reveal four [[Props/Throwing Knives]].
 
-The journal entry reads as follows:
-
-> *April 4, 1891*
-> 
-> *I have been plagued by unsettling dreams of late. I find myself standing alone in the circus tent, surrounded by hundreds of eyes enshrouded in darkness, keenly aware that they can see me, inside me, into those darkest corners of my own heart which I cannot bring myself to examine.*
-> 
-> *Every day, my performers grow more paranoid and irritable. I can tell from their demeanor that they are haunted by nightmares as well.*
-
-The wheel has a decapitated corpse tied to it. A knife has hit a bulls-eye and gored the poor performer in the stomach. There are also slots that appear to be knife holes on the surface of the wheel.
+The wheel has a withered skeleton tied to it dressed like a knife thrower's assistant. A knife has hit a bulls-eye and gored the poor performer in the stomach. There are also slots that appear to be knife holes on the surface of the wheel.
 
 Keen-eyed players will notice that the board is subdivided into equal sections revolving around the center, each of which is labeled with the name of a different constellation on the outer edge (although none of the constellations seem to be from our planet). These constellations are labeled as:
 
@@ -154,7 +140,7 @@ Most of these labeled sections have a slot into which a knife can be placed. Pla
 - **The Crescent Moon**, corresponding to the illuminated [[Props/Moons\|crescent moon]] hanging from the ceiling, which can be seen to have a knife stuck into its dark side when the [[Lighting/Limelight]] is aimed at it.
 - [[Creative Technology/The Contortionist]], who has visibly had a knife sticking out of her body the entire time.
 
-Once the fourth knife is inserted into the correct slot, a tense music cue plays, and the wheel accelerates alongside the background music for a few seconds before slowing to a stop. A locked container next to the wheel pops open, and a [[Props/Gas Canister]] rolls out (along with a human head).
+Once the fourth knife is inserted into the correct slot, a tense music cue plays, and the wheel accelerates alongside the background music for a few seconds before slowing to a stop. A locked container next to the wheel pops open, and a [[Props/Gas Canister]] rolls out.
 ## [[Puzzles/Puzzle 7 - Opening the Hall of Mirrors]]
 
 Now that players have acquired three [[Props/Gas Canister\|gas canisters]], they can fully power the gas pump by connecting all three tanks to all three connectors on the gas pump at once. Then, by turning the valve to switch to the fourth combined output pipe, the gas flow will have a long enough maximum travel distance that it becomes possible for the flame to reach the door to the [[Rooms/Hall of Mirrors]].
@@ -164,24 +150,24 @@ As the third tank is connected, the background music also escalates in complexit
 Once the flame reaches the door, a deep mechanical groaning is heard from inside. The groan slowly builds as the gas pump hisses and whistles, crescendoing as all the gas lights in the courtyard flicker. For a moment, all the lights cut out before roaring back to life, finally pushing the door to the [[Rooms/Hall of Mirrors]] open with a bang. The background music fades, replaced by a quiet, surreal, windy ambient soundscape.
 # [[Rooms/Hall of Mirrors]]
 
-Players venture into a dark hallway full of [[Props/Funhouse Mirrors\|funhouse mirrors]]. Players can use the [[Creative Technology/Gas Lantern]] to illuminate the space. A [slow, disorienting background music track](https://drive.google.com/file/d/1ruEsxIyijAx7PYEs8jlP6CBpC1r2LXrc/view?usp=drive_link) plays. The door automatically closes itself when not being pushed open.
+Players venture through a set of black curtains into a dark hallway full of mirrors. A [slow, disorienting background music track](https://drive.google.com/file/d/1ruEsxIyijAx7PYEs8jlP6CBpC1r2LXrc/view?usp=drive_link) plays.
 
 A [[Creative Technology/Wheel Pyramid]] is mounted on the wall.
 ## [[Puzzles/Puzzle 8 - Inverted Pyramid]]
 
-The [[Creative Technology/Wheel Pyramid]] is an inverted pyramid of six close-together rotating wheels with branching paths carved into them. A label on the pyramid reads *“All roads lead to another.”* Players must rotate the wheels by hand until there are no remaining paths not connected to a path on an adjacent wheel.
+The [[Creative Technology/Wheel Pyramid]] is an inverted pyramid of ten close-together rotating wheels with branching paths carved into them. A label on the pyramid reads *“All roads lead to another.”* Players must rotate the wheels by hand until there are no remaining paths not connected to a path on an adjacent wheel.
 
-Once the first phase of the puzzle is completed, the gas lantern begins to flicker before suddenly turning off or dimming significantly. There is darkness for a few seconds before bright blacklights turn on behind the one-way mirrors, revealing an alien landscape and producing an infinity mirror effect, creating the appearance that the players are in an unnatural, impossible, infinite landscape.
+Once the first phase of the puzzle is completed, the lights in the room cut off for two seconds before bright blacklights turn on behind the one-way mirrors, revealing an alien landscape and producing an infinity mirror effect, creating the appearance that the players are in an unnatural, impossible, infinite landscape.
 ## [[Puzzles/Puzzle 9 - Countless Eyes]]
 
 Once the players can see the infinity mirror tableau, the wheels on the [[Creative Technology/Wheel Pyramid]] gain the ability to rotate fluorescent [[Props/Eyeball Growths\|growths]] on the ground on the other side of the mirror, on each of which is at least one large eyeball. A label painted onto the pyramid, hidden at first, but now visible in the blacklight, reads *"All eyes yearn to meet."*
 
-These eyeballs are positioned near a corner where two mirrors intersect at a right angle, creating the appearance that four copies of each eye are clustered around the edge where the mirrors meet. To solve the puzzle, each eye must be pointed at another eye adjacent to it, whether that be a real eye or a reflection.
+These eyeballs are positioned near a corner where two mirrors intersect at a right angle, creating the appearance that four copies of each eye are clustered around the edge where the mirrors meet. To solve the puzzle, each eye must be pointed at another eye adjacent to it, whether that be a real eye or a reflection. When two eyes are correctly pointed at each other, they each light up.
 
-Once all eyes are aligned properly, the room rumbles and the door to the big top creaks open.
+Once all eyes are aligned properly, the door to the big top creaks open.
 # [[Rooms/Big Top (Circus Tent)]]
 
-As the low rumble continues, players enter the dimly lit circus tent. After a few moments, a drumroll sounds and two fast-moving spotlights shine around the room.
+A few moments after entering the dark room, a drumroll sounds and a fast-moving spotlight shines around the room.
 
 The distant echo of an unknown voice ([[Props/The Ringmaster]]) announces:
 
@@ -190,28 +176,35 @@ The distant echo of an unknown voice ([[Props/The Ringmaster]]) announces:
 
 As the drumroll ends, a spotlight illuminates the [[Props/The Ringmaster]] suddenly dropping from the central truss of the tent. He is clutching at his neck, having been hung from his own whip.
 
-The background music becomes cold, slow and moody.
-## [[Puzzles/Puzzle 10 - Creating Magic Flame]]
-
-After the spotlight fades, the circus tent becomes pitch black, and players must navigate using the [[Creative Technology/Gas Lantern]], which has just flickered back to full brightness.
+The background music becomes cold, slow and moody. After the spotlight fades, a [[Creative Technology/Gas Lantern]] sitting on top of a large, ornate trunk (the [[Props/Ringmaster's Trunk]]) flutters to life, giving guests a light source they can use to better explore the space.
 
 Around the room, they find evidence of a struggle. Circus animals lay dead in their cages. The corpses of performers are strung up against the ceilings by ropes.
 
-Players find a [[Creative Technology/Display Pedestal]] covered in a loose red cloth. When they remove the cloth, the [[Props/Eye of the Ancient One]] is revealed, triggering a dramatic musical sting. It is being displayed proudly inside an acrylic case.
+Players find a [[Creative Technology/Display Pedestal]] covered in a loose red cloth. When they remove the cloth, the [[Props/Eye of the Ancient One]] is revealed to be locked inside a clear display case.
+## [[Puzzle 10 - Unlocking the Ringmaster's Chest]]
 
-Players find a large, ornate, unlocked chest (the [[Props/Ringmaster's Trunk]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the [[Props/Ringmaster’s Journal Entries\|third ringmaster's journal entry]] attached to the inside of the lid and a [[Props/Vial of Earthly Spice]].
+The [[Props/Ringmaster's Trunk]] is locked by a three-digit numerical combination latch. Beside the latch are three different shapes arranged in the same orientation as the numerical combination dials; a circle, a thin vertical diamond-like slit, and a four-pointed star.
 
-The third Ringmaster's Journal Entry reads as follows:
+With the Gas Lantern, guests are able to see a number of eyes with varying shapes of pupil emerging from the walls of the room. The shapes of each eye's pupil corresponds to one of the three shapes next to the combination lock.
 
-> *April 5, 1891
+By counting the quantity of each type of pupil found in the room and placing those digits in the order the symbols are found in near the lock, the guests find the correct combination to open the chest - 953.
+## [[Puzzles/Puzzle 11 - Creating Magic Flame]]
+
+Inside the Ringmaster’s chest are a variety of personal effects, including a [[Props/Ringmaster’s Journal Entries\|journal entry by the Ringmaster]], the [[Ringmaster's Brooch]], and a puzzle box.
+
+The Ringmaster's Journal Entry reads as follows:
+
+> *Date: ?????????
 > 
-> At long last, Twilight Circus reopens tomorrow, but a palpable tension lingers in the air. I feel as if I am being watched at all times. My performers are increasingly hostile, and I feel a mutiny may be brewing.
+> I do not know how long we have been trapped in this timeless void. It feels as though it could be years now, or maybe centuries. My performers have grown hostile, and I fear they may soon mutiny.
 > 
-> I know not the precise origin of the madness that grips our troupe, but as a safeguard I have kept a single artifact for myself - a vial of so-called "earthly spices" procured by a renowned herbalist. Supposedly, these herbs possess a potent connection to our Earth, and release a powerful energy when exposed to flame. I pray that there will never come a need to test it.
+> Of all the arcane artifacts I sought to display when the circus reopened to draw in new crowds, I have kept a single one for myself - a vial of so-called "earthly spices" procured by a renowned herbalist. Supposedly, these herbs reveal hidden truths when exposed to flame. Perhaps they can reveal the secret to our escape.
 > 
 > (Illustration of earthly spice being inserted into the gas lantern)*
 
-A tube sticking out from the base of the [[Creative Technology/Gas Lantern]] can be seen to perfectly fit the [[Props/Vial of Earthly Spice]]. When it is inserted into the lantern, the flame bursts into a bright violet - it is now emitting blacklight. The background music begins to build in anticipation.
+The puzzle box is opened by *(TBD: puzzle box solve)*.
+
+Inside the puzzle box is a [[Props/Vial of Earthly Spice]]. A small tube sticking out of the [[Creative Technology/Gas Lantern]] can be seen to perfectly fit the vial. When it is inserted into the lantern, the flame vanishes for a moment, then suddenly bursts into a bright violet - it is now emitting blacklight. The background music begins to build in anticipation.
 ## [[Puzzles/Puzzle 11 - Obtaining the Eye]]
 
 In the blacklight, the interior walls of the circus can now be seen to be [splattered with previously invisible UV-reactive fluorescent paint as though it were blood](https://pin.it/7B7srAzZT). Upon closely inspecting the walls, hidden messages such as those below are now visible and appear to have been written by the deceased performers.
@@ -240,7 +233,7 @@ Most importantly, the following text is visible:
 > 
 > *THE FLAME PURIFIES*
 
-The blacklight from the lantern reveals that one of the corners of the pedestal has an outline of a conspicuous shape. A [[Ringmaster's Brooch]] matching this shape (and now glowing in the blacklight) can be found on the ringmaster’s body and removed with a large [[Props/Catch Pole\|catch pole]] leaning against the wall. Retrieving the brooch and placing it on the [[Creative Technology/Display Pedestal]] causes the display case door to unlock.
+The blacklight from the lantern reveals that one of the corners of the pedestal has an outline of a conspicuous shape. A [[Ringmaster's Brooch]] matching this shape (and now glowing in the blacklight) can be found in the [[Props/Ringmaster's Trunk]]. Placing the brooch on the [[Creative Technology/Display Pedestal]] causes the display case door to unlock.
 
 As the door unlocks, the [[Soundtrack, SFX & Sound Design\|soundtrack]] increases in intensity even more. Once a player reaches in and grabs the eye, the sound of a deep rumble begins to build. In the distance, a large bell begins to toll.
 
@@ -249,80 +242,58 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 [[Creative Technology/The Contortionist]]’s voice booms through the Big Top.
 
 > *FILENAME: contortionist_3*
-> “Travelers! You have done it. You have found the source of the evil that swallowed Hyde Circus whole. But now you have angered it - whatever this unknowable ancient power is. It now seeks to burn you... and destroy this whole world with it. Hurry – run back to the train and escape back to your world, before you burn with us.”
+> “Travelers! You have done it. You have found the source of the evil that swallowed Hyde Circus whole. But now you have angered it - the Ancient One now seeks to burn you... and destroy the circus with it. Hurry – take the eye. You must find a way to destroy it before you burn with us.”
 
 Players must now rush back to the train car as a dramatic, choral, high-octane background music track begins. On their way, they see that flames have appeared in the courtyard as well, and the sky has changed to resemble a nightmarish blazing violet inferno filled with enormous, quivering eyes.
-
-[[Puzzles/BACKUP PUZZLE - Unlocking the Engine Room]]
 # [[Rooms/Engine Room]]
-## [[Puzzles/Puzzle 12 - Destroying the Eye]]
 
-As players once again board the train, they find the door to the engine room now open. As they push the door open, they are greeted by the horrifying gaze of hundreds of eyes, or at least what appears to be eyes, melding together into sticky tentacles, tendrils, and sinewy flesh spreading across the walls and ceiling beams.
+## [[Puzzle 12 - Unlocking the Engine Room]]
 
-Much like with the [[Props/Eye Chain]] in the [[Rooms/Passenger Car]], the eyes have begun to overtake the mechanical hardware inside the space like some sort of fungal growth.
+Players once again board the train. The engine room door is still locked, but above the wall strange lights can be seen and disconcerting noises can be heard.
 
-An enormous [[Creative Technology/Furnace\|cast-iron coal furnace]] covered in dials sits against the back wall opposite the door. Decorative (not interactable) crates filled with coal, shovels, and fire pokers are scattered haphazardly around the room, and the eyes are beginning to spread over these as well.
+A painted outline on the door can be observed to strongly resemble the tentacles of the [[Props/Eye of the Ancient One]]. Placing the eye on this spot triggers the door to suddenly spring open.
+## [[Puzzles/Puzzle 13 - Destroying the Eye]]
 
-More blacklight-reactive invisible ink writing similar to that in the [[Rooms/Big Top (Circus Tent)\|Big Top]] can be seen around the room. The most important of these is a drawing of the gas lantern itself on the door of the furnace.
+As the door to the engine room springs open, players are greeted by the horrifying gaze of an enormous animated eye and dozens of smaller eyes, or at least what appears to be eyes, melding together into sticky tentacles, tendrils, and sinewy flesh spreading across the walls and ceiling beams. Much like with the [[Props/Eye Chain]] in the [[Rooms/Passenger Car]], the eyes have begun to overtake the mechanical hardware inside the space like some sort of fungal growth.
 
-When the gas lantern is placed inside the furnace and the door is closed on it, the door locks and the furnace bursts to life. Dials connected to the furnace and walls begin to go wild. Smoke begins to pump out of the top. More blacklight begins to emerge from viewports into the furnace itself. The [[Props/Vial of Earthly Spice\|Earthly Spice]] has ignited the furnace and supercharged the ending.
+An enormous [[Creative Technology/Furnace\|cast-iron coal furnace]] fills the room. A locked circular door near the base of the furnace conceals a firebox.
+
+More blacklight-reactive invisible ink writing similar to that in the [[Rooms/Big Top (Circus Tent)\|Big Top]] can be seen around the room.
 
 The bell tolls distantly. Deep, distant thuds can be felt throughout the train, as though an enormous being is growing closer and closer.
 
-A spotlight highlights a pipe with a funnel on the end that leads directly into the furnace. A cacophony of voices, perhaps the spirits of the lost performers of the circus, whisper:
+A cacophony of voices, perhaps the spirits of the lost performers of the circus, whisper:
 
+> *FILENAME: performer_voices*
 > *...destroy the eye...*
 > *...destroy it...*
 > *...burn it...*
 > *...place it inside...*
 > *...free us...*
 
-Placing the [[Props/Eye of the Ancient One]] inside the funnel sends it at last into the furnace, to burn, accompanied by a burst of light and sound, permanently severing the connection between Hyde Circus and Earth.
+**FINAL PUZZLE GOES HERE!!!**
 
-The sound of the engine starting to turn the wheels can be heard. The train shudders and shakes and begins to move. A train whistle blows and lights flash across the window as the train travels back towards our reality. The train seems to travel faster and faster and faster, lights beginning to strobe past, until suddenly everything cuts to black.
+Placing the [[Props/Eye of the Ancient One]] inside the firebox to burn, accompanied by a burst of light and sound, permanently severing the connection between Twilight Circus and Earth.
+
+The sound of the engine starting to turn the wheels can be heard. The train shudders and shakes and begins to move. A train whistle blows and lights flash across the window as the train travels back out of this nightmare circus. The train seems to travel faster and faster and faster, lights beginning to strobe past, until suddenly everything cuts to black.
 
 The Contortionist's voice cuts through the darkness.
 
 > *FILENAME: contortionist_4*
-> "You have done it. At long last, thanks to you, the connection is severed, and this stagnant world can come to its final end. Thank you, travelers, and farewell."
+> "You have done it. At long last, thanks to you, the ancient evil is destroyed, and this stagnant world can come to its final end. Thank you, travelers, and farewell."
 
 Lights strobe, a steam whistle squeals, the locomotive machinery pounds, a station bell rings distantly. Cut to black again.
 
 Contemplative finale music plays the team out as the lights fade back on. A banner with a full list of credits slowly unrolls. As the closing song ends, the train whistle blows and the station bell chimes.
 
 **THE END**
-# Failure States
+# Alternate Ending - Failure State
 
-## ~~0. Time runs out in the train car before the Circus is reached~~
-
-> [!NOTE]
-> This is an undesirable outcome. Even for groups that request zero hints, we will likely make this outcome impossible by adding a narrative device that forces players at LEAST as far as the Courtyard.
-
-~~The station bell begins to chime, and red lights shine through the windows. The train begins to rumble even harder then before.~~
-
-~~[[Creative Technology/The Contortionist]]'s voice can be heard speaking from the pipe once more.~~
-
-> ~~"Travelers! You are doomed. You have failed to stop the train. Now that you have gone so far into the void between worlds, it is impossible to turn back. You will be trapped here, like me, forever in this timeless abyss."~~
-
-~~The word "forever" echoes ominously as the music and lights fade out and guests are left in the dark in the rumbling train car.~~
-
-~~After a few seconds, the rumbling fades out and the lights fade back up. The players are retrieved by a game master and led to the lobby.~~
-## 1. Time runs out before the Eye is destroyed
 The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world.
 
 [[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
 
-> *FILENAME: failstate_1*
-> "Travelers! You are doomed. You have failed to break the curse and sever the bond between these worlds. Now you will be trapped here, like me, forever."
-
-A discordant chorus of instruments slowly crescendos, growing higher in pitch until suddenly going silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.
-## 2. Time runs out before players start the train engine
-
-The sound of a large clock bell tolls repeatedly, reverberating everywhere. A low rumble can be felt throughout the entire world. The flames throughout the world grow in intensity.
-
-[[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
-
-> *FILENAME: failstate_2*
-> "Travelers! You were so close, but you are doomed. You have failed to escape this cursed world. Now you will be trapped here, like me, forever."
+> *FILENAME: failstate*
+> "Travelers! You are doomed. You have failed to destroy the source of the ancient evil. Now you will be trapped here, frozen in time, forever."
 
 A discordant chorus of instruments slowly crescendos, growing higher in pitch, while the sound of roaring wind and fire grows deafening, and the distant thumping of something like footsteps grows ever louder. Suddenly, everything goes silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.

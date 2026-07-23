@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.946-08:00
-modified: 2026-05-15T20:55:03.266-07:00
+modified: 2026-07-22T18:37:00.830-07:00
 cssclasses: ""
 ---
 
-Variants on the other Pickled Punks that are used to solve [[Puzzles/Puzzle 3 - Pickled Punks]] by placing them in the correct position on the [[Creative Technology/Punk Pedestal]].
+Variants on the other Pickled Punks that are used to solve [[Puzzles/Puzzle 4 - Pickled Punks]] by placing them in the correct position on the [[Creative Technology/Punk Pedestal]].
 # Deliverables
 - Four [[Props/Puzzle Jars]] with unique RFID tags, and four spares of each puzzle jar identical to the original ones.
 # Design Specifications

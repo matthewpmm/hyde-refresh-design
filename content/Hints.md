@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-07-21T15:34:56.995-07:00
+modified: 2026-07-22T19:26:09.434-07:00
 cssclasses: ""
 ---
 
@@ -21,17 +21,17 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 	-  When the brake lever is unlocked:
 		1. "Travelers, the brake lever has been freed by a burst of steam! Quickly, pull it to stop the train!"
 		2. "Pull the lever! Now!"
-- [[Puzzles/Puzzle 2 - The Gas Pump]]
+- [[Puzzles/Puzzle 3 - The Gas Pump]]
 	- Before the pump is activated:
 		1. (if not yet activated) "Travelers, beneath me there is a mechanical device that can pump fuel. Insert a gasoline canister into it cap-first to activate it."
 	- When the pump has been activated but the Pickled Punks have not been:
 		1. "Rotate the valves on the wall to change the direction in which the gas flows. The gas must flow to an exhibit to unlock it."
-- [[Puzzles/Puzzle 3 - Pickled Punks]]
+- [[Puzzles/Puzzle 4 - Pickled Punks]]
 	1. "The Pickled Punks are a ghoulish exhibit thought up by the ringmaster to ."
 	2. "Hint dialogue 2."
 	3. "Hint dialogue 3."
-- [[Puzzles/Puzzle 4 - Lighting the Lantern]]
-- [[Puzzles/Puzzle 5 - The Limelight]]
+- [[Puzzles/CANCELLED - Lighting the Lantern]]
+- [[Puzzles/Puzzle 5 - Lighting the Limelight]]
 - [[Puzzles/Puzzle 6 - Wheel of Death]]
 	- If Gas Lantern has not been unlocked yet
 		1. Travelers, 
@@ -42,9 +42,9 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 - [[Puzzles/Puzzle 7 - Opening the Hall of Mirrors]]
 - [[Puzzles/Puzzle 8 - Inverted Pyramid]]
 - [[Puzzles/Puzzle 9 - Countless Eyes]]
-- [[Puzzles/Puzzle 10 - Creating Magic Flame]]
+- [[Puzzles/Puzzle 11 - Creating Magic Flame]]
 - [[Puzzles/Puzzle 11 - Obtaining the Eye]]
-- [[Puzzles/Puzzle 12 - Destroying the Eye]]
+- [[Puzzles/Puzzle 13 - Destroying the Eye]]
 # Time Checks
 
 After a certain amount of gameplay time has elapsed, a bell tolling sound effect will automatically play, followed by a verbal time check from the Contortionist (through whatever means she is currently communicating with guests).

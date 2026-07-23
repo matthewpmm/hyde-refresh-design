@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.906-08:00
-modified: 2026-04-09T00:18:15.709-07:00
+modified: 2026-07-22T18:37:36.545-07:00
 cssclasses: ""
 ---
 
-A mobile, interactable electronic prop taking the form of an [old-fashioned railroad-style gas powered lantern](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/lanterns/). The lantern is initially trapped under the [[Creative Technology/Lantern Cage Mechanism]] in the [[Rooms/Courtyard]] and not illuminated, but it flares to life once [[Puzzles/Puzzle 4 - Lighting the Lantern]] is completed and it is freed. Once the [[Props/Vial of Earthly Spice]] is inserted into the lantern in [[Puzzles/Puzzle 10 - Creating Magic Flame]], it changes to a blacklight, allowing players to reveal hidden writing all around the environment.
+A mobile, interactable electronic prop taking the form of an [old-fashioned railroad-style gas powered lantern](https://www.pinterest.com/matthewpmm/hyde-circus-refresh/lanterns/). The lantern is initially trapped under the [[Creative Technology/Lantern Cage Mechanism]] in the [[Rooms/Courtyard]] and not illuminated, but it flares to life once [[Puzzles/CANCELLED - Lighting the Lantern]] is completed and it is freed. Once the [[Props/Vial of Earthly Spice]] is inserted into the lantern in [[Puzzles/Puzzle 11 - Creating Magic Flame]], it changes to a blacklight, allowing players to reveal hidden writing all around the environment.
 
 The most pressing aspect of this prop is the programming and electronics. We may seek a separate contract to fabricate the actual exterior housing for the lantern, and it would be possible for us to fabricate additional copies of it in-house, but the initial R&D, wireless communication setup, programming and hardware experimentation would be extremely useful to outsource.
 # Deliverables
@@ -27,7 +27,7 @@ The most pressing aspect of this prop is the programming and electronics. We may
 - Light
 	- When in blacklight mode, this light should emit a 365nm blacklight beam to produce the best lighting results. I recommend basing it on the hardware of the [uvBeast V3 365nm flashlight](https://a.co/d/0cyexkbW).
 - Sensors
-	- The device must contain one [recessed-style reed switch](https://a.co/d/08yukjSM) to detect the magnet inside the [[Props/Vial of Earthly Spice]] that must be inserted into the lantern in [[Puzzles/Puzzle 10 - Creating Magic Flame]].
+	- The device must contain one [recessed-style reed switch](https://a.co/d/08yukjSM) to detect the magnet inside the [[Props/Vial of Earthly Spice]] that must be inserted into the lantern in [[Puzzles/Puzzle 11 - Creating Magic Flame]].
 - Wireless Communication
 	- This device must support two-way communication with COGS via one of the following methods:
 		- ZigBee Radio

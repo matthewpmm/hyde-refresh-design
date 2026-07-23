@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.915-08:00
-modified: 2026-03-18T16:21:44.282-07:00
+modified: 2026-07-22T18:37:13.159-07:00
 cssclasses: ""
 ---
 
-For [[Puzzles/Puzzle 5 - The Limelight]], we will need a light with handles that can be rotated to point a DMX spotlight around the room. This "Limelight" will be aimable by players, and can be activated by placing the [[Creative Technology/Gas Lantern]] inside a compartment in the base.
+For [[Puzzles/Puzzle 5 - Lighting the Limelight]], we will need a light with handles that can be rotated to point a DMX spotlight around the room. This "Limelight" will be aimable by players, and can be activated by placing the [[Creative Technology/Gas Lantern]] inside a compartment in the base.
 # Deliverables
 - One completed, fully functional limelight prop containing a DMX controllable spotlight
 - A maintenance guide explaining how to access the internals
@@ -30,6 +30,6 @@ For [[Puzzles/Puzzle 5 - The Limelight]], we will need a light with handles that
 - There must be a small, inconspicuous hole on the side of the base where the base touches the floor. We will be running cables into the base under a layer of astroturf on the floor directly through this hole.
 # Reference Images
 ![[Media/318b38e1d98abf0393e62d0b899de7ec.jpg]]
-![[07afeb447f9ce7293df7a022ac08e1dc.jpg]]
+![[Media/07afeb447f9ce7293df7a022ac08e1dc.jpg]]
 ![[Media/IMG_4483.jpeg]]![[Media/IMG_4488.jpeg]]
 #lighting #creative-tech #carpentry 

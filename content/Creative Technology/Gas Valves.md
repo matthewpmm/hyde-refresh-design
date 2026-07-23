@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.911-08:00
-modified: 2026-04-01T20:39:55.612-07:00
+modified: 2026-07-22T18:36:52.110-07:00
 cssclasses: ""
 ---
 
-Valves stationed at junctions along [[Creative Technology/Gas Pipes]] used to alter the flow of gas through the pipes to solve [[Puzzles/Puzzle 2 - The Gas Pump]]. They communicate information about user interaction with COGS.
+Valves stationed at junctions along [[Creative Technology/Gas Pipes]] used to alter the flow of gas through the pipes to solve [[Puzzles/Puzzle 3 - The Gas Pump]]. They communicate information about user interaction with COGS.
 # Deliverables
 - (???x) functional gas valve assemblies ready to have gas pipes run through them, be installed onto various walls, and be connected to a COGS digital master.
 # Design Specifications
