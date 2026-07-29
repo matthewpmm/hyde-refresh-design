@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-07-23T16:55:14.879-07:00
+modified: 2026-07-26T17:15:10.475-07:00
 cssclasses: ""
 ---
 
 *Revised 7/21/2026*
 # Logline/Summary
 
-Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time and must escape before it can trap you too.
+Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time, and you must escape before it can trap you too!
 # Room Layout
 ![[Media/Hyde Refresh Layout v3.jpg]]
 # Puzzle Flow
@@ -184,7 +184,7 @@ The background music becomes cold, slow and moody. After the spotlight fades, a 
 Around the room, they find evidence of a struggle. Circus animals lay dead in their cages. The corpses of performers are strung up against the ceilings by ropes.
 
 Players find a [[Creative Technology/Display Pedestal]] covered in a loose red cloth. When they remove the cloth, the [[Props/Eye of the Ancient One]] is revealed to be locked inside a clear display case.
-## [[Puzzle 10 - Unlocking the Ringmaster's Chest]]
+## [[Puzzles/Puzzle 10 - Unlocking the Ringmaster's Chest]]
 
 The [[Props/Ringmaster's Trunk]] is locked by a three-digit numerical combination latch. Beside the latch are three different shapes arranged in the same orientation as the numerical combination dials; a circle, a thin vertical diamond-like slit, and a four-pointed star.
 
@@ -250,7 +250,7 @@ Suddenly, the lantern lights up blindingly bright, and blue flames appear everyw
 Players must now rush back to the train car as a dramatic, choral, high-octane background music track begins. On their way, they see that flames have appeared in the courtyard as well, and the sky has changed to resemble a nightmarish blazing violet inferno filled with enormous, quivering eyes.
 # [[Rooms/Engine Room]]
 
-## [[Puzzle 12 - Unlocking the Engine Room]]
+## [[Puzzles/Puzzle 12 - Unlocking the Engine Room]]
 
 Players once again board the train. The engine room door is still locked, but above the wall strange lights can be seen and disconcerting noises can be heard.
 
