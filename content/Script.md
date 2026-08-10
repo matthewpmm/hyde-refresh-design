@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-07-26T17:15:10.475-07:00
+modified: 2026-08-05T14:30:43.835-07:00
 cssclasses: ""
 ---
 
 *Revised 7/21/2026*
 # Logline/Summary
 
-Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time, and you must escape before it can trap you too!
+Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time - you must escape before it can trap you too!
 # Room Layout
 ![[Media/Hyde Refresh Layout v3.jpg]]
 # Puzzle Flow

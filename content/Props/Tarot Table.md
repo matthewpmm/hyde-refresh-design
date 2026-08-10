@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28T17:59:09.093-07:00
-modified: 2026-08-05T10:44:22.922-07:00
+modified: 2026-08-10T11:49:15.857-07:00
 cssclasses: ""
 ---
 
@@ -14,4 +14,4 @@ cssclasses: ""
 # Technical Specifications
 - The wires for the internal cabinet lock must be terminated in 2-pin JST connectors. All internal wires should be concealed, and ideally inaccessible to players. (The locks we will provide are already terminated.)
 # Reference Images
-r
+![[Media/IMG_5874.jpg]]

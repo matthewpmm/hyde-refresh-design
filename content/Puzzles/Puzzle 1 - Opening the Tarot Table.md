@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T13:55:13.081-07:00
-modified: 2026-08-05T12:12:27.529-07:00
+modified: 2026-08-10T11:25:18.917-07:00
 cssclasses: ""
 ---
 
@@ -13,9 +13,9 @@ A relatively simple, but not effortless, introductory puzzle involving several s
 - 10 tarot cards
 # Puzzle Specifications
 
-Printed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four moon phase symbols, arranged in a horizontal sequence:
+Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four moon phase symbols, arranged in a horizontal sequence:
 
-![[Crystal Ball Glyphs v2.png]]
+![[Media/Crystal Ball Glyphs v2.png]]
 
 We will refer to these moon symbols as moons 1, 2, 3, and 4, ordered from left to right.
 
@@ -26,22 +26,19 @@ One of each of these moons can be found stamped onto one of each of the four [[P
 - Moon 3 is stamped on the poster featuring an **[[Props/Acrobat]]** in a ring that reads "The Greatest Show Around"
 - Moon 4 is stamped on the poster featuring the **[[Props/Eye of the Ancient One]]** that reads "Beware! The Ancient Eye Sees All"
 
-A total of 10 (highly durable, custom-fabricated) tarot cards containing NFC tags selected from the Major Arcana of the [Rider-Waite Smith tarot deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot) can be found stacked on the Tarot Table underneath the window next to the courtyard exit door. By default, these cards are:
+A total of 7 highly durable, custom-fabricated tarot cards containing NFC tags selected from the Major Arcana of the [Rider-Waite Smith tarot deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot) are found spread throughout the room. By default, these cards are:
 
 - 0. The Fool
 - I. The Magician
 - VI. The Lovers
-- VII. The Chariot
 - IX. The Hermit
 - X. Wheel of Fortune
 - XII. The Hanged Man
-- XIII. Death (this may need to be swapped out to avoid confusion with The Sun)
 - XIX. The Sun
-- XX. Judgement
 
-The Tarot Table has four clearly indicated rectangular spaces arranged from left to right on which to place tarot cards.
+The Tarot Table underneath the window next to the courtyard exit door has four clearly indicated rectangular spaces arranged from left to right on which to place tarot cards.
 
-To solve the puzzle, guests must first determine the correct order of posters based on the order of the moons stamped on them corresponding to the left-to-right order of moons on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order determined from the moons on each poster.
+To solve the puzzle, guests must first determine the correct order of posters based on the order of the moons stamped on them corresponding to the left-to-right order of moons on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order determined prior.
 
 The tarot cards corresponding to each poster are as follows:
 
@@ -58,10 +55,13 @@ The tarot cards corresponding to each poster are as follows:
 | **Tarot Card** | Wheel of Fortune | The Lovers     | The Hanged Man  | The Sun                |
 # Build Specifications
 
-> [!NOTE]
-> We will fabricate the entire Major Arcana (including two additional duplicates of each card that is part of the correct solution) and keep unused cards on-hand as backups. All will contain RFID readers and be functional on the Tarot Table in the event a last-minute swap is necessary.
-
+- Poster stamps
+	- Stamps should be positioned slightly overlapping the primary subject of each poster
+	- Stamps should use permanent ink and be clearly visible on each poster
 - RFID Tarot Cards
+	- [Rider-Waite-Smith Card Art](https://funlandjunior.com/free-printable-rider-waite-smith-tarot-deck-pdf/)
+		- [Alternate version with cleaner (albeit black) margins](https://funlandjunior.com/free-printable-rider-waite-smith-tarot-deck-pdf/)
+	- Dimensions: 4" w × 6.75" h
 	- Fabrication
 		- Card shapes cut into thin acrylic with a laser cutter
 		- Front and back card art sourced from high quality Rider-Waite tarot card scans and printed onto sticker paper
@@ -74,25 +74,25 @@ The tarot cards corresponding to each poster are as follows:
 			- X. Wheel of Fortune
 			- XII. The Hanged Man
 			- XIX. The Sun
-		- INCLUDED NON-SOLUTION CARDS (1x each)
+		- INCLUDED NON-SOLUTION CARDS (3x each)
 			- 0. The Fool
 			- I. The Magician
-			- VII. The Chariot
 			- IX. The Hermit
-			- XIII. Death (this may need to be swapped out to avoid confusion with The Sun)
-			- XX. Judgement
-		- BACKUP NON-PUZZLE SOLUTION CARDS (1x each)
+		- BACKUP NON-PUZZLE SOLUTION CARDS
 			- II. The High Priestess
 			- III. The Empress
 			- IV. The Emperor
 			- V. The Hierophant
+			- VII. The Chariot
 			- VIII. Strength
 			- XI. Justice
 			- XIV. Temperance
-		- CARDS TO OMIT TO AVOID CONFUSION (1x each)
+			- XX. Judgement
+		- CARDS TO OMIT TO AVOID CONFUSION
+			- XIII. Death (this may need to be swapped out to avoid confusion with The Sun)
 			- XVI. The Tower (optional backup for The Lovers)
 			- XVII. The Star (optional backup for The Sun)
 			- XVIII. The Moon (optional backup for The Sun)
 			- XXI. The World (optional backup for The Hanged Man)
 		- CARDS TO OMIT FOR OTHER REASONS
-			- XV. The Devil (1x each)
+			- XV. The Devil
