@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T13:55:13.081-07:00
-modified: 2026-08-10T11:25:18.917-07:00
+modified: 2026-08-19T12:05:55.662-07:00
 cssclasses: ""
 ---
 
@@ -38,6 +38,8 @@ A total of 7 highly durable, custom-fabricated tarot cards containing NFC tags s
 
 The Tarot Table underneath the window next to the courtyard exit door has four clearly indicated rectangular spaces arranged from left to right on which to place tarot cards.
 
+![[Media/IMG_5940.jpg]]
+
 To solve the puzzle, guests must first determine the correct order of posters based on the order of the moons stamped on them corresponding to the left-to-right order of moons on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order determined prior.
 
 The tarot cards corresponding to each poster are as follows:
@@ -60,8 +62,8 @@ The tarot cards corresponding to each poster are as follows:
 	- Stamps should use permanent ink and be clearly visible on each poster
 - RFID Tarot Cards
 	- [Rider-Waite-Smith Card Art](https://funlandjunior.com/free-printable-rider-waite-smith-tarot-deck-pdf/)
-		- [Alternate version with cleaner (albeit black) margins](https://funlandjunior.com/free-printable-rider-waite-smith-tarot-deck-pdf/)
-	- Dimensions: 4" w × 6.75" h
+		- [Alternate version with cleaner (albeit black) margins](https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0)
+	- Dimensions: 3.83" w × 6.75" h
 	- Fabrication
 		- Card shapes cut into thin acrylic with a laser cutter
 		- Front and back card art sourced from high quality Rider-Waite tarot card scans and printed onto sticker paper

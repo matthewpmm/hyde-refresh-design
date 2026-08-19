@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-08-05T14:30:43.835-07:00
+modified: 2026-08-10T19:15:53.366-07:00
 cssclasses: ""
 ---
 
-*Revised 7/21/2026*
+*Revised 8/10/2026*
 # Logline/Summary
 
 Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time - you must escape before it can trap you too!
@@ -15,48 +15,63 @@ Soon after boarding a train to visit the grand reopening of Twilight Circus, you
 ![[Media/Puzzle Flow 2-25.png]]
 # [[Rooms/Passenger Car]]
 
-Upon boarding the train car, guests find a [[Lighting/Gas Lamps\|lamp-lit]] room containing a large [[Creative Technology/Boiler]], four [[Props/Train Windows\|windows with fogged privacy glass]], a locked suitcase or a side table with a locked drawer or cabinet, a Tarot Table underneath a window with a stack of tarot cards on top of it, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
+Upon boarding the train, guests find themselves inside a [[Lighting/Gas Lamps\|lamp-lit]] passenger car containing four [[Props/Train Windows\|windows with fogged privacy glass]], a Tarot Table underneath a window, two chairs, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
 
-A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit to the train.
+A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever\|brake lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit from the train car.
 
-[[Props/Hyde Circus Reopening Posters\|Posters]] advertising the upcoming reopening of Hyde Circus are pasted on the walls. Several of the posters specifically advertise a contortionist, an acrobat, and a conspicuous artifact called the [[Props/Eye of the Ancient One]].
+[[Props/Hyde Circus Reopening Posters\|Posters]] advertising the upcoming reopening of Hyde Circus are pasted on the walls. Several of the posters specifically advertise a contortionist, an acrobat, and a conspicuous artifact called the [[Props/Eye of the Ancient One]]. 
 
-All around the room, mounted on the wooden supports above players' heads, to the walls, and on the wall underneath the brake lever, are six haphazardly positioned [[Creative Technology/Steam Whistle\|steam whistles]] of various sizes, each with a chain hanging from it, that are connected by a network of pipes.
+Mounted on the wooden supports above players' heads are six [[Creative Technology/Steam Whistle\|steam whistles]] positioned at various heights and places around the room, each with a handle hanging from it by a chain. The whistles are connected by a network of pipes.
+
+During the onboarding process, the GM hands one of the players a [[Train Ticket\|train ticket]] with six holes punched out of it indicating the current date, time, and their destination/route.
 
 Once all players have boarded the train and the GM has completed onboarding, stepped outside, and closed the door behind them, the train shudders and shakes as the engine sputters to life and the train begins moving. Lights begin to flicker past the windows faster and faster.
+
+A distant voice can be heard reverberating from an unknown origin. Although players don't realize it yet, this is the voice of [[Props/The Ringmaster]].
+
+> *FILENAME: ringmaster_1*
+> 
+> "All aboard, all aboard! Come one, come all to the grand reopening of Twilight Circus. We have acquired many new attractions with which to satisfy your appetite for excitement, mystery and novelty. So come aboard and join us... if you dare."
 
 Suddenly, the sconce lamps dim, and an echoing, husky voice ([[Creative Technology/The Contortionist]]) begins to speak through the [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]], which pulses with a magical purple light.
 
 > *FILENAME: contortionist_1*
-> "Can you hear me, travelers? I am speaking to you through this crystal ball. Come over here - it is very important that you listen to me.
 > 
-> You are in grave danger. This train is a trap. Twilight Circus has been overtaken by an otherworldly force. You must stop this train quickly, or you will be frozen in time forever.
+> "Travelers. Can you hear me? I am speaking to you through the crystal ball on the table. Come, gather around - it is very important that you listen to me closely.
 > 
-> I will do what I can to aid you. If you need help, ring the bell on the table and I will offer what knowledge I can."
+> You are in grave danger. Twilight Circus has been overtaken by an otherworldly force of incredible evil power. You must stop this train quickly or you will be frozen in time forever.
+> 
+> I will do what I can to aid you. If you need any hints, ring the bell on the table and I will offer what knowledge I can."
 
 The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]], guests may ring the bell and the Contortionist will speak to them through the crystal ball.
 ## [[Puzzles/Puzzle 1 - Opening the Tarot Table]]
 
-Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four unique abstract glyphs. Players observe find that matching glyphs have also been stamped on each of the four [[Props/Hyde Circus Reopening Posters]] found around the room.
+Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four symbols representing phases of the moon. Players observe find that matching symbols have also been stamped on each of the four [[Props/Hyde Circus Reopening Posters]] found around the room.
 
-To solve the puzzle, guests must first determine the correct order of posters based on the order of the glyphs stamped on them corresponding to the left-to-right order of glyphs on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order determined from the glyphs on each poster.
+To solve the puzzle, guests must first determine the correct order of posters based on the order of the glyphs stamped on them corresponding to the left-to-right order of glyphs on the crystal ball. They must then identify the four tarot cards from the available set that correspond most closely to each of the four posters and arrange them on the Tarot Table in the left-to-right order deciphered from the glyphs on each poster.
 
-Once they have successfully placed the tarot cards, an ominous musical sting plays and a drawer in the Tarot Table pops open.
+Once they have successfully placed the tarot cards, an ominous musical sting plays, all the candles on the table light up, and a drawer in the Tarot Table pops open.
+
+Inside the drawer in the tarot table is a circular handle. This handle can be inserted onto a broken valve in the wall near the brake lever and turned to free up the blocked steam pipe. 
 ## [[Puzzles/Puzzle 2 - Steam Whistles]]
 
-Inside the drawer in the tarot table is a 
+Hanging at the end of the chain connected to each steam whistle is a handle. Each chain's handle is shaped like some circus animal, act, or exhibit. When each chain is pulled, a sound plays at a unique pitch for each whistle.
 
-Each whistle mounted around the room has a pull chain dangling from it. When this chain is pulled, a sound plays at a unique pitch for each whistle.
+Also at the main table next to the [[Creative Technology/Contortionist's Crystal Ball]] is a [[Transit Map]] featuring a number of destinations of the Hyde Circus Express and the rail connections between them.
 
-Hanging at the end of each of these whistle pull chains is a pendant in the shape of a different animal.
+When carefully observing the train ticket, players find that a number of lines are drawn on the back side connecting the hole punches. When the ticket is placed on the transit map with the back side facing up, it becomes possible to align the holes in the ticket with six of the stops on the transit map in a clear sequential order.
 
-((PUZZLE SOLVE TBD))
+The items on the transit map correspond to the shapes of the whistle pull chain handles. Pulling the whistles in the order indicated by the arrows on the ticket plays a haunting melody.
 
-
-
-When the whistle chains are pulled in the correct sequence, a haunting melody is played. The whistles will begin to repeat the melody several times, faster and faster, until eventually playing a chord and triggering a pressure release valve from the boiler to shoot a jet of steam at the [[Props/Eye Chain\|eye-and-flesh-covered chain]] that has been holding down the brake lever, causing it to detach at one end and allowing the lever to be pulled.
+When played correctly, the whistles will begin to repeat the melody several times, faster and faster, until eventually playing a chord and triggering a jet of steam to shoot up from a grate in the floor at the [[Props/Eye Chain\|eye-and-flesh-covered chain]] that has been holding down the brake lever, causing it to detach at one end and allowing the lever to be pulled.
 
 Once players pull the brake lever, the train begins to screech and starts shaking violently. A train whistle blows. The lights intermittently passing by the window become blinding. A loud bell begins to chime and a suspenseful musical chord begins to increase in pitch and volume.
+
+[A cacophony of distorted, overlapping voices is heard throughout the train.](https://www.youtube.com/watch?v=pp5xGLj1RME)
+
+> *FILENAME: ancientone_1*
+> 
+> "It's too late, dear audience. My Twilight Circus awaits you. Prepare yourself for the greatest show on earth..."
 
 Suddenly, all lights, sound, and movement cut out completely. Then, a bright strobe light flashes as the bell chimes quickly and the train shakes violently. As the rumbling subsides, the lights and sound cut out and the lamps flicker back to life.
 
@@ -65,33 +80,36 @@ As the train car door slowly creaks open to reveal the courtyard, players realiz
 
 Players descend the steps down from the train car and find themselves in the cold, dark, hazy courtyard outside a large circus tent. An ambient introductory background music track plays.
 
-The players, the train car, the courtyard, and the circus all appear to be an uncanny alien world outside a dilapidated circus. Three glowing [[Props/Moons\|moons]] are suspended from above - two full, one a waning crescent.
+The players, the train car, the courtyard, and the circus all appear to be in an uncanny alien world outside a dilapidated circus. Three glowing [[Props/Moons\|moons]] are suspended from above - two full, one a waning crescent.
 
-The courtyard contains a [[Props/Gas Canister]] sitting next to a [[Creative Technology/Gas Pump]] connected to a large network of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]] that weave around the courtyard in intricate patterns, a small tent with a sign reading "[[Puzzles/Puzzle 4 - Pickled Punks\|Pickled Punks]]” connected to the gas pipes, a [[Creative Technology/Wheel of Death]] (also connected to the gas pipes), a [[Props/Knife Box\|locked box]] next to the Wheel of Death, a [[Creative Technology/Gas Lantern]] trapped under a [[Creative Technology/Lantern Cage Mechanism\|small cage]] (also connected to the gas pipes), a [[Lighting/Limelight]], and the body of an [[Props/Acrobat]] frozen in the sky.
+The courtyard contains a [[Props/Gas Canister]] sitting next to a [[Creative Technology/Gas Pump]] connected to a large network of [[Creative Technology/Gas Pipes]] and [[Creative Technology/Gas Valves]] that weave around the courtyard in intricate patterns, a small tent with a sign reading "[[Puzzles/Puzzle 4 - Pickled Punks\|Pickled Punks]]” connected to the gas pipes, a [[Creative Technology/Wheel of Death]] (also connected to the gas pipes), a [[Props/Knife Box\|locked box]] next to the Wheel of Death, a [[Lighting/Limelight]], and the body of an [[Props/Acrobat]] frozen in the sky.
 
 A very small cage suspended from high up contains an emaciated woman grotesquely contorted to squeeze inside it. This is [[Creative Technology/The Contortionist]]. The wires of the cage dig into her sallow skin. Below her is a hanging [[Creative Technology/Hint Bell]] which players can ring to receive hints.
 
 The Contortionist speaks to the players as they enter the courtyard, her head turning and leg twitching slightly as she speaks. A spotlight pointed directly at her in her cage clicks on.
 
-*SFX: Spotlight clicking on (with reverb).*
+> *SFX: Spotlight clicking on (with reverb).*
 
-> > *FILENAME: contortionist_2*
-> “You poor souls – despite your best efforts, the Ancient One has trapped you here as well.
+> *FILENAME: contortionist_2*
+> 
+> “You poor souls – despite your best efforts, it seems the Ancient One has trapped you here as well.
 > 
 > I am the Contortionist, the last living performer of the Twilight Circus Troupe. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries.
 > 
-> Under the influence of the Ancient One, time stands still here, but our bodies and minds rot and wither away here forever. And now you are trapped here with us, doomed to the same fate.
+> Under the influence of the Ancient One, time stands still here, but our bodies and minds rot and wither away forever. And now you are trapped here with us, doomed to the same fate.
 > 
 > Your only hope is to destroy the source of this ancient evil - the Eye of the Ancient One, the artifact binding this evil force to our world. The Ringmaster, curse him, is the one who brought it here in the first place to display as a spectacle - find him and you will find the Eye.
 > 
 > He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what advice I can.”
 
-The spotlight on the Contortionist fades out.
+> *SFX: Spotlight clicking off (with reverb).*
+
+The spotlight on the Contortionist clicks off.
 ## [[Puzzles/Puzzle 3 - The Gas Pump]]
 
-A [[Creative Technology/Gas Pump\|Gas Pump]] which connects to several [[Creative Technology/Gas Pipes\|pipe]] sub-networks that wind around the perimeter of the courtyard is placed against a wall in the room. A [[Props/Gas Pump Instructional Sign]] posted immediately above the pump indicates that a [[Props/Gas Canister]] can be connected to each of the three input connectors on the pump, as well as the general layout of connections throughout the room, in particular that the door to the circus tent is connected to the pump.
+A [[Creative Technology/Gas Pump\|Gas Pump]] which connects to a network of [[Creative Technology/Gas Pipes\|pipes]] winding around the perimeter of the courtyard is against a wall near the Contortionist. A [[Props/Gas Pump Instructional Sign]] posted immediately above the pump indicates that a [[Props/Gas Canister]] can be connected to each of the three input connectors on the pump, as well as the general layout of connections throughout the room, in particular indicating that the door to the circus tent is connected to the pump.
 
-Once a nearby gas canister is inserted into the pump, the flame in the central furnace suddenly ignites, and the output pipe illuminates with flickering flame (simulated by LED lights inside acrylic tubes). After the ignited gas has traveled a certain distance through the pipes without reaching a destination, it will eventually fade out as it runs out of fuel.
+A gas canister can be found nearby. Once it is inserted into the pump, the flame in the central furnace suddenly ignites, and the output pipe illuminates with flickering flame (simulated by LED lights behind acrylic tubes). After the ignited gas has traveled a certain distance through the pipes without reaching a destination, it will eventually fade out as it runs out of fuel.
 
 When the first gas canister is attached to any of the three input connectors, a [stripped-down background music track](https://drive.google.com/file/d/11Cr8q0PFpL3mNhiGPeHVNZWdI_eol0wh/view?usp=drive_link) begins playing. If this canister is ever removed, the music fades out again. Once a second canister is connected, the instrumentation of the [background music becomes more complex](https://drive.google.com/file/d/1OlgmXYAAKwvgpFRv11qpRTtSe5NRCuV4/view?usp=drive_link); it will return to the previous level of complexity if removed.
 
@@ -104,7 +122,9 @@ Players must use the adjustable valves to route the path of the gas flame throug
 
 Not far from the the gas pump is a [[Creative Technology/Pickled Punks Tent\|tent labeled “Pickled Punks”]] which has a pipe from the gas network leading into it. A heavy curtain stretching across the front entrance (held closed by cabinet locks) prevents players from accessing the inside. Once players successfully route the path of the gas to this tent, the entire tent illuminates from inside and the curtains fall open.
 
-Inside the tent are shelves containing a multitude of [specimens of bizarre creatures preserved in jars of amber fluid](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs) illuminated by flickering [[Lighting/Gas Lamps]], as well as a [[Creative Technology/Punk Pedestal\|pedestal]] with clearly indicated spots for four jars to be placed. All the jars on the shelves are fixed in place, save for four [[Props/Puzzle Jars\|puzzle jars]] with a blue preservative fluid.
+Inside the tent are shelves containing a multitude of [specimens of bizarre creatures preserved in jars of amber fluid](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs) illuminated by flickering [[Lighting/Gas Lamps]], as well as a [[Creative Technology/Punk Pedestal\|pedestal]] with clearly indicated spots for four jars to be placed. All the jars on the shelves are fixed in place, save for four [[Props/Puzzle Jars\|puzzle jars]] colored differently from the others.
+
+There is also a mechanical toy monkey which springs to life and clangs its cymbals together for a few seconds when guests enter.
 
 A label with a poem on it is mounted in front of each marked jar placement spot on the pedestal. Each jar hints at which of the four jars should be placed on that spot. When all four of the correct jars are placed in the correct positions, a compartment in the front of the pedestal drops open, revealing a new gas canister that can be added to the [[Creative Technology/Gas Pump]] to extend the travel distance of the flame.
 ## [[Puzzles/Puzzle 5 - Lighting the Limelight]]
@@ -143,7 +163,7 @@ Most of these labeled sections have a slot into which a knife can be placed. Pla
 - **The Crescent Moon**, corresponding to the illuminated [[Props/Moons\|crescent moon]] hanging from the ceiling, which can be seen to have a knife stuck into its dark side when the [[Lighting/Limelight]] is aimed at it.
 - [[Creative Technology/The Contortionist]], who has visibly had a knife sticking out of her body the entire time.
 
-Once the fourth knife is inserted into the correct slot, a tense music cue plays, and the wheel accelerates alongside the background music for a few seconds before slowing to a stop. A locked container next to the wheel pops open, and a [[Props/Gas Canister]] rolls out.
+Once the fourth knife is inserted into the correct slot, a tense music cue plays, and the wheel accelerates alongside the background music for a few seconds before slowing to a stop. A locked chest next to the wheel pops open, and a [[Props/Gas Canister]] can be found inside.
 ## [[Puzzles/Puzzle 7 - Opening the Hall of Mirrors]]
 
 Now that players have acquired three [[Props/Gas Canister\|gas canisters]], they can fully power the gas pump by connecting all three tanks to all three connectors on the gas pump at once. Then, by turning the valve to switch to the fourth combined output pipe, the gas flow will have a long enough maximum travel distance that it becomes possible for the flame to reach the door to the [[Rooms/Hall of Mirrors]].
