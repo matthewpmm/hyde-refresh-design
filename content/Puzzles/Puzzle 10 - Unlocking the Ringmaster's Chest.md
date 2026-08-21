@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22T18:38:08.895-07:00
-modified: 2026-08-19T12:06:56.012-07:00
+modified: 2026-08-19T16:59:42.358-07:00
 cssclasses: ""
 ---
 
@@ -19,5 +19,4 @@ With the Gas Lantern, guests are able to see a number of eyes with varying shape
 
 By counting the quantity of each type of pupil found in the room - **including the [[Props/Eye of the Ancient One]]'s pupil** - and placing those digits in the order the symbols are found in near the lock, the guests find the correct combination to open the chest - 953.
 # Build Specifications
-
 - [Lock used on the Ringmaster's Trunk](https://a.co/d/0hs5kkYz)

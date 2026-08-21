@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T13:55:13.081-07:00
-modified: 2026-08-19T12:05:55.662-07:00
+modified: 2026-08-20T17:23:26.884-07:00
 cssclasses: ""
 ---
 
@@ -26,7 +26,7 @@ One of each of these moons can be found stamped onto one of each of the four [[P
 - Moon 3 is stamped on the poster featuring an **[[Props/Acrobat]]** in a ring that reads "The Greatest Show Around"
 - Moon 4 is stamped on the poster featuring the **[[Props/Eye of the Ancient One]]** that reads "Beware! The Ancient Eye Sees All"
 
-A total of 7 highly durable, custom-fabricated tarot cards containing NFC tags selected from the Major Arcana of the [Rider-Waite Smith tarot deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot) are found spread throughout the room. By default, these cards are:
+A total of 7 highly durable, custom-fabricated [[Tarot Cards]] containing NFC tags are found spread throughout the room. These cards are:
 
 - 0. The Fool
 - I. The Magician
@@ -59,42 +59,5 @@ The tarot cards corresponding to each poster are as follows:
 
 - Poster stamps
 	- Stamps should be positioned slightly overlapping the primary subject of each poster
-	- Stamps should use permanent ink and be clearly visible on each poster
-- RFID Tarot Cards
-	- [Rider-Waite-Smith Card Art](https://funlandjunior.com/free-printable-rider-waite-smith-tarot-deck-pdf/)
-		- [Alternate version with cleaner (albeit black) margins](https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0)
-	- Dimensions: 3.83" w × 6.75" h
-	- Fabrication
-		- Card shapes cut into thin acrylic with a laser cutter
-		- Front and back card art sourced from high quality Rider-Waite tarot card scans and printed onto sticker paper
-		- Thin NFC tag adhered to the back of each card and programmed in COGS
-		- Card art adhered to each side of the acrylic.
-		- Entire card coated in resin to increase durability
-	- Cards to print:
-		- CORRECT PUZZLE SOLUTIONS (3x each)
-			- VI. The Lovers
-			- X. Wheel of Fortune
-			- XII. The Hanged Man
-			- XIX. The Sun
-		- INCLUDED NON-SOLUTION CARDS (3x each)
-			- 0. The Fool
-			- I. The Magician
-			- IX. The Hermit
-		- BACKUP NON-PUZZLE SOLUTION CARDS
-			- II. The High Priestess
-			- III. The Empress
-			- IV. The Emperor
-			- V. The Hierophant
-			- VII. The Chariot
-			- VIII. Strength
-			- XI. Justice
-			- XIV. Temperance
-			- XX. Judgement
-		- CARDS TO OMIT TO AVOID CONFUSION
-			- XIII. Death (this may need to be swapped out to avoid confusion with The Sun)
-			- XVI. The Tower (optional backup for The Lovers)
-			- XVII. The Star (optional backup for The Sun)
-			- XVIII. The Moon (optional backup for The Sun)
-			- XXI. The World (optional backup for The Hanged Man)
-		- CARDS TO OMIT FOR OTHER REASONS
-			- XV. The Devil
+	- Stamps should use permanent ink and be clearly visible on each poster, contrasting with the poster colors sufficiently to stand out in dimmer light
+- RFID Tarot Cards: see the [[Tarot Cards]] page for more information.
