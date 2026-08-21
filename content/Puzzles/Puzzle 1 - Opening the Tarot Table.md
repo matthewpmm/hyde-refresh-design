@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T13:55:13.081-07:00
-modified: 2026-08-20T17:23:26.884-07:00
+modified: 2026-08-20T17:27:18.042-07:00
 cssclasses: ""
 ---
 
@@ -10,7 +10,7 @@ A relatively simple, but not effortless, introductory puzzle involving several s
 - [[Creative Technology/Contortionist's Crystal Ball]]
 - [[Props/Hyde Circus Reopening Posters]]
 - Tarot Table
-- 10 tarot cards
+- 7 tarot cards
 # Puzzle Specifications
 
 Displayed on the base of the [[Creative Technology/Contortionist's Crystal Ball]] is a series of four moon phase symbols, arranged in a horizontal sequence:
@@ -26,7 +26,7 @@ One of each of these moons can be found stamped onto one of each of the four [[P
 - Moon 3 is stamped on the poster featuring an **[[Props/Acrobat]]** in a ring that reads "The Greatest Show Around"
 - Moon 4 is stamped on the poster featuring the **[[Props/Eye of the Ancient One]]** that reads "Beware! The Ancient Eye Sees All"
 
-A total of 7 highly durable, custom-fabricated [[Tarot Cards]] containing NFC tags are found spread throughout the room. These cards are:
+A total of 7 highly durable, custom-fabricated [[Props/Tarot Cards]] containing NFC tags are found spread throughout the room. These cards are:
 
 - 0. The Fool
 - I. The Magician
@@ -60,4 +60,4 @@ The tarot cards corresponding to each poster are as follows:
 - Poster stamps
 	- Stamps should be positioned slightly overlapping the primary subject of each poster
 	- Stamps should use permanent ink and be clearly visible on each poster, contrasting with the poster colors sufficiently to stand out in dimmer light
-- RFID Tarot Cards: see the [[Tarot Cards]] page for more information.
+- RFID Tarot Cards: see the [[Props/Tarot Cards]] page for more information.
