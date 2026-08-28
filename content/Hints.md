@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-07-22T19:26:09.434-07:00
+modified: 2026-08-27T16:27:06.940-07:00
 cssclasses: ""
 ---
 
@@ -44,7 +44,7 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 - [[Puzzles/Puzzle 9 - Countless Eyes]]
 - [[Puzzles/Puzzle 11 - Creating Magic Flame]]
 - [[Puzzles/Puzzle 11 - Obtaining the Eye]]
-- [[Puzzles/Puzzle 13 - Destroying the Eye]]
+- [[Puzzles/Puzzle 13 - Returning the Eye]]
 # Time Checks
 
 After a certain amount of gameplay time has elapsed, a bell tolling sound effect will automatically play, followed by a verbal time check from the Contortionist (through whatever means she is currently communicating with guests).

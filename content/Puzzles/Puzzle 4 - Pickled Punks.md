@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.965-08:00
-modified: 2026-07-22T18:26:16.013-07:00
+modified: 2026-08-26T20:21:48.739-07:00
 cssclasses: ""
 ---
 
@@ -14,32 +14,56 @@ There are four placards on the Punk Pedestal, each in front of (or directly behi
 
 From left to right, these placards read:
 
+
+**THE ASSISTANT** (matching jar: lung)
+A runaway, a stowaway
+Got in on the ground floor
+When they tied her to the wheel
+She held her breath no more
+
+**THE FORTUNE TELLER** (matching jar: six-fingered hand)
+
+
+**THE LION TAMER** (matching jar: teeth)
+A domineering gentleman
+Who cracked 
+His lion's jaw was stronger
+Though his was well maintained 
+
+**THE RINGMASTER** (matching jar: black heart)
+What lurks inside the evil man
+For whom life was a game?
+His pride was large and ????
+His heart was small and 
+
+
+
+
+
 ~~**THE SWORD SWALLOWER** (matching jar: lung)~~
 ~~*The idol of the circus troupe~~
 ~~A handsome, brash young man~~
 ~~Inspired shock and awe from all~~
 ~~until he slipped his hand~~*
 
-**THE ASSISTANT** (matching jar: lung)
+~~**THE ORGANIST** (matching jar: six-fingered hand)~~
+~~*The dexterous young musician had~~
+~~A man in every town~~
+~~And when she fluttered on the keys~~
+~~Another would come round~~*
 
+~~**THE BENEFACTOR** (matching jar: teeth)~~
+~~*The wealthy man who hoarded coin~~
+~~He sat front row each day~~
+~~And all that he would leave behind~~
+~~Was just more of the same~~*
 
-**THE ORGANIST** (matching jar: six-fingered hand)
-*The dexterous young musician had
-A man in every town
-And when she fluttered on the keys
-Another would come round*
+~~**THE DAMNED**~~
+~~*The maiden with the cruel designs~~
+~~so far afoul she strayed~~
+~~she ran off to the circus~~
+~~when the gallows called her name~~*
 
-**THE BENEFACTOR** (matching jar: teeth)
-*The wealthy man who hoarded coin
-He sat front row each day
-And all that he would leave behind
-Was just more of the same*
-
-**THE DAMNED**
-*The maiden with the cruel designs
-so far afoul she strayed
-she ran off to the circus
-when the gallows called her name*
 # Build Specifications
 
 The top of the table should contain four clearly marked spaces for each jar to be placed. In front or behind each space should be a formal-looking placard, as though identifying each specimen in a scientific way. The text on each placard should be printed on canvas and mounted to a piece of solid material, but each placard must be small enough not to obscure the jars themselves. Here are a few examples of the kind of stand/placard I'm envisioning:

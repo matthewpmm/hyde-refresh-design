@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-08-19T12:06:10.322-07:00
+modified: 2026-08-27T16:27:06.976-07:00
 cssclasses: ""
 ---
 
@@ -56,7 +56,7 @@ Suddenly, an echoing, gravelly voice ([[Creative Technology/The Contortionist]])
 
 The [main theme](https://drive.google.com/file/d/1v6CuyNR_84eWfcbyISFXHtWjbKJh8H_B/view?usp=drive_link) begins playing in the background. To access pre-recorded [[Hints\|hints]], guests may ring the bell and the contortionist will speak to them through the crystal ball as before.
 
-Attached to a wall or other illuminated flat surface, players will find a torn-out page from a journal - this is the [[Props/Ringmaster’s Journal Entries\|first Ringmaster's Journal Entry]]. It reads as follows:
+Attached to a wall or other illuminated flat surface, players will find a torn-out page from a journal - this is the [[Props/Journal Entries\|first Ringmaster's Journal Entry]]. It reads as follows:
 
 > *April 3, 1891
 > 
@@ -142,7 +142,7 @@ With the [[Creative Technology/Gas Lantern]] in hand, it becomes possible for pl
 There is also a compartment with a door lower on the pole labeled with a diagram indicating that a lantern can be inserted into it. Placing the lantern inside this compartment provides light for the limelight to magnify, causing it to shine a bright beam of light. This allows players to examine faraway details in the environment more closely. Once players learn how to illuminate and operate the limelight, they will be able to use it to solve the [[Puzzles/Puzzle 6 - Wheel of Death\|Wheel of Death]].
 ## [[Puzzles/Puzzle 6 - Wheel of Death]]
 
-Once players route the gas through the pipes to the [[Creative Technology/Wheel of Death]], several flickering gas lamps around it flicker on, illuminating the area. The wheel begins to turn slowly, and the lid of the [[Props/Knife Box\|locked box]] next to it pops open to reveal four [[Props/Throwing Knives]], as well as the [[Props/Ringmaster’s Journal Entries\|second Ringmaster's Journal Entry]] taped to the underside of the box's lid.
+Once players route the gas through the pipes to the [[Creative Technology/Wheel of Death]], several flickering gas lamps around it flicker on, illuminating the area. The wheel begins to turn slowly, and the lid of the [[Props/Knife Box\|locked box]] next to it pops open to reveal four [[Props/Throwing Knives]], as well as the [[Props/Journal Entries\|second Ringmaster's Journal Entry]] taped to the underside of the box's lid.
 
 The journal entry reads as follows:
 
@@ -222,7 +222,7 @@ Around the room, they find evidence of a struggle. Circus animals lay dead in th
 
 Players find a [[Creative Technology/Display Pedestal]] covered in a loose red cloth. When they remove the cloth, the [[Props/Eye of the Ancient One]] is revealed, triggering a dramatic musical sting. It is being displayed proudly inside an acrylic case.
 
-Players find a large, ornate, unlocked chest (the [[Props/Ringmaster's Trunk]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the [[Props/Ringmaster’s Journal Entries\|third ringmaster's journal entry]] attached to the inside of the lid and a [[Props/Vial of Earthly Spice]].
+Players find a large, ornate, unlocked chest (the [[Props/Ringmaster's Trunk]]) propped up against a wall. Inside the Ringmaster’s chest are a variety of personal effects, including the [[Props/Journal Entries\|third ringmaster's journal entry]] attached to the inside of the lid and a [[Props/Vial of Earthly Spice]].
 
 The third Ringmaster's Journal Entry reads as follows:
 
@@ -278,7 +278,7 @@ Players must now rush back to the train car as a dramatic, choral, high-octane b
 
 [[Puzzles/BACKUP PUZZLE - Unlocking the Engine Room]]
 # [[Rooms/Engine Room]]
-## [[Puzzles/Puzzle 13 - Destroying the Eye]]
+## [[Puzzles/Puzzle 13 - Returning the Eye]]
 
 As players once again board the train, they find the door to the engine room now open. As they push the door open, they are greeted by the horrifying gaze of hundreds of eyes, or at least what appears to be eyes, melding together into sticky tentacles, tendrils, and sinewy flesh spreading across the walls and ceiling beams.
 

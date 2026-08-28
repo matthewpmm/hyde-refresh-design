@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.956-08:00
-modified: 2026-07-23T18:11:30.341-07:00
+modified: 2026-08-26T15:27:30.800-07:00
 cssclasses: ""
 ---
 
 # Relevant Items
 - [[Props/Ringmaster's Trunk]]
 - [Puzzle Box](https://www.puzzlemaster.ca/browse/wood/puzzleboxes/14248-hurricane-puzzle-box-plain-maple?srsltid=AfmBOoqwJDY8huyy3TrkLlDTDJVMfRGsu9V7B1OhtnQiS2hOOiEAcEeyRzA)
-- [[Props/Ringmaster’s Journal Entries\|Journal entry]]
+- [[Props/Journal Entries\|Journal entry]]
 - [[Props/Vial of Earthly Spice]]
 - [[Creative Technology/Gas Lantern]]
 # Puzzle Specifications

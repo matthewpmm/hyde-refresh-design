@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-21T10:50:09.817-08:00
-modified: 2026-07-22T18:37:00.798-07:00
+modified: 2026-08-26T15:27:30.788-07:00
 cssclasses: ""
 ---
 
@@ -50,7 +50,7 @@ Don't forget to check out the [Pinterest mood board](https://www.pinterest.com/m
 Each of these is both a graphic design project and a fabrication project. We would prefer to hire one graphic designer to ensure a consistent design treatment across all signage and ask them to either personally fabricate each item or aid in outsourcing manufacturing to other fabricators/vendors.
 ### Paper/Canvas/Other
 - ~~[[Props/Ringmaster's Letter]]~~ (claimed)
-- ~~[[Props/Ringmaster’s Journal Entries]]~~ (claimed)
+- ~~[[Props/Journal Entries]]~~ (claimed)
 - ~~[[Props/Boiler Maintenance Ticket]]~~ (claimed)
 - ~~[[Props/Hyde Circus Reopening Posters]]~~ (claimed)
 ### Metal
