@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-08-27T16:58:13.736-07:00
+modified: 2026-08-27T17:00:39.518-07:00
 cssclasses: ""
 ---
 
-*Revised 8/10/2026*
+*Revised 8/27/2026*
 # Logline/Summary
 
 Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time - you must escape before it can trap you too!
