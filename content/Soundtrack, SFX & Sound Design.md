@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-08-27T16:27:07.046-07:00
+modified: 2026-08-28T16:39:58.682-07:00
 cssclasses: ""
 ---
 
@@ -36,10 +36,19 @@ cssclasses: ""
 Documentation of attributions must be provided for all SFX borrowed from publicly available sources that request attribution.
 
 The sound effects commissioned will include but are not limited to:
-- Steam whistles
+- Tarot Table
+- Steam whistle activation moment
+- ~~Steam whistles~~ **(COMPLETE)**
 	- 5 long, easily loopable continuous steam whistle sound effects, each pitched to a different note of a pentatonic scale
 	- A muted "steam releasing" sound effect that plays when the wrong note in the sequence is played but does not produce any discernable pitch
-	- A "failure" sound effect 
+	- A "failure" sound effect
+- Gas pipe puzzle
+	- Valve
+- Hall of Mirrors door unlocking moment
+	- dfa
+## Dialogue
+- Opening
+- 
 # Technical Specifications
 - All audio files must be delivered as .wav files with minimal compression.
 - It is possible to actually program the room's audio system remotely using [Parsec](https://parsec.app/), which Matthew can help connect you to. The actual mixing and testing will need to be done in person.
