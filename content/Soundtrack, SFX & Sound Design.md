@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-08-31T17:42:23.735-07:00
+modified: 2026-09-01T22:29:38.812-07:00
 cssclasses: ""
 ---
 
@@ -45,7 +45,9 @@ The sound effects commissioned will include but are not limited to:
 - Gas pipe puzzle
 	- Valve turning
 - Hall of Mirrors door unlocking moment
-- Final puzzle
+- [[Puzzles/Puzzle 13 - Returning the Eye\|Final puzzle]]
+	- Magical glyph selection noises (triggered by rotating each valve and changing which magical symbols are illuminated)
+		- 5 slight variants of a magical shimmering sound
 ## Dialogue
 - Opening
 - 
