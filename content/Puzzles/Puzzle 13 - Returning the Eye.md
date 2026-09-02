@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.958-08:00
-modified: 2026-09-01T22:26:43.866-07:00
+modified: 2026-09-02T16:01:58.063-07:00
 cssclasses: ""
 ---
 
@@ -50,10 +50,29 @@ When the correct glyphs are illuminated, a jet of fog bursts from the firebox an
 > The set of 15 glyphs used in this puzzle are letters selected from the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet). This alphabet has 22 letters total but 7 are unused for this puzzle.
 
 ![[Media/Pasted image 20260901161423.png]]
-
-
-
-
 # Build Specifications
-
-- When all the notes are assembled correctly, **there must only be one angle the entire pentagon can be rotated to where all five corners clearly indicate specific glyphs.** Anything other than the correct angle of rotation must clearly leave out at least one glyph.
+- The valves we are using are QUITE HEAVY and need to be secured properly so guests can't damage the face of the furnace by leaning on them or pulling them too hard!!!
+- Tech
+	- We will use an Arduino MEGA with screw terminal shield to accept inputs from the valves and program the glowing glyph lights. It will be connected to an W5500 Ethernet module to communicate with COGS via OSC.
+	- The LED lights will be the individually addressable string light modules I've provided. These should run off of 5V power, but please double check before hooking them up.
+	- To read the position of the valves, we will cannibalize the hardware used in the gas pipe valves and adapt them to the new valves. The gas pipe valves use AS5600 magnetic encoders, which tracks the absolute rotation of a magnetic field provided by a magnet embedded in the rotating shaft, and outputs it as an analog value. They only need an analog channel, +5V, and GND.
+	- COGS Communication
+		- The networked Arduino MEGA must respond to the following trigger messages (and optional additional message arguments, in italics) sent by COGS via network message with the specified behaviors:
+			- "ping"
+				- Device sends an affirmative "online" indicator message to COGS
+			- "reboot"
+				- The device fully reboots from either a hardware or software perspective and restarts its normal operating loop. This must include turning off all lights.
+			- "runes-on"
+				- The device turns on all glowing rune lights. 
+			- "runes-off"
+				- The device turns off all glowing rune lights.
+		- The device must send the following feedback messages to COGS via network message when each of the following triggers occur:
+			- "online"
+				- when first connecting to the network after a reboot or powering on
+				- when prompted to affirmatively signal connection status via COGS
+			- "valve-turned *valve-number direction*"
+				- Valve numbers may be either zero- or one-indexed, but this must be CLEARLY DOCUMENTED.
+				- Valve number must be an integer. Direction must be a boolean value of 1 indicating that the valve has been rotated one cycle clockwise or a 0 indicating that the valve has been rotated one cycle counterclockwise.
+- Cipher Circle
+	- The cipher circle should be etched/routed/Dremeled into the floor directly in front of the engine. It should have an outer diameter of approximately 3'.
+	- The grooves cut for the circle should be filled with epoxy resin mixed with blacklight-reactive pigment. Ideally, the runes themselves should be a different color of pigment than the outline of the circle to make them stand out even more.

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-09-01T17:59:27.892-07:00
+modified: 2026-09-02T16:01:05.054-07:00
 cssclasses: ""
 ---
 
@@ -14,6 +14,8 @@ Five torn-up scraps of paper containing journal entries and related notes can be
 - The journal entries should be printed on 8.5"x11" [inkjet-printer compatible canvas](https://a.co/d/0fK6LjRD) after the canvas has been pre-decorated to look like aged parchment. Even though the entries need to fit together to make one large ring, it should be possible to cut each replacement note out of a single piece of 8.5"x11" paper.
 - After printing, the e of the parchment should be torn to look as though it has been ripped out of a journal.
 - The text in the entries should not be just a computer font - they should either be actually written by hand or written with relatively realistically simulated human handwriting in PRINT, not cursive. This must be as clear and readable as possible, even for people who do not speak English as their first language.
+- Each note should be shaped approximately as seen below and able to clearly and neatly fit together to form a complete pentagon that fits perfectly inside a 3' diameter circle. The text should be oriented approximately as shown in the image below.
+![[Media/Engine Cipher Layout_Note Text Orientation and Layout.jpg]]
 - Each journal entry should contain all text specified below. If this text differs from the version in the [[Script]], the version in the script takes precedence.
 ## Fortune Teller's Journal Entry (Text)
 
