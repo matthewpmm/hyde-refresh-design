@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-08-28T16:39:58.682-07:00
+modified: 2026-08-31T17:42:23.735-07:00
 cssclasses: ""
 ---
 
@@ -43,9 +43,9 @@ The sound effects commissioned will include but are not limited to:
 	- A muted "steam releasing" sound effect that plays when the wrong note in the sequence is played but does not produce any discernable pitch
 	- A "failure" sound effect
 - Gas pipe puzzle
-	- Valve
+	- Valve turning
 - Hall of Mirrors door unlocking moment
-	- dfa
+- Final puzzle
 ## Dialogue
 - Opening
 - 
