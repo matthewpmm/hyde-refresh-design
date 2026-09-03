@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-08-27T17:00:39.518-07:00
+modified: 2026-09-03T11:03:06.577-07:00
 cssclasses: ""
 ---
 
@@ -35,13 +35,19 @@ The echoes of a distant voice can be heard reverberating from an unknown origin.
 
 Suddenly, the sconce lamps dim, and an echoing, husky voice ([[Creative Technology/The Contortionist]]) begins to speak through the [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]], which pulses with a magical purple light.
 
-> *FILENAME: contortionist_1*
+> *FILENAME: contortionist_1a*
 > 
 > "Travelers. Can you hear me? I am speaking to you through the crystal ball on the table. Come, gather around - it is very important that you listen to me closely.
 > 
 > You are in grave danger. Twilight Circus has been overtaken by an otherworldly force of incredible evil power. You must stop this train quickly or you will be frozen in time forever.
 > 
-> I will do what I can to aid you. If you need my aid, ring the bell on the table and I will offer what knowledge I can."
+> I will do what I can to aid you. Do you see the bell on the table, by the crystal ball? Ring it, please."
+
+Players must now ring the bell on the table. If they take too long to ring the bell, her last two sentences repeat.
+
+> *FILENAME: contortionist_1b*
+> 
+> "Very good. If you need my aid, you may ring the bell and I will offer you what knowledge I can. Now go! Stop the train!"
 
 > [!NOTE]
 > To access pre-recorded [[Hints\|hints]], guests may ring the bell and the Contortionist will speak to them through the crystal ball.
@@ -271,7 +277,7 @@ Inside the Ringmaster’s chest are a variety of personal effects, including a p
 The puzzle box is opened by *(TBD: puzzle box solve)*.
 
 Inside the puzzle box is a [[Props/Vial of Earthly Spice]] and the [[Ringmaster's Brooch]]. A small tube sticking out of the [[Creative Technology/Gas Lantern]] can be seen to perfectly fit the vial. When it is inserted into the lantern, the flame vanishes for a moment, then suddenly bursts into a bright violet - it is now emitting blacklight. The background music begins to build in anticipation.
-## [[Puzzles/Puzzle 11 - Obtaining the Eye]]
+## [[Puzzles/Puzzle 12 - Obtaining the Eye]]
 
 In the blacklight, the interior walls of the circus can now be seen to be [splattered with previously invisible UV-reactive fluorescent paint as though it were blood](https://pin.it/7B7srAzZT). Upon closely inspecting the walls, hidden messages such as those below are now visible and appear to have been written by the deceased performers.
 

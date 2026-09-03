@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-09-02T21:48:12.880-07:00
+modified: 2026-09-02T22:15:35.333-07:00
 cssclasses: ""
 ---
 
@@ -28,7 +28,7 @@ cssclasses: ""
 	3. This is a very small space, so mixing the track in stereo may be more challenging (although is still potentially possible).
 6. After the reveal of [[Props/The Ringmaster]]'s body, a cold, moody, haunting looping background track begins as players investigate the darkened [[Rooms/Big Top (Circus Tent)]] with their [[Creative Technology/Gas Lantern]].
 	1. When [[Puzzles/Puzzle 11 - Creating Magic Flame]] is solved and the lantern begins emitting blacklight, the track should fade to a slightly more intense version.
-	2. When [[Puzzles/Puzzle 11 - Obtaining the Eye]] is solved and the [[Props/Eye of the Ancient One]] is obtained, the track should fade to a more intense version once again, ideally with some sort of choral layer now added.
+	2. When [[Puzzles/Puzzle 12 - Obtaining the Eye]] is solved and the [[Props/Eye of the Ancient One]] is obtained, the track should fade to a more intense version once again, ideally with some sort of choral layer now added.
 	3. When the Ankh is destroyed in [[Puzzles/Puzzle 13 - Returning the Eye\|Puzzle 12]] and smoke begins billowing out of the lantern as the big top bursts into flames, the track should reach a crescendo before pausing for [[Creative Technology/The Contortionist]]'s dialogue urging players to start the train and escape.
 7. A high-energy but still bassy and dramatic looping music track plays for the duration of [[Puzzles/BACKUP PUZZLE - Unlocking the Engine Room]] and [[Puzzle 13 - Starting the Train]], until cutting out when the train is finally started.
 8. As the lights fade up during the outro, a simply arranged, contemplative, non-looping outro/credits song begins to play. It is bittersweet - a celebration of the Travelers' victory as well as an emotional farewell to the circus and [[Creative Technology/The Contortionist]], its last survivor.

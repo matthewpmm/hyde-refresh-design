@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-25T20:54:53.929-08:00
-modified: 2026-04-08T16:59:49.952-07:00
+modified: 2026-09-02T22:15:35.294-07:00
 cssclasses: ""
 ---
 
 One of the most major changes to the [[Rooms/Courtyard]] will be the inclusion of a projector aimed at the ceiling. Currently the ceiling is black, but we would like to play two different looping videos at different times during the experience.
 
-When guests first enter the space, they will be greeted with a skyscape of twinkling stars. Later on, after the [[Props/Eye of the Ancient One]] is acquired in [[Puzzles/Puzzle 11 - Obtaining the Eye]], a magical fire will start throughout the space and the so-called Ancient One, an eldritch being that holds dominion over this nightmare world, will stare down at players with hundreds of spectral eyes as the world burns.
+When guests first enter the space, they will be greeted with a skyscape of twinkling stars. Later on, after the [[Props/Eye of the Ancient One]] is acquired in [[Puzzles/Puzzle 12 - Obtaining the Eye]], a magical fire will start throughout the space and the so-called Ancient One, an eldritch being that holds dominion over this nightmare world, will stare down at players with hundreds of spectral eyes as the world burns.
 
 Projection designers will have access to the asset packs included in [Steven McFarlane's Complete Collection](https://www.stevenmcfarlane.design/products/the-complete-collection).
 # Deliverables
