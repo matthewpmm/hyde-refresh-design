@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.965-08:00
-modified: 2026-09-04T11:43:28.596-07:00
+modified: 2026-09-04T12:08:47.498-07:00
 cssclasses: ""
 ---
 
@@ -28,7 +28,7 @@ But couldn't stop the show
 
 **THE LION TAMER** (matching jar: teeth)
 A domineering gentleman
-Who cracked the whip in vain
+Who cracked his whip in vain
 His lion's mouth was larger
 Though his was well maintained
 
