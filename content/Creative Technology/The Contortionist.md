@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-08T12:48:40.622-07:00
+modified: 2026-09-08T12:54:51.434-07:00
 cssclasses: ""
 ---
 
@@ -48,9 +48,9 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > 
 > I am the Contortionist, the last living performer of Twilight Circus. For you, it has been only a few days since the circus was meant to reopen, but we have been trapped here for centuries. And now you are trapped with us.
 > 
-> Your only hope is to destroy the Eye of the Ancient One, which binds this evil force to our world. The Ringmaster, curse his name, brought it here to display as a spectacle - find him and you will find the Eye.
+> Your only hope is to destroy the Eye of the Ancient One, which binds this evil force to our world. The Ringmaster, curse his name, brought it here to display - find him and you will find the Eye.
 > 
-> He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what advice I can.”
+> He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what help I can.”
 
 > *FILENAME: contortionist_3*
 > 
