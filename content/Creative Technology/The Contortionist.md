@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-08T12:29:14.173-07:00
+modified: 2026-09-08T12:34:52.127-07:00
 cssclasses: ""
 ---
 
@@ -40,7 +40,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 
 > *FILENAME: contortionist_1b*
 > 
-> "Very good. If you need my aid, you may ring the bell and I will offer you what knowledge I can. Now go! Stop the train!"
+> "Very good. If you need my aid, ring the bell and I will offer what help I can. Now go! Stop the train!"
 
 > *FILENAME: contortionist_2*
 > 
