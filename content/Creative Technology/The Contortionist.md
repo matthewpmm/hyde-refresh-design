@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-07-19T18:50:55.115-07:00
+modified: 2026-09-07T17:45:57.109-07:00
 cssclasses: ""
 ---
 
@@ -27,6 +27,44 @@ All of the Contortionist's individual voice lines are spread out throughout a fe
 - [[Hints]]
 
 A detailed breakdown of all voice lines that need to be edited into individual audio files (and their names) can be found in the [Tech Routing](https://docs.google.com/spreadsheets/d/1hNpea9c83iEV9CKdvRUwMU7tv4EyQF3eoKwme37vBFU/edit?gid=2116496512#gid=2116496512) spreadsheet.
+
+# All Character Voice Lines
+
+> *FILENAME: contortionist_1a*
+> 
+> "Travelers. Can you hear me? I am speaking to you through the crystal ball on the table. Come, gather around - it is very important that you listen to me closely.
+> 
+> You are in grave danger. Twilight Circus has been overtaken by an otherworldly force of incredible evil power. You must stop this train quickly or you will be frozen in time forever.
+> 
+> I will do what I can to aid you. Do you see the bell on the table, by the crystal ball? Ring it, please."
+
+> *FILENAME: contortionist_1b*
+> 
+> "Very good. If you need my aid, you may ring the bell and I will offer you what knowledge I can. Now go! Stop the train!"
+
+> *FILENAME: contortionist_2*
+> 
+> “You poor souls – despite your best efforts, it seems the Ancient One has trapped you here as well.
+> 
+> I am the Contortionist, the last living performer of the Twilight Circus Troupe. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries.
+> 
+> Under the influence of the Ancient One, time stands still, but our bodies and minds wither away forever. And now you are trapped here with us, doomed to the same fate.
+> 
+> Your only hope is to destroy the source of this ancient evil - the Eye of the Ancient One, the artifact binding this evil force to our world. The Ringmaster, curse his name, brought it here to display as a spectacle - find him and you will find the Eye.
+> 
+> He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what advice I can.”
+
+> *FILENAME: contortionist_3*
+> 
+> “Travelers! The Ancient One now seeks to burn you... and destroy the circus with it. Hurry – take the eye and rush back to the train. You must find a way to start it and escape!”
+
+> *FILENAME: contortionist_4*
+> "You have done it. At long last, thanks to you, the ancient evil is banished, and this stagnant circus can come to its final end. Thank you, travelers, and farewell."
+
+> *FILENAME: failstate*
+> "Travelers! You are doomed. You have failed to destroy the source of the ancient evil. Now you will be trapped here, frozen in time, forever."
+
+For all remaining Contortionist voice lines, please see the list of [[Hints]].
 # Resources
 - [3D printable animatronic neck](https://makerworld.com/en/models/775532-2-axis-animatronic-neck#profileId-712031)
 
