@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-08T13:09:48.273-07:00
+modified: 2026-09-08T13:23:06.955-07:00
 cssclasses: ""
 ---
 
@@ -57,7 +57,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > “Travelers! The Ancient One now seeks to burn you... and destroy the circus with it. Hurry – take the eye and rush back to the train. You must find a way to start it and escape!”
 
 > *FILENAME: contortionist_4*
-> "You have done it. At long last, thanks to you, the ancient evil is banished, and this stagnant circus can come to its final end. Thank you, travelers, and farewell."
+> "You have done it. At long last, thanks to you, the ancient evil is banished, and this circus can come to its final end. Thank you, travelers, and farewell."
 
 > *FILENAME: failstate*
 > "Travelers! You are doomed. You have failed to destroy the source of the ancient evil. Now you will be trapped here, frozen in time, forever."
