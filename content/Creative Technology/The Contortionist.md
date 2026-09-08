@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-07T17:45:57.109-07:00
+modified: 2026-09-08T12:18:25.527-07:00
 cssclasses: ""
 ---
 
@@ -34,7 +34,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > 
 > "Travelers. Can you hear me? I am speaking to you through the crystal ball on the table. Come, gather around - it is very important that you listen to me closely.
 > 
-> You are in grave danger. Twilight Circus has been overtaken by an otherworldly force of incredible evil power. You must stop this train quickly or you will be frozen in time forever.
+> You are in grave danger. Twilight Circus has been overtaken by a power evil force. You must stop this train quickly or you will be frozen in time forever.
 > 
 > I will do what I can to aid you. Do you see the bell on the table, by the crystal ball? Ring it, please."
 
@@ -46,9 +46,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > 
 > “You poor souls – despite your best efforts, it seems the Ancient One has trapped you here as well.
 > 
-> I am the Contortionist, the last living performer of the Twilight Circus Troupe. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries.
-> 
-> Under the influence of the Ancient One, time stands still, but our bodies and minds wither away forever. And now you are trapped here with us, doomed to the same fate.
+> I am the Contortionist, the last living performer of the Twilight Circus. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries. And now you are trapped here with us, doomed to the same fate.
 > 
 > Your only hope is to destroy the source of this ancient evil - the Eye of the Ancient One, the artifact binding this evil force to our world. The Ringmaster, curse his name, brought it here to display as a spectacle - find him and you will find the Eye.
 > 
