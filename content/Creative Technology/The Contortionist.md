@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-08T12:18:43.898-07:00
+modified: 2026-09-08T12:29:14.173-07:00
 cssclasses: ""
 ---
 
@@ -36,7 +36,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > 
 > You are in grave danger. Twilight Circus has been overtaken by a powerful evil force. You must stop this train quickly or you will be frozen in time forever.
 > 
-> I will do what I can to aid you. Do you see the bell on the table, by the crystal ball? Ring it, please."
+> There is a bell on the table, by the crystal ball. Ring it now."
 
 > *FILENAME: contortionist_1b*
 > 
