@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.921-08:00
-modified: 2026-09-08T12:34:52.127-07:00
+modified: 2026-09-08T12:47:40.003-07:00
 cssclasses: ""
 ---
 
@@ -46,7 +46,7 @@ A detailed breakdown of all voice lines that need to be edited into individual a
 > 
 > “You poor souls – despite your best efforts, it seems the Ancient One has trapped you here as well.
 > 
-> I am the Contortionist, the last living performer of the Twilight Circus. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries. And now you are trapped here with us, doomed to the same fate.
+> I am the Contortionist, the last living performer of Twilight Circus. For you, it has been only a few days since the circus was meant to reopen, but we have been trapped here for centuries. And now you are trapped with us.
 > 
 > Your only hope is to destroy the source of this ancient evil - the Eye of the Ancient One, the artifact binding this evil force to our world. The Ringmaster, curse his name, brought it here to display as a spectacle - find him and you will find the Eye.
 > 
