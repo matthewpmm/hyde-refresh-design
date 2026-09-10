@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-09-04T12:14:27.815-07:00
+modified: 2026-09-10T15:12:07.929-07:00
 cssclasses: ""
 ---
 
-*Revised 9/3/2026*
+*Revised 9/10/2026*
 # Logline/Summary
 
 Soon after boarding a train to visit the grand reopening of Twilight Circus, you find that that a mysterious otherworldly entity has frozen the circus in time - you must escape before it can trap you too!
@@ -39,15 +39,15 @@ Suddenly, the sconce lamps dim, and an echoing, husky voice ([[Creative Technolo
 > 
 > "Travelers. Can you hear me? I am speaking to you through the crystal ball on the table. Come, gather around - it is very important that you listen to me closely.
 > 
-> You are in grave danger. Twilight Circus has been overtaken by an otherworldly force of incredible evil power. You must stop this train quickly or you will be frozen in time forever.
+> You are in grave danger. Twilight Circus has been overtaken by a powerful evil force. You must stop this train quickly or you will be frozen in time forever.
 > 
-> I will do what I can to aid you. Do you see the bell on the table, by the crystal ball? Ring it, please."
+> There is a bell on the table, by the crystal ball. Ring it now."
 
 Players must now ring the bell on the table. If they take too long to ring the bell, her last two sentences repeat.
 
 > *FILENAME: contortionist_1b*
 > 
-> "Very good. If you need my aid, you may ring the bell and I will offer you what knowledge I can. Now go! Stop the train!"
+> "Very good. If you need my aid, ring the bell and I will offer what help I can. Now go! Stop the train!"
 
 > [!NOTE]
 > To access pre-recorded [[Hints\|hints]], guests may ring the bell and the Contortionist will speak to them through the crystal ball.
@@ -63,15 +63,15 @@ To solve the puzzle, guests must first determine the correct order of posters ba
 
 Once they have successfully placed the tarot cards, an ominous musical sting plays, all the candles on the table light up, and a drawer in the Tarot Table pops open.
 
-Inside the drawer in the tarot table is a [[Broken Valve + Valve Handle\|valve handle]] on an axle, as well as a note written on a scrap of paper. It reads:
+Inside the drawer in the tarot table is a [[Broken Valve + Valve Handle\|valve handle]] on an axle, as well as a note (the Fortune Teller's [[Props/Journal Entries\|Journal Entry]]) written on a scrap of paper. It reads:
 
-> *I am troubled by the fortunes the cards have revealed to me this moon.*
+> *I am troubled by the fortunes the cards have revealed to me.*
 > 
-> *Since the Ringmaster's return from overseas, tensions among our troupe are high. He has brought strange new artifacts to display - so-called "Pickled Punks" preserved in jars, strange magical artifacts, and worst of all, some accursed eye from an unknown creature which he intends to make a main attraction.*
+> *Since the Ringmaster's return, tensions are high at the circus. He has brought strange new things to display - so-called "Pickled Punks" preserved in jars, strange magical artifacts, and worst of all, some large, mysterious eye which he intends to make a main attraction.*
 > 
 > *(Illustration of the Eye of the Ancient One)*
 > 
-> *I must do what I can to ward against these foul omens.*
+> *I must do what I can to ward off these terrible omens.*
 
 The valve handle can be inserted into the broken valve in the wall near the brake lever and rotated to open the valve, allowing steam to flow through the pipes.
 
@@ -120,13 +120,11 @@ The Contortionist speaks to the players as they enter the courtyard, her head tu
 > 
 > “You poor souls – despite your best efforts, it seems the Ancient One has trapped you here as well.
 > 
-> I am the Contortionist, the last living performer of the Twilight Circus Troupe. To you, it has probably been mere days since the circus was meant to reopen, but we have been trapped here, frozen in time, for centuries.
+> I am the Contortionist, the last living performer of Twilight Circus. For you, it has only been a few days since the circus was meant to reopen, but we have been frozen in time for centuries. And now you are trapped with us.
 > 
-> Under the influence of the Ancient One, time stands still, but our bodies and minds wither away forever. And now you are trapped here with us, doomed to the same fate.
+> Your only hope is to destroy the Eye of the Ancient One, which binds this evil force to our world. The Ringmaster, curse his name, brought it here to display - find him and you will find the Eye.
 > 
-> Your only hope is to destroy the source of this ancient evil - the Eye of the Ancient One, the artifact binding this evil force to our world. The Ringmaster, curse his name, brought it here to display as a spectacle - find him and you will find the Eye.
-> 
-> He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what advice I can.”
+> He is surely still hiding in the circus tent, the coward. I will do what I can to help you find him. If you need my aid, ring the bell below and I will offer what help I can.”
 
 > *SFX: Spotlight clicking off (with reverb).*
 
@@ -152,13 +150,15 @@ As players enter the tent, a mechanical toy monkey in a cage springs to life and
 
 Inside the tent are shelves containing a multitude of [specimens of bizarre creatures preserved in jars of amber fluid](https://www.dappercadaver.com/products/replica-specimen-jar-assortment-10-pcs), as well as a [[Creative Technology/Punk Pedestal\|pedestal]] with clearly indicated spots for four jars to be placed. All the jars on the shelves are fixed in place, save for four [[Props/Puzzle Jars\|puzzle jars]] colored differently from the others.
 
-Keen eyed players may also spot a folded scrap of paper on the shelves, on which is written a note:
+Keen eyed players may also spot a folded scrap of paper on the shelves, on which is written the Acrobat's [[Props/Journal Entries\|Journal Entry]]:
 
 > *I have lost track of the days since this foul entity, the "Ancient One," froze our poor circus in time.*
 > 
-> *Our troupe's morale has never been worse. Everyone is turning on each other and hoarding supplies. The Ringmaster locked himself deep inside the main tent and has not been seen for weeks.*
+> *Our troupe's morale has never been worse. Everyone is turning on each other and hoarding supplies. The Ringmaster locked himself inside the main tent and has not been seen for weeks.*
 > 
-> *The Ancient One has been coming to me in dreams. It can sense my suffering, and promises to freeze me too, high above the circus, free from these chains of endless time. I am close to accepting its offer.*
+> *The Ancient One has been coming to me in dreams. It can sense my suffering, and promises to freeze me too, high above the circus, free from this endless half-life.*
+> 
+> *I think I may accept its offer.*
 
 A label with a poem on it is mounted in front of each marked jar placement spot on the pedestal. Each jar hints at which of the four jars should be placed on that spot. When all four of the correct jars are placed in the correct positions, a compartment in the front of the pedestal drops open, revealing a new gas canister that can be added to the [[Creative Technology/Gas Pump]] to extend the travel distance of the flame.
 ## [[Puzzles/Puzzle 5 - Lighting the Limelight]]
@@ -246,15 +246,15 @@ Around the room, they find evidence of a struggle. Circus animals lay dead in th
 
 Players find a [[Creative Technology/Display Pedestal]] covered in a loose red cloth. When they remove the cloth, the [[Props/Eye of the Ancient One]] is revealed to be locked inside a clear display case.
 
-Also found in the room is a scrap of paper containing another note, which reads:
+Also found in the room is a scrap of paper on which is the Lion Tamer's [[Props/Journal Entries\|Journal Entry]], which reads:
 
-> *I don't know how long we've been trapped here. Decades, perhaps. My beloved lion ran off ages ago, and I am left here with nothing, cursed to wither away for eternity.
+> *I don't know how long we've been trapped here. Time has lost all meaning. My beloved lion ran off ages ago, and I am left here with nothing, cursed to wither away for eternity.
 > 
-> I have been having terrible nightmares. In them, I am standing alone under the circus tent, pierced by the gaze of hundreds of alien eyes.*
+> I have been having terrible nightmares. In them, I am standing alone under the circus tent, pierced by the gaze of hundreds of eyes.*
 > 
-> *I find myself holding it - that cursed artifact that doomed us all - the Eye of the Ancient One. It is warm, and calm, and it is breathing.*
+> *I find myself holding the Eye of the Ancient One, that cursed artifact that doomed us all. It is warm, and calm, and it breathes softly in my arms.*
 > 
-> *And when I hold it, I can feel that this thing, this... creature that binds us to the domain of the Ancient One... it is but a child, calling out for its mother. And its mother cries for it too.*
+> *And when I hold it, I can feel that this thing, this... creature... it is but a child, calling out for its mother. And its mother cries for it too.*
 ## [[Puzzles/Puzzle 10 - Unlocking the Ringmaster's Chest]]
 
 The [[Props/Ringmaster's Trunk]] is locked by a three-digit numerical combination latch. Attached to the top of the chest is a sign displaying three different shapes arranged in the same orientation as the numerical combination dials; a circle, a thin vertical diamond-like slit, and a four-pointed star.
@@ -264,13 +264,13 @@ With the Gas Lantern, guests are able to see a number of eyes with varying shape
 By counting the quantity of each type of pupil found in the room and placing those digits in the order the symbols are found in near the lock, the guests find the correct combination to open the chest - 953.
 ## [[Puzzles/Puzzle 11 - Creating Magic Flame]]
 
-Inside the Ringmaster’s chest are a variety of personal effects, including a puzzle box and a journal entry that reads as follows:
+Inside the Ringmaster’s chest are a variety of personal effects, including a puzzle box and the Ringmaster's [[Props/Journal Entries\|Journal Entry]], which reads as follows:
 
-> *This being of nightmares, the Ancient One, has held us in the clutches of its influence for far too long.*
+> *What a fool I am.*
 > 
 > *My performers have grown hostile, and I fear they may soon mutiny. I fear for my life, though what life remains for me in this timeless void, rotting away eternally, is barely worth living.*
 > 
-> *Of all the arcane artifacts I sought to display when the circus reopened, I have kept a single one for myself - a vial of so-called "earthly spices" made by an ancient herbalist. Supposedly, these herbs reveal hidden truths when exposed to flame. Perhaps they will reveal the secret to my escape.*
+> *I have kept a single one of the artifacts I planned to display when the circus reopened for myself - a vial of so-called "earthly spices" made by an ancient herbalist. Supposedly, these herbs reveal hidden truths when exposed to flame. Perhaps they will reveal the secret to my escape.*
 > 
 > *(Illustration of earthly spice being inserted into the gas lantern)*
 
@@ -322,7 +322,7 @@ Suddenly, fire erupts around the big top.
 
 > *FILENAME: contortionist_3*
 > 
-> “Travelers! The Ancient One now seeks to burn you... and destroy the circus with it. Hurry – take the eye and rush back to the train. You must find a way to start it and escape!”
+> “Travelers! The Ancient One now seeks to burn you... and destroy the circus with it. Hurry – take the eye and rush back to the train. You must find a way to start the engine and escape!”
 
 Players must now rush back to the train car as a dramatic, choral, high-octane background music track begins. On their way, they see that flames have appeared in the courtyard as well. Wind is blowing, and the lighting has turned to vibrant, fiery reds and oranges.
 # [[Rooms/Engine Room]]
@@ -387,7 +387,8 @@ The sound of the engine starting to turn the wheels can be heard. The train shud
 The Contortionist's voice cuts through the darkness.
 
 > *FILENAME: contortionist_4*
-> "You have done it. At long last, thanks to you, the ancient evil is banished, and this stagnant circus can come to its final end. Thank you, travelers, and farewell."
+> 
+> "You have done it. At long last, the ancient evil is banished, and the circus can come to its final end. Thank you, travelers, and farewell."
 
 Lights strobe, a steam whistle squeals, the locomotive machinery pounds, a station bell rings distantly. Cut to black again.
 
@@ -401,6 +402,7 @@ The sound of a large clock bell tolls repeatedly, reverberating everywhere. A lo
 [[Creative Technology/The Contortionist]]'s voice can be heard throughout the world.
 
 > *FILENAME: failstate*
+> 
 > "Travelers! You are doomed. You have failed to destroy the source of the ancient evil. Now you will be trapped here, frozen in time, forever."
 
 A discordant chorus of instruments slowly crescendos, growing higher in pitch, while the sound of roaring wind and fire grows deafening, and the distant thumping of something like footsteps grows ever louder. Suddenly, everything goes silent. All lights cut to black before fading back up. The players are retrieved by a game master and led to the lobby.

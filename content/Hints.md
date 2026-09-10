@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-09-08T15:24:41.994-07:00
+modified: 2026-09-09T00:45:28.713-07:00
 cssclasses: ""
 ---
 
@@ -12,6 +12,15 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 > [!NOTE]
 > If players attempt to ring a hint bell during dialogue or any scripted theatrical moment, nothing will happen and no hint will be triggered.
 # Puzzle Hints
+
+**Technical implementation note:** all hints are .wav files named using the following format:
+
+`game_hint_PUZZLENAME_hint_HINTNUMBER.wav`
+
+For example, the second hint of the Pickled Punks puzzle is `game_hint_Pickled_Punks_hint_2.wav`.
+
+When a player requests a hint on a puzzle, the system will play one of the hints for the given puzzle in numerical order.
+
 - [[Puzzles/Puzzle 1 - Opening the Tarot Table]]
 	1. "Travelers, seven of the Fortune Teller's tarot cards are scattered about the cabin. Have you found all seven?"
 	2. "Look closely at this crystal ball. You may notice symbols that can be found elsewhere on this train."
@@ -54,13 +63,13 @@ The system auto-detects which puzzle(s) are active at the time a hint is request
 	2. "Those eyes staring at you from around the circus tent... how many are there?"
 	3. "Don't forget to look inside the display case under the red cloth. Perhaps it will contribute to finding the passcode to the lock."
 - [[Puzzles/Puzzle 11 - Creating Magic Flame]]
-	1. "The ringmaster must have left some sort of note behind to explain his motives. Find it and read it carefully."
+	1. "The Ringmaster must have left some sort of note behind to explain his motives. Find it and read it carefully."
 	2. "That puzzle box seems intriguing. Maybe you can find a creative way to open it?"
 	3. "Try placing the box on the floor and spinning it quickly before removing the lid."
 - [[Puzzles/Puzzle 12 - Obtaining the Eye]]
 	1. "Read the messages on the walls carefully, travelers."
 	2. "That piece of jewelry from inside the puzzle box seems interesting. Perhaps you can use it to unlock a secret?"
-	3. "Travelers, shine the lantern on the display pedestal with the eye inside. Does anything stand out in the magical light?"
+	3. "Travelers, shine the lantern on the display pedestal with the eye inside. Does anything stand out in the magical light?" 
 - [[Puzzles/Puzzle 13 - Returning the Eye]]
 	1. "Travelers, you must return the eye by placing it inside the furnace. But its door is locked. Shine the lantern at the floor of the engine room - those runes must be necessary to cast a spell of some sort."
 	2. "My fellow performers left notes throughout the circus - five of them in total. Have you found all five? Can you combine them in some way?"
