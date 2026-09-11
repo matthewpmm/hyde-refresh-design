@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-02-22T22:59:20.485-08:00
-modified: 2026-03-19T15:16:40.667-07:00
+modified: 2026-09-10T22:51:28.836-07:00
 cssclasses: ""
 ---
 
-An important motif throughout the attraction is eyes. Fleshy growths containing tumerous eyes (see reference images) will appear in several places; the [[Props/Eye Chain]], the [[Rooms/Hall of Mirrors]] (inside an infinity mirror in [[Puzzles/Puzzle 9 - Countless Eyes]]), and prominently throughout the walls and ceiling of the [[Rooms/Engine Room]]. I'd also like smaller growths to appear throughout the remaining rooms.
+An important motif throughout the attraction is eyes. Fleshy growths containing tumerous eyes (see reference images) will appear in several places; the [[Props/Eye Chain]], the [[Rooms/Hall of Mirrors]] (inside an infinity mirror in [[Puzzles/Puzzle 8 - Countless Eyes]]), and prominently throughout the walls and ceiling of the [[Rooms/Engine Room]]. I'd also like smaller growths to appear throughout the remaining rooms.
 
 The growths indicate the places where the "Ancient One," the Lovecraftian entity that has trapped the circus in this timeless, liminal alternate dimension is peeking through the veil between worlds. This entity is incarnated in the form of the [[Props/Eye of the Ancient One]], the central MacGuffin of the experience.
 # Deliverables
-- 6 discrete eye growth sculptures to be mounted to rotating platforms for [[Puzzles/Puzzle 9 - Countless Eyes]] per the specifications listed on that page.
+- 6 discrete eye growth sculptures to be mounted to rotating platforms for [[Puzzles/Puzzle 8 - Countless Eyes]] per the specifications listed on that page.
 - Eye growths throughout the walls, ceiling, and other props of the Engine Room.
 - Several scattered eye growths in the Courtyard and Big Top.
 - A tutorial guide for they were originally sculpted for the purpose of future maintenance.

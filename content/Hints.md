@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.926-08:00
-modified: 2026-09-09T00:45:28.713-07:00
+modified: 2026-09-10T22:52:05.587-07:00
 cssclasses: ""
 ---
 
@@ -51,26 +51,26 @@ When a player requests a hint on a puzzle, the system will play one of the hints
 		1. "Travelers, you would do well to re-route the flames elsewhere first. Activate the light in the middle of the grass to get a better view of your surroundings.
 		2. "Travelers, which constellations correspond to things in this area? What do they have in common?"
 		3. "There are four knives, and four things in this courtyard that also have a knife in them. Identify what those are and you will know what constellations on the wheel to pierce. Perhaps check the tent one more time."
-- [[Puzzles/Puzzle 8 - Inverted Pyramid]]
+- [[Puzzles/Puzzle 7 - Inverted Pyramid]]
 	1. "Travelers, focus on the triangular device mounted to the wall in the hall of mirrors. What are those markings on it?"
 	2. "You must turn the wheels until all the paths are connected, with no dead ends."
-- [[Puzzles/Puzzle 9 - Countless Eyes]]
+- [[Puzzles/Puzzle 8 - Countless Eyes]]
 	1. "Travelers, what happens to the eyes on the other side of the mirror when you twist the wheels on the triangle?"
 	2. "When the eyes on the pillars face each other, they light up. What would happen if they all were to light up?"
 	3. "Keep in mind that the eyes also light up when looking at their own reflection..."
-- [[Puzzles/Puzzle 10 - Unlocking the Ringmaster's Chest]]
+- [[Puzzles/Puzzle 9 - Unlocking the Ringmaster's Chest]]
 	1. "The Ringmaster always kept his chest locked up tight. Maybe something in the tent will help you find the code to unlock it?"
 	2. "Those eyes staring at you from around the circus tent... how many are there?"
 	3. "Don't forget to look inside the display case under the red cloth. Perhaps it will contribute to finding the passcode to the lock."
-- [[Puzzles/Puzzle 11 - Creating Magic Flame]]
+- [[Puzzles/Puzzle 10 - Creating Magic Flame]]
 	1. "The Ringmaster must have left some sort of note behind to explain his motives. Find it and read it carefully."
 	2. "That puzzle box seems intriguing. Maybe you can find a creative way to open it?"
 	3. "Try placing the box on the floor and spinning it quickly before removing the lid."
-- [[Puzzles/Puzzle 12 - Obtaining the Eye]]
+- [[Puzzles/Puzzle 11 - Obtaining the Eye]]
 	1. "Read the messages on the walls carefully, travelers."
 	2. "That piece of jewelry from inside the puzzle box seems interesting. Perhaps you can use it to unlock a secret?"
 	3. "Travelers, shine the lantern on the display pedestal with the eye inside. Does anything stand out in the magical light?" 
-- [[Puzzles/Puzzle 13 - Returning the Eye]]
+- [[Puzzles/Puzzle 12 - Returning the Eye]]
 	1. "Travelers, you must return the eye by placing it inside the furnace. But its door is locked. Shine the lantern at the floor of the engine room - those runes must be necessary to cast a spell of some sort."
 	2. "My fellow performers left notes throughout the circus - five of them in total. Have you found all five? Can you combine them in some way?"
 	3. "You can assemble the notes you've found in the magic circle. Is there a way you can rotate the assembled notes to point out five unique runes?"

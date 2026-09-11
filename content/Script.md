@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-09-10T15:12:07.929-07:00
+modified: 2026-09-10T22:55:08.260-07:00
 cssclasses: ""
 ---
 
@@ -12,18 +12,18 @@ Soon after boarding a train to visit the grand reopening of Twilight Circus, you
 # Room Layout
 ![[Media/Hyde Refresh Layout v3.jpg]]
 # Puzzle Flow
-![[Media/Puzzle Flow 2-25.png]]
+![[Puzzle Flow 9-10.png]]
 # [[Rooms/Passenger Car]]
 
 Upon boarding the train, guests find themselves inside a [[Lighting/Gas Lamps\|lamp-lit]] passenger car containing four [[Props/Train Windows\|windows with fogged privacy glass]], a Tarot Table underneath a window, two chairs, and a [[Creative Technology/Contortionist's Crystal Ball\|crystal ball]] next to a small [[Creative Technology/Hint Bell\|bell]] on a table.
 
-A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever\|brake lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] Behind it is a [[Broken Valve + Valve Handle\|broken valve]] missing a handle. There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit from the train car.
+A [[Props/Brake Label\|labeled]] [[Creative Technology/Brake Lever\|brake lever]] sticks out of the floor, locked in place by a [[Props/Eye Chain\|chain covered in strange protruding fleshy growths made of eyes.]] Behind it is a [[Props/Broken Valve + Valve Handle\|broken valve]] missing a handle. There is also a locked door to another part of the train, on which is a [[Props/Engine Room Sign\|sign labeled "Engine Room,"]] and a locked door with another exit from the train car.
 
 [[Props/Hyde Circus Reopening Posters\|Posters]] advertising the upcoming reopening of Hyde Circus are pasted on the walls. Several of the posters specifically advertise a contortionist, an acrobat, and a conspicuous artifact called the [[Props/Eye of the Ancient One]]. 
 
 Mounted on the wooden supports above players' heads are six [[Creative Technology/Steam Whistle\|steam whistles]] positioned at various heights and places around the room, each with a handle hanging from it by a chain. The whistles are connected by a network of pipes.
 
-During the onboarding process, the GM hands one of the players a [[Train Ticket\|train ticket]] with six holes punched out of it indicating the current date, time, and their destination/route.
+During the onboarding process, the GM hands one of the players a [[Props/Train Ticket\|train ticket]] with six holes punched out of it indicating the current date, time, and their destination/route.
 
 Once all players have boarded the train and the GM has completed onboarding, stepped outside, and closed the door behind them, the train shudders and shakes as the engine sputters to life and the train begins moving. Lights begin to flicker past the windows faster and faster.
 
@@ -63,7 +63,7 @@ To solve the puzzle, guests must first determine the correct order of posters ba
 
 Once they have successfully placed the tarot cards, an ominous musical sting plays, all the candles on the table light up, and a drawer in the Tarot Table pops open.
 
-Inside the drawer in the tarot table is a [[Broken Valve + Valve Handle\|valve handle]] on an axle, as well as a note (the Fortune Teller's [[Props/Journal Entries\|Journal Entry]]) written on a scrap of paper. It reads:
+Inside the drawer in the tarot table is a [[Props/Broken Valve + Valve Handle\|valve handle]] on an axle, as well as a note (the Fortune Teller's [[Props/Journal Entries\|Journal Entry]]) written on a scrap of paper. It reads:
 
 > *I am troubled by the fortunes the cards have revealed to me.*
 > 
@@ -83,7 +83,7 @@ When the valve is opened, a sudden hiss plays, and all the lights in the room mo
 
 Hanging at the end of the chain connected to each steam whistle is a handle. Each chain's handle is shaped like some circus animal, act, or exhibit. When each chain is pulled, a sound plays at a unique pitch for each whistle.
 
-Also at the main table next to the [[Creative Technology/Contortionist's Crystal Ball]] is a [[Transit Map]] featuring a number of destinations of the Hyde Circus Express and the rail connections between them.
+Also at the main table next to the [[Creative Technology/Contortionist's Crystal Ball]] is a [[Props/Transit Map]] featuring a number of destinations of the Hyde Circus Express and the rail connections between them.
 
 When carefully observing the train ticket, players find that a number of lines are drawn on the back side connecting the hole punches. When the ticket is placed on the transit map with the back side facing up, it becomes possible to align the holes in the ticket with six of the stops on the transit map in a clear sequential order.
 
@@ -204,7 +204,8 @@ A locked chest next to the wheel pops open. Inside is a third [[Props/Gas Canist
 > *Curse the ringmaster. Because of that fool's greed and pride, we have been trapped here for what feels like months, maybe years. We have descended into madness and infighting.*
 >
 > *I have been conspiring with the remaining performers to take our revenge. Once we acquire enough fuel to open the sealed door, we will give him the grand finale he deserves. I'll have to sharpen my knives.*
-## [[Puzzles/Puzzle 7 - Opening the Hall of Mirrors]]
+
+----
 
 Now that players have acquired three [[Props/Gas Canister\|gas canisters]], they can fully power the gas pump by connecting all three tanks to all three connectors on the gas pump at once. Then, by turning the valve to switch to the fourth combined output pipe, the gas flow will have a long enough maximum travel distance that it becomes possible for the flame to reach the door to the [[Rooms/Hall of Mirrors]].
 
@@ -216,12 +217,12 @@ Once the flame reaches the door, a deep mechanical groaning is heard from inside
 Players venture through a set of black curtains into a dark hallway full of mirrors. A [slow, disorienting background music track](https://drive.google.com/file/d/1ruEsxIyijAx7PYEs8jlP6CBpC1r2LXrc/view?usp=drive_link) plays.
 
 A [[Creative Technology/Wheel Pyramid]] is mounted on the wall.
-## [[Puzzles/Puzzle 8 - Inverted Pyramid]]
+## [[Puzzles/Puzzle 7 - Inverted Pyramid]]
 
 The [[Creative Technology/Wheel Pyramid]] is an inverted pyramid of ten close-together rotating wheels with branching paths carved into them. A label on the pyramid reads *“All roads lead to another.”* Players must rotate the wheels by hand until there are no remaining paths not connected to a path on an adjacent wheel.
 
 Once the first phase of the puzzle is completed, the lights in the room cut off for two seconds before bright blacklights turn on behind the one-way mirrors, revealing an alien landscape and producing an infinity mirror effect, creating the appearance that the players are in an unnatural, impossible, infinite landscape.
-## [[Puzzles/Puzzle 9 - Countless Eyes]]
+## [[Puzzles/Puzzle 8 - Countless Eyes]]
 
 Once the players can see the infinity mirror tableau, the wheels on the [[Creative Technology/Wheel Pyramid]] gain the ability to rotate fluorescent [[Props/Eyeball Growths\|growths]] on the ground on the other side of the mirror, on each of which is at least one large eyeball. A label painted onto the pyramid, hidden at first, but now visible in the blacklight, reads *"All eyes yearn to meet."*
 
@@ -255,14 +256,14 @@ Also found in the room is a scrap of paper on which is the Lion Tamer's [[Props/
 > *I find myself holding the Eye of the Ancient One, that cursed artifact that doomed us all. It is warm, and calm, and it breathes softly in my arms.*
 > 
 > *And when I hold it, I can feel that this thing, this... creature... it is but a child, calling out for its mother. And its mother cries for it too.*
-## [[Puzzles/Puzzle 10 - Unlocking the Ringmaster's Chest]]
+## [[Puzzles/Puzzle 9 - Unlocking the Ringmaster's Chest]]
 
 The [[Props/Ringmaster's Trunk]] is locked by a three-digit numerical combination latch. Attached to the top of the chest is a sign displaying three different shapes arranged in the same orientation as the numerical combination dials; a circle, a thin vertical diamond-like slit, and a four-pointed star.
 
 With the Gas Lantern, guests are able to see a number of eyes with varying shapes of pupil emerging from the walls of the room. The shapes of each eye's pupil corresponds to one of the three shapes next to the combination lock.
 
 By counting the quantity of each type of pupil found in the room and placing those digits in the order the symbols are found in near the lock, the guests find the correct combination to open the chest - 953.
-## [[Puzzles/Puzzle 11 - Creating Magic Flame]]
+## [[Puzzles/Puzzle 10 - Creating Magic Flame]]
 
 Inside the Ringmaster’s chest are a variety of personal effects, including a puzzle box and the Ringmaster's [[Props/Journal Entries\|Journal Entry]], which reads as follows:
 
@@ -277,7 +278,7 @@ Inside the Ringmaster’s chest are a variety of personal effects, including a p
 The puzzle box is opened by *(TBD: puzzle box solve)*.
 
 Inside the puzzle box is a [[Props/Vial of Earthly Spice]] and the [[Ringmaster's Brooch]]. A small tube sticking out of the [[Creative Technology/Gas Lantern]] can be seen to perfectly fit the vial. When it is inserted into the lantern, the flame vanishes for a moment, then suddenly bursts into a bright violet - it is now emitting blacklight. The background music begins to build in anticipation.
-## [[Puzzles/Puzzle 12 - Obtaining the Eye]]
+## [[Puzzles/Puzzle 11 - Obtaining the Eye]]
 
 In the blacklight, the interior walls of the circus can now be seen to be [splattered with previously invisible UV-reactive fluorescent paint as though it were blood](https://pin.it/7B7srAzZT). Upon closely inspecting the walls, hidden messages such as those below are now visible and appear to have been written by the deceased performers.
 
@@ -346,7 +347,7 @@ A cacophony of voices, perhaps the spirits of the lost performers of the circus,
 > *FILENAME: ancientone_3*
 > 
 > "You prideful fools... You enter Our domain and dare to lay hands upon Our spawn? Mortals, return the child or face Our wrath! Burn! Burn! BURN!"
-## [[Puzzles/Puzzle 13 - Returning the Eye]]
+## [[Puzzles/Puzzle 12 - Returning the Eye]]
 
 On the face of the furnace are two large steel valves and a large lever. Each has a number of indecipherable arcane runes etched around or next to it. The runes are visible to the naked eye, but are clearly highlighted when the now magically-infused gas lantern is aimed at them.
 

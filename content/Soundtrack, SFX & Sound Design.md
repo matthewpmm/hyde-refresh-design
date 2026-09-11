@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-09-02T22:15:35.333-07:00
+modified: 2026-09-10T22:52:05.636-07:00
 cssclasses: ""
 ---
 
@@ -23,13 +23,13 @@ cssclasses: ""
 	2. We may mix each layer of the track differently on different speakers so that moving to different areas of the courtyard emphasizes different layers of the music.
 4. Once the [[Rooms/Hall of Mirrors]] begins to open, all background audio will fade out until the door finishes opening. Then, an even further stripped-down version of the initial courtyard ambient track (track 2) loops in the [[Rooms/Courtyard]] only, primarily composed of the ambient sounds with almost no other instrumentation.
 5. Inside the [[Rooms/Hall of Mirrors]], a surreal, slow, haunting, disorienting music track loops.
-	1. Once [[Puzzles/Puzzle 8 - Inverted Pyramid]] is solved, the track slowly fades in a second phase with more complex and percussive instrumentation.
-	2. The track should either fade out or dramatically escalate when [[Puzzles/Puzzle 9 - Countless Eyes]] is solved and the room begins to rumble.
+	1. Once [[Puzzles/Puzzle 7 - Inverted Pyramid]] is solved, the track slowly fades in a second phase with more complex and percussive instrumentation.
+	2. The track should either fade out or dramatically escalate when [[Puzzles/Puzzle 8 - Countless Eyes]] is solved and the room begins to rumble.
 	3. This is a very small space, so mixing the track in stereo may be more challenging (although is still potentially possible).
 6. After the reveal of [[Props/The Ringmaster]]'s body, a cold, moody, haunting looping background track begins as players investigate the darkened [[Rooms/Big Top (Circus Tent)]] with their [[Creative Technology/Gas Lantern]].
-	1. When [[Puzzles/Puzzle 11 - Creating Magic Flame]] is solved and the lantern begins emitting blacklight, the track should fade to a slightly more intense version.
-	2. When [[Puzzles/Puzzle 12 - Obtaining the Eye]] is solved and the [[Props/Eye of the Ancient One]] is obtained, the track should fade to a more intense version once again, ideally with some sort of choral layer now added.
-	3. When the Ankh is destroyed in [[Puzzles/Puzzle 13 - Returning the Eye\|Puzzle 12]] and smoke begins billowing out of the lantern as the big top bursts into flames, the track should reach a crescendo before pausing for [[Creative Technology/The Contortionist]]'s dialogue urging players to start the train and escape.
+	1. When [[Puzzles/Puzzle 10 - Creating Magic Flame]] is solved and the lantern begins emitting blacklight, the track should fade to a slightly more intense version.
+	2. When [[Puzzles/Puzzle 11 - Obtaining the Eye]] is solved and the [[Props/Eye of the Ancient One]] is obtained, the track should fade to a more intense version once again, ideally with some sort of choral layer now added.
+	3. When the Ankh is destroyed in [[Puzzles/Puzzle 12 - Returning the Eye\|Puzzle 12]] and smoke begins billowing out of the lantern as the big top bursts into flames, the track should reach a crescendo before pausing for [[Creative Technology/The Contortionist]]'s dialogue urging players to start the train and escape.
 7. A high-energy but still bassy and dramatic looping music track plays for the duration of [[Puzzles/BACKUP PUZZLE - Unlocking the Engine Room]] and [[Puzzle 13 - Starting the Train]], until cutting out when the train is finally started.
 8. As the lights fade up during the outro, a simply arranged, contemplative, non-looping outro/credits song begins to play. It is bittersweet - a celebration of the Travelers' victory as well as an emotional farewell to the circus and [[Creative Technology/The Contortionist]], its last survivor.
 ## SFX
@@ -52,7 +52,7 @@ The sound effects commissioned will include but are not limited to:
 - Hall of Mirrors door unlocking moment
 	- This occurs when the fuel transmitted through the gas pipes finally reaches the hall of mirrors door, triggering a mechanism to open it.
 	- This should sound extremely mechanical. There should be some low mechanical clunking and rumbling layered underneath higher-pitched clockwork and winding sounds, slowly building until suddenly cutting out and EXPLODING as the door opens. Quick fade out. The background music will fade out as this SFX starts. Only the ambient track will be left behind.
-- [[Puzzles/Puzzle 13 - Returning the Eye\|Final puzzle]]
+- [[Puzzles/Puzzle 12 - Returning the Eye\|Final puzzle]]
 	- Magical glyph selection noises (5 slight variants)
 		- This should be a kind of darkly magical shimmering sound.
 		- Triggered by rotating valves on the face of the furnace to change which magical symbols are illuminated.

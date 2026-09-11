@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-09-10T15:57:42.323-07:00
+modified: 2026-09-10T22:52:05.597-07:00
 cssclasses: ""
 ---
 
-Five torn-up scraps of paper containing journal entries and related notes can be found spread throughout the experience. Each journal entry is written from the perspective of a different character. These exist to provide additional flavor and exposition, as well as to solve [[Puzzles/Puzzle 12 - Unlocking the Engine Room]] and [[Puzzles/Puzzle 13 - Returning the Eye]].
+Five torn-up scraps of paper containing journal entries and related notes can be found spread throughout the experience. Each journal entry is written from the perspective of a different character. These exist to provide additional flavor and exposition, as well as to solve [[Puzzles/Puzzle 12 - Unlocking the Engine Room]] and [[Puzzles/Puzzle 12 - Returning the Eye]].
 # Deliverables (Original)
 - Original print-quality digital design files for each of the three journal entries subject to two rounds of revision each.
 - Two fully fabricated copies of each of the three journal entries.
