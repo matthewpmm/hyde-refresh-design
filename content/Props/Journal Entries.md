@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-09-10T15:06:21.391-07:00
+modified: 2026-09-10T15:57:42.323-07:00
 cssclasses: ""
 ---
 
@@ -69,5 +69,12 @@ Found inside the Ringmaster's Chest.
 > *I have kept a single one of the artifacts I planned to display when the circus reopened for myself - a vial of so-called "earthly spices" made by an ancient herbalist. Supposedly, these herbs reveal hidden truths when exposed to flame. Perhaps they will reveal the secret to my escape.*
 > 
 > *(Illustration of earthly spice being inserted into the gas lantern)*
+
+Fonts used:
+- [Tentang Nanti](https://www.dafont.com/tentang-nanti.font)
+- [Daniel](https://www.dafont.com/daniel.font)
+- [Pastel Crayon](https://www.dafont.com/pastel-crayon.font)
+- [Handwriting](https://www.dafont.com/handwriting-4.font)
+- [Problem Child](https://www.dafont.com/problem-child.font)
 
 #props #signage #graphic-design 
