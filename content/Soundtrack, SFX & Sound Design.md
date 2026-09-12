@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.984-08:00
-modified: 2026-09-10T22:52:05.636-07:00
+modified: 2026-09-11T17:48:02.270-07:00
 cssclasses: ""
 ---
 
@@ -91,7 +91,7 @@ These are the dialogue recordings that we could use assistance editing, normaliz
 
 > *Filename: ancientone_4*
 > 
-> "Return my child! Return them! We will again be one!"
+> "Return our child! Return them! We will again be one!"
 
 > *Filename: ancientone_5*
 > 

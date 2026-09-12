@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-05T17:10:43.948-07:00
-modified: 2026-09-10T22:55:08.260-07:00
+modified: 2026-09-11T17:48:23.587-07:00
 cssclasses: ""
 ---
 
@@ -371,7 +371,7 @@ The many voices of the Ancient One boom as a loud bell tolls and lights flash.
 
 > *Filename: ancientone_4*
 > 
-> "Return my child! Return them! We will again be one!"
+> "Return our child! Return them! We will again be one!"
 
 When the [[Props/Eye of the Ancient One]] is placed inside the firebox and the door is closed, the room bursts with light and sound. The Ancient One's eye begins to dissolve into a bright white light.
 
