@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T17:49:43.950-08:00
-modified: 2026-09-10T22:52:05.597-07:00
+modified: 2026-09-22T14:58:23.921-07:00
 cssclasses: ""
 ---
 
@@ -44,9 +44,9 @@ Found on a shelf in the Pickled Punks tent.
 
 Found inside the courtyard chest.
 
-> *Curse the ringmaster. Because of that fool's greed and pride, we have been trapped here for... who knows how long. Perhaps years. We have fallen into madness and infighting.*
+> *Curse the Ringmaster. Because of that fool's greed and pride, we have been trapped here for... who knows how long. Perhaps years. We have fallen into madness and infighting.*
 >
-> *I have been conspiring with the remaining performers to take our revenge. Once we acquire enough fuel to open the sealed door, we will give him the grand finale he deserves. I'll have to sharpen my knives.*
+> *I have been working with the remaining performers to take our revenge. Once we gather enough fuel to open the sealed door, we will give him the grand finale he deserves. I'll have to sharpen my knives.*
 ## Lion Tamer's Journal Entry (Text)
 
 Found inside the Big Top.
