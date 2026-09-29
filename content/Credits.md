@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-18T10:30:12.643-08:00
-modified: 2026-09-28T20:31:47.097-07:00
+modified: 2026-09-28T23:24:09.667-07:00
 cssclasses: ""
 ---
 
@@ -14,11 +14,11 @@ cssclasses: ""
 | Composer, Sound Designer, voice of the Ringmaster | Lavender Schaffer |
 | Associate Producer                                | Ricky Hvisch      |
 | Line Producer, Scenic Artist, addl. Scenic Design | Chris Bittle      |
-| Scenic Artist                                     | Maeve Martinez    |
+| Scenic Artist, Fabrication                        | Maeve Martinez    |
 | Scenic Artist                                     | James Sherman     |
 | Scenic Artist                                     | Alex Kowal        |
 | Scenic Painter                                    | Tyler Neufeld     |
-| Electronics Technician                            | Derek Clawson     |
+| Electronics Technician, Fabrication               | Derek Clawson     |
 | Electronics Technician, Show Programming          | Ian Rose          |
 | Creative Technology Consultant                    | Peter Helstrom    |
 | Additional Technology + Fabrication               | Grant Luecke      |
